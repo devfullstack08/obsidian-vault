@@ -8,20 +8,21 @@ status: draft
 
 Charvaka, also called Lokayata, is the materialist and heterodox school of Indian philosophy. It rejects the authority of the Vedas, God, soul, karma, rebirth, heaven, hell, and moksha. It accepts the **material world** as the only reality and sense perception as the main valid source of knowledge.
 
-## Time Period
+## Time Period and Historical Origin
 
 The exact date of Charvaka philosophy is uncertain because its original texts are mostly lost.
 
-Approximate historical placement:
+### 1. Pre-Charvaka Materialism (Was Charvaka the first?)
+No, materialism did not start with Charvaka. Materialist and skeptical ideas existed in India long before the Charvaka school was formalized (around 600 BCE or earlier, during the age of the Upanishads, early Buddhism, and Jainism):
+- **Upanishadic & Epic References:** Early texts like the Upanishads and the *Ramayana* (e.g., the sage Jabali's arguments to Rama) reference skeptics who rejected the afterlife and ritualism.
+- **Ajita Kesakambali (6th Century BCE):** A contemporary (સમકાલીન) of Buddha. He is the earliest recorded materialist thinker in India. He taught that humans are made of four elements and death is the absolute end. His teachings are seen as a forerunner to Charvaka philosophy.
+- **Brihaspati:** Traditionally regarded as the legendary founder of Indian materialism (hence it is sometimes called *Barhaspatya*).
 
-- Early roots: around 600 BCE or earlier, during the age of the Upanishads, Buddhism, and Jainism.
-- Associated teacher: Brihaspati is traditionally regarded as the founder, though this is partly legendary.
-- Buddhist period reference: Ajita Kesakambali, a contemporary (સમકાલીન) of Buddha in the 6th century BCE.
-  - Who was he? He is considered the earliest known Indian materialist philosopher.
-  - His ideas: He wore a blanket of human hair (*kesakambali*). He taught that humans are made of only four elements (earth, water, fire, air). When a person dies, these elements return to nature, and nothing remains. He rejected karma, rebirth, and life after death. This is why his teachings are seen as a forerunner to Charvaka philosophy.
-- Later discussion: Charvaka views are preserved mainly through criticism by Buddhist, Jain, Vedantic, Nyaya, and Mimamsa thinkers.
+### 2. Charvaka's Contribution
+While Charvaka was not the first to bring materialism to India, it was the first to **systematize** (વ્યવસ્થિત કરવું) these scattered ideas into a formal, structured school of philosophy (*Darshana*) with a rigorous Epistemology (Perception only) and Metaphysics.
 
-Important point: Most knowledge of Charvaka comes from opponents, so some descriptions may be exaggerated(અતિશયોક્તિપૂર્ણ).
+### 3. Preserved through Opponents
+Most of what we know about Charvaka comes from the criticisms written by opposing schools (Buddhism, Jainism, Nyaya, Vedanta). Therefore, some descriptions of their views may be exaggerated (અતિશયોક્તિપૂર્ણ).
 
 ## Meaning of Lokayata
 
