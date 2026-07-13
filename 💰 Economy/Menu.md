@@ -1,0 +1,14 @@
+
+- Basic economic concepts
+- National income
+- Inflation
+- Poverty and unemployment
+- Indian economy
+- Banking
+- Monetary policy
+- Fiscal policy
+- Budget
+- Taxation
+- Five-Year Plans
+- Economic reforms
+- Government schemes

@@ -1,0 +1,2 @@
+imperative sentence: An imperative sentence is a sentence that gives a command, request, advice, instruction, warning, or suggestion. It usually starts with the base form of the verb, and the subject “you” is understood but not written.
+	```

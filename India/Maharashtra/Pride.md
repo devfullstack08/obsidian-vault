@@ -1,0 +1,1 @@
+**Soundala village** in Maharashtra became India’s first self-declared caste-free village.

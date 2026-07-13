@@ -1,0 +1,1 @@
+Thanya Nathan C. is India’s first fully visually impaired(અશક્ત) woman to become a judge.(from Kannur district in Kerala.)

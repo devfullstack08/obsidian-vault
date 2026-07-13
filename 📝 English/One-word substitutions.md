@@ -1,0 +1,1 @@
+Here suppose in options you are thing two option are same if we put it then it also be right then the answer is 'No substitution required' otherwise most of time any answer there in option.

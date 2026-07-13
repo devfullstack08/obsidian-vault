@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b5541177a1e3d5e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb8093b74674b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dda23aa2f8f0114",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b54cd1e4ae2a067d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b8b504b1466fe73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fbbda38b66cb1be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f3cd507313a0ae0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "withstand",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba7cad9c784ea5ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbea46c9a0e05b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef675f4a2564227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd0be2ff35ccad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bbd1f987d245c3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "frfregre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from frfregre"
+            }
+          },
+          {
+            "id": "f0de46a3986f8ef0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98134a03b4eecaf7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b7b2538de482d107",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "frfregre.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of frfregre"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8dda23aa2f8f0114",
+  "lastOpenFiles": [
+    "My Self/What next?.md",
+    "Untitled.md",
+    "📦 Miscellaneous/Basic.md",
+    "📦 Miscellaneous/Gujarati/Conversation.md",
+    "My Self",
+    "📦 Miscellaneous/Gujarati",
+    "📝 English/Vocabulary/Earth & Space.md",
+    "📝 English/Vocabulary/Clarity & Understanding.md",
+    "📝 English/Vocabulary/Human Body & Medicine.md",
+    "📝 English/Vocabulary/Fraud, Theft & Corruption.md",
+    "📝 English/Vocabulary/Branches of Science.md",
+    "📜 History/Israel/United Kingdom of Israel/C1. United Kingdom of Israel.md",
+    "📜 History/Israel/United Kingdom of Israel/C8. Ottoman Rule in Jerusalem and Palestine.md",
+    "📜 History/Israel/United Kingdom of Israel/C7. Ayyubid and Mamluk Rule in Jerusalem.md",
+    "📜 History/Israel/United Kingdom of Israel/C6. Crusader Rule in Jerusalem and the First Crusade.md",
+    "📜 History/Israel/United Kingdom of Israel/C5. Muslim Conquest of Jerusalem and Early Islamic Rule.md",
+    "📜 History/Israel/Jerusalem.md",
+    "Untitled",
+    "📜 History/Israel/United Kingdom of Israel/C4. Palestine and Jerusalem During the Christian Roman or  Byzantine Period.md",
+    "📜 History/Israel/United Kingdom of Israel/C3. Control of Rome of Jerusalem or Judea.md",
+    "📜 History/Israel/United Kingdom of Israel/C2. Fall of the Kingdoms and Later Timeline.md",
+    "📜 History/Abrahamic Religions/Ancient Religions and Civilizations.md",
+    "📜 History/Abrahamic Religions/Bible.md",
+    "📜 History/Abrahamic Religions/C1. Abrahamic Religions.md",
+    "📜 History/Abrahamic Religions/Story of Prophet Ibrahim.md",
+    "📜 History/Abrahamic Religions/Relation of Prophet ishaq with israel.md",
+    "📜 History/Abrahamic Religions/Islam/C3. Prophet Muhammad’s Relationship with Jerusalem.md",
+    "📜 History/Abrahamic Religions/Islam/Day of Qiyamah or  Day of Judgment in Islam.md",
+    "Lakes in India.md",
+    "Common",
+    "📜 History/Abrahamic Religions/Judaism",
+    "📜 History/Abrahamic Religions/Islam",
+    "📜 History/Abrahamic Religions/Christians",
+    "📜 History/Abrahamic Religions",
+    "📜 History/India(Bharat)/Social and religious reform movements",
+    "📜 History/India(Bharat)/Important dynasties and rulers",
+    "Untitled.canvas"
+  ]
+}

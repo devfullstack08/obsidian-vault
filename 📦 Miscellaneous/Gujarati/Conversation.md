@@ -1,0 +1,1 @@
+As a Gujarati person, I tell you that we do not speak fluent English. Our English is Gujju-English. We put Gujarati in between English, but now we are actually putting English in between Gujarati.
