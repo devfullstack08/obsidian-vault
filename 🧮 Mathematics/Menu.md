@@ -1,5 +1,6 @@
 
 ## Quantitative Aptitude
+* [[Common Rules|Common Rules & Divisibility Rules]]
 
 ### Arithmetic
 
@@ -36,7 +37,7 @@
 - Triangles
 - Congruence and similarity
 - Triangle centres
-- Circles
+- [[All About Pi|Circles (All About Pi)]]
 - Chords and tangents
 - Quadrilaterals
 - Regular polygons
@@ -46,7 +47,7 @@
 - Triangle
 - Square
 - Rectangle
-- Circle
+- [[All About Pi|Circle (All About Pi)]]
 - Prism
 - Cylinder
 - Cone
@@ -115,3 +116,6 @@
 - Social intelligence
 - Statement and conclusion
 - Syllogism
+
+
+(When paper come then we need to first write the abcd )

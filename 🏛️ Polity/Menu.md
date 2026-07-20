@@ -1,5 +1,11 @@
 
-- Indian Constitution
+- Indian Constitution:
+  - [[Indian Constitution/Article 392 - Power of President to Remove Difficulties|Article 392 (Power to Remove Difficulties)]]
+  - [[Indian Constitution/Article 393 - Short Title|Article 393 (Short Title)]]
+  - [[Indian Constitution/Article 394 - Commencement|Article 394 (Commencement)]]
+  - [[Indian Constitution/Article 395 - Repeals|Article 395 (Repeals)]]
+  - [[Part XIV(14) - Services under the Union and the States|Part XIV (Services under the Union and the States)]]
+  - [[Indian Constitution/Sixth Schedule|Sixth Schedule (Administration of Tribal Areas)]]
 - Preamble
 - Fundamental Rights
 - Fundamental Duties
@@ -10,5 +16,6 @@
 - Supreme Court and High Courts
 - Constitutional bodies
 - Panchayati Raj
-- Centre–state relations
+- Centre–state relations:
+  - [[Centre-state relations/Inter-State Council|Inter-State Council]]
 - Elections

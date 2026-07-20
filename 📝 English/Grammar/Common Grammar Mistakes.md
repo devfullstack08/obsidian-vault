@@ -137,11 +137,11 @@ But this is correct:  Can you explain yourself?
 
 reach + place
 
-| Incorrect | Correct |
-|---|---|
-| I reached at school. | I reached school. |
-| He reached at home. | He reached home. |
-| We reached to Delhi. | We reached Delhi. |
+| Incorrect                    | Correct                   |
+| ---------------------------- | ------------------------- |
+| I reached at school.         | I reached school.         |
+| He reached at home.          | He reached home.          |
+| We reached to Delhi.         | We reached Delhi.         |
 | They reached at the station. | They reached the station. |
 
 #### But with “arrive,” use “at/in”
@@ -175,3 +175,16 @@ The sun rises in the east.
 Water boils at 100°C.
 The Earth revolves around the Sun.
 When a plastic comb is rubbed on dry hair, it acquires a static charge.
+
+### Rules 12: Affect vs. Effect
+
+Affect = verb = to influence (Action)
+Effect = noun = result or consequence(End result)
+
+| Incorrect                       | Correct                         |
+| ------------------------------- | ------------------------------- |
+| The weather effected the match. | The weather affected the match. |
+| The medicine had a good affect. | The medicine had a good effect. |
+| This will have no affect on me. | This will have no effect on me. |
+| We reached to Delhi.            | We reached Delhi.               |
+| They reached at the station.    | They reached the station.       |
