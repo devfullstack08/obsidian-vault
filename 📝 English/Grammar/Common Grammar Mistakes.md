@@ -188,3 +188,8 @@ Effect = noun = result or consequence(End result)
 | This will have no affect on me. | This will have no effect on me. |
 | We reached to Delhi.            | We reached Delhi.               |
 | They reached at the station.    | They reached the station.       |
+
+
+A conjunction is **not required** before either “become” or “became.” It depends on the sentence.
+
+Rules 13: After help most of time we use ing form verb can I right 

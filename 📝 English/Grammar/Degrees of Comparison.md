@@ -441,21 +441,11 @@ one of the + superlative adjective + plural noun
 
 Examples:
 
-- Gujarat is one of the most developed states in India.
+- Gujarat is one of the **most** developed **states** in India.
     
-- He is one of the best players on the team.
+- He is one of the **best** **players** on the team.
     
-- This is one of the most useful books.
-    
-
-Incorrect:
-
-- one of the best player
-    
-
-Correct:
-
-- one of the best players
+- This is one of the **most** useful **books**.
     
 
 ---

@@ -1,2 +1,357 @@
 1. First think about given sentence is facts, universal truths, scientific facts, habits, or general truths.
 2. check used noun is plural and singular.
+
+### Step 1: Read the complete sentence
+
+Do not look only at the underlined part. Read the entire sentence because the error may depend on:
+
+- Subject
+- Tense
+- Time expression
+- Preposition
+- Pronoun
+- Meaning of the sentence
+### Step 2: Find the subject and main verb
+
+Ask:
+
+- Who is doing the action?
+- Is the subject singular or plural?
+- Does the verb agree with it?
+
+#### Example
+
+| Incorrect                                         | Correct                                         | why                                    |
+| ------------------------------------------------- | ----------------------------------------------- | -------------------------------------- |
+| Each of the students **have** submitted the form. | Each of the students **has** submitted the form | Subject = **Each**, which is singular. |
+|                                                   |                                                 |                                        |
+|                                                   |                                                 |                                        |
+|                                                   |                                                 |                                        |
+
+### Step 3: Look for a time indicator
+
+Time words often tell you which tense to use.
+
+| Time indicator                                              | Common tense                                                                                                                                                             |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Yesterday, last week, ago                                   | Simple past                                                                                                                                                              |
+| Since, for                                                  | Present perfect / perfect continuous                                                                                                                                     |
+| Already, just, yet                                          | Present perfect                                                                                                                                                          |
+| Every day, usually, always                                  | Simple present                                                                                                                                                           |
+| Now, at present                                             | Present continuous                                                                                                                                                       |
+| By next year                                                | Future perfect                                                                                                                                                           |
+| When/while + past action                                    | Past tense combinations                                                                                                                                                  |
+| A lifetime(refers to a very long period viewed as a whole.) | - He has been spending a lifetime inbibing his local club history . can his sentence is right .<br><br>- He has spent a lifetime imbibing the history of his local club. |
+|                                                             |                                                                                                                                                                          |
+
+#### Example
+
+| Incorrect                         | Correct                                 |
+| --------------------------------- | --------------------------------------- |
+| He is living here **since 2020**. | He **has been living** here since 2020. |
+
+### Step 4: Check the grammatical structure
+
+Check whether the sentence follows the correct pattern:
+
+- Subject + verb agreement
+- Correct tense
+- Correct pronoun
+- Correct preposition
+- Correct article
+- Correct comparison
+- Correct conditional
+- Correct infinitive or gerund
+- Correct parallel structure
+
+
+### Step 5: Check meaning and natural usage
+
+A grammatically possible phrase may still be unnatural.
+
+| Unnatural / Incorrect  | Natural / Correct   |
+| ---------------------- | ------------------- |
+| do a mistake           | make a mistake      |
+| make homework          | do homework         |
+| do a decision          | make a decision     |
+| make exercise          | do exercise         |
+| give an exam           | take an exam        |
+| take a party           | have a party        |
+| make a photo           | take a photo        |
+| do money               | make money          |
+| say a joke             | tell a joke         |
+| tell the truth wrongly | tell a lie          |
+| strong rain            | heavy rain          |
+| big rain               | heavy rain          |
+| fast shower            | quick shower        |
+| high temperature tea   | hot tea             |
+| powerful tea           | strong tea          |
+| hard traffic           | heavy traffic       |
+| big sleep              | deep sleep          |
+| strong wind            | high/strong wind    |
+| do progress            | make progress       |
+| make research          | do/conduct research |
+| do a promise           | make a promise      |
+| make a crime           | commit a crime      |
+| do attention           | pay attention       |
+| take attention         | attract attention   |
+| give respect           | show respect        |
+| open the light         | turn on the light   |
+| close the light        | turn off the light  |
+| catch a decision       | reach a decision    |
+| lose the bus           | miss the bus        |
+| pass time              | spend time          |
+
+### Step 6: Compare all the options
+
+Do not select the first option that looks correct. Another option may be more precise.
+
+Check every option for:
+
+- Grammar
+- Meaning
+- Tense
+- Conciseness
+- Natural usage
+
+### Step 7: Read the corrected sentence again
+
+Insert your selected option into the complete sentence and read it.
+
+Ask:
+
+> Does the complete sentence now sound correct and logical?
+
+### Rule 1: Subject–Verb Agreement
+
+A singular subject takes a singular verb, while a plural subject takes a plural verb.
+> He **works** hard.  
+> They **work** hard.
+
+Each, every, either, neither = singular
+Everyone, someone, nobody, anybody = singular
+“One of the” + plural noun + singular verb
+“A number of” = plural
+“The number of” = singular
+Along with, as well as, together withThe verb agrees with the first subject.
+Either...or / neither...norThe verb usually agrees with the nearest subject.
+
+### Rule 2: Tense
+
+#### Simple past with finished past time
+
+> I **met** him yesterday.
+
+Not:
+
+> I have met him yesterday.
+
+#### Present perfect with since/for
+
+> She **has lived** here for five years.
+
+#### Past perfect for the earlier of two past actions
+
+> The train **had left** before we reached the station.
+
+#### Future after when, until, unless, as soon as
+
+Do not normally use “will” in the subordinate clause.
+
+> I will call you when I **reach** home.
+
+Not:
+
+> When I will reach home.
+> 
+### Rule 3: Articles
+### Rule 4: Prepositions
+### Rule 5: Pronouns
+
+A pronoun must agree with its noun.
+
+> Every student must bring **his or her/their** identity card.
+
+#### Subject and object forms
+
+> You and **I** will go.  
+> The teacher called Ravi and **me**.
+
+#### Reflexive pronouns
+
+Use myself, himself, herself, etc., when the subject and object refer to the same person.
+
+> He blamed **himself**.
+
+Do not say:
+
+> Myself Vivek.
+
+Say:
+
+> I am Vivek.  
+> My name is Vivek.
+### Rule 6: Adjective and Adverb
+
+An adjective describes a noun.
+
+> She is a **careful** driver.
+
+An adverb describes a verb.
+
+> She drives **carefully**.
+
+#### Common error
+
+> He speaks English **fluent**.
+
+Correct:
+
+> He speaks English **fluently**.
+
+### Rule 7: Comparison
+
+#### Comparative + than
+
+> Rahul is taller **than** Amit.
+
+#### “Senior, junior, superior, inferior” + to
+
+> She is senior **to** me.
+
+#### Double comparative is incorrect
+
+Incorrect:
+
+> more better  
+> more easier  
+> most strongest
+
+Correct:
+
+> better  
+> easier  
+> strongest
+
+#### One of the + superlative + plural noun
+
+> Mumbai is one of the largest **cities** in India.
+
+#### Any other
+
+> Delhi is larger than any other city in India.
+
+### Rule 8: Gerund and Infinitive
+
+Some verbs take a gerund:
+
+- Enjoy doing
+- Avoid doing
+- Admit doing
+- Consider doing
+- Finish doing
+- Mind doing
+- Suggest doing
+- Practise doing
+
+> She enjoys **reading**.
+
+Some verbs take an infinitive:
+
+- Decide to do
+- Refuse to do
+- Want to do
+- Hope to do
+- Agree to do
+- Promise to do
+
+> He decided **to leave**.
+
+#### Important expressions
+
+> Look forward to **meeting** you.  
+> Used to **play**.  
+> Be used to **working**.  
+> Prevent someone from **doing** something.
+> 
+### Rule 9: Conditionals
+
+#### First conditional
+
+> If you work hard, you **will succeed**.
+
+#### Second conditional
+
+> If I were rich, I **would help** the poor.
+
+#### Third conditional
+
+> If he had studied, he **would have passed**.
+
+#### Unless = if not
+
+Incorrect:
+
+> Unless you do not work hard, you will fail.
+
+Correct:
+
+> Unless you work hard, you will fail.
+
+### Rule 10: Modals
+
+After a modal verb, use the base form.
+
+> He can **speak** English.
+
+Not:
+
+> can speaks  
+> can spoke  
+> can to speak
+
+#### Modal perfect
+
+> He should have **worked** harder.
+
+Not:
+
+> should have work
+> 
+### Rule 11: Parallel Structure
+
+Words connected by “and,” “or,” “but,” “not only...but also” should have the same grammatical form.
+
+Incorrect:
+
+> She likes reading, dancing and **to sing**.
+
+Correct:
+
+> She likes reading, dancing and **singing**.
+
+### Rule 12: Redundancy
+Avoid unnecessary repetition.
+
+| Incorrect           | Correct        |
+| ------------------- | -------------- |
+| return back         | return         |
+| repeat again        | repeat         |
+| discuss about       | discuss        |
+| enter into the room | enter the room |
+| more preferable     | preferable     |
+| final conclusion    | conclusion     |
+| mutual cooperation  | cooperation    |
+| revert back         | revert/reply   |
+| past history        | history        |
+| free gift           | gift           |
+
+### Rule 13: Conjunctions
+
+| Conjunction                      | Incorrect                                         | correct                                                   |
+| -------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
+| Although/though do not use “but” | Although he was tired, but he continued working.  | Although he was tired, he continued working.              |
+| Because — do not use “therefore” | Because it was raining, therefore we stayed home. | Because it was raining, we stayed home.                   |
+| No sooner...than                 |                                                   | No sooner had he arrived **than** it started raining.     |
+| Hardly/scarcely...when           |                                                   | Hardly had I reached the station **when** the train left. |
+
