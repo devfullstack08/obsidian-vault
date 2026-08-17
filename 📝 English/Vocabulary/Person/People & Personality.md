@@ -18,18 +18,19 @@
 
 ## 2. Habit & Lifestyle
 
-| Word                                                              | Type | Meaning                                                                    |
-| ----------------------------------------------------------------- | ---- | -------------------------------------------------------------------------- |
-| Epicure                                                           | Noun | A person who enjoys fine food and drink.                                   |
-| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun | A person who eats excessively and greedily.                                |
-| Teetotaler                                                        | Noun | A person who never drinks alcohol.<br>- nondrinker, abstainer              |
-| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun | A person who walks while sleeping.                                         |
-| Vegetarian                                                        | Noun | A person who does not eat meat.                                            |
-| Vegan                                                             | Noun | A person who does not eat or use animal products.                          |
-| Nomad                                                             | Noun | A person or group that moves from place to place without a permanent home. |
-| Recluse                                                           | Noun | A person who avoids society and lives alone.                               |
-| Spendthrift                                                       | Noun | A person who spends money carelessly.                                      |
-| Miser                                                             | Noun | A person who loves money and hates spending it.                            |
+| Word                                                              | Type | Meaning                                                                                            |
+| ----------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------- |
+| Epicure                                                           | Noun | A person who enjoys fine food and drink.                                                           |
+| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun | A person who eats excessively and greedily.                                                        |
+| Teetotaler                                                        | Noun | A person who never drinks alcohol.<br>- nondrinker, abstainer                                      |
+| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun | A person who walks while sleeping.                                                                 |
+| Vegetarian                                                        | Noun | A person who does not eat meat.                                                                    |
+| Vegan                                                             | Noun | A person who does not eat or use animal products.                                                  |
+| Nomad                                                             | Noun | A person or group that moves from place to place without a permanent home.                         |
+| Recluse                                                           | Noun | A person who avoids society and lives alone.                                                       |
+| Spendthrift                                                       | Noun | A person who spends money carelessly.                                                              |
+| Miser                                                             | Noun | A person who loves money and hates spending it.                                                    |
+| swallow(ગળી જવું)                                                 | verb | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe, |
 
 ## 3. Character & Personality
 
@@ -57,6 +58,7 @@
 | insatiable(અતિલોભી)<br>satiable (સંતોષકારક)                                   | Adjective      | (of an appetite or desire) impossible to satisfy.<br><br>લાલચુ - covetous, avaricious, greedy, rapacious, Insatiable<br>\|સદા અતૃપ્ત - Insatiable<br>અતિલોભી - ravenous,Insatiable                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Insistent(આગ્રહી)                                                             |                | insisting or demanding something; not allowing refusal.<br>plead                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Prude(નમ્ર)                                                                   | Noun           | - A person who is or claims to be easily shocked by matters relating to sex or nudity.<br>- the sex was so ambiguous and romantic that none but a **prude** could find it objectionable<br><br><br>Synonyms:<br><br>- puritan<br>- prig<br>- killjoy<br>- moral zealot/fanatic<br>- moralist<br>- Mrs. Grundy<br>- Grundy<br>- old maid<br>- schoolmarm<br>- pietist<br>- Victorian<br>- priggish(અસ્પષ્ટ) person<br>- bluenose<br><br>informal:<br>- goody-goody<br>- goody two shoes<br>- holy Joe, holy Willie, Miss Prim                                                                                                                                   |
+|                                                                               |                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 ## 4. Knowledge & Skill
 
 | Word                                       | Type           | Meaning                                                                 |
@@ -166,6 +168,7 @@
 | Adequate(પૂરતું)<br>Inadequate                                 | Adjective         | - Satisfactory or acceptable in quality or quantity.<br>- e.g this office is perfectly adequate for my needs<br><br>Synonyms:<br>- sufficient, enough, ample                                                                                                                                                                                                                                                                                               |
 | compel(ફરજ પાડવી)                                              | verb              | force or oblige (someone) to do something.                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | composure(સંયમ)<br>compose(રચના કરવી)                          | Noun              | - The state or feeling of being calm and in control of oneself.<br>- e.g she was struggling to regain her composure                                                                                                                                                                                                                                                                                                                                        |
+| callously(કઠોરતાથી)                                            | Adverb            | In a way that shows an insensitive and cruel disregard for others; unfeelingly.                                                                                                                                                                                                                                                                                                                                                                            |
 
 # 10. Opinion 
 

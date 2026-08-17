@@ -1,0 +1,12 @@
+Cyanide is dangerous enough that I can explain the toxicology, detection limits, legitimate uses, and forensic/medical case-study side — but not how to hide it in food, what amount would work, or how to make poisoning harder to detect.
+
+On your first question: **you cannot rely on taste or smell to detect cyanide in food.** Some cyanide compounds may have a characteristic odor, but odor is unreliable, and a significant fraction of people cannot detect hydrogen cyanide’s odor at all. Rapid “odor fatigue” can also occur.So “the food tastes normal” does **not** prove it is safe. CDC specifically advises not to eat food that smells, tastes, or looks unusual when cyanide contamination is suspected.
+
+Medically, cyanide is dangerous because it interferes with the body’s ability to use oxygen at the cellular level. Exposure can occur by **inhalation, ingestion, skin absorption, or eye/skin contact**, depending on the compound. Symptoms can include headache, weakness, confusion, nausea, breathing problems, collapse, seizures, and severe cardiovascular effects; high exposure can become life-threatening very quickly.
+
+Cyanide also has **legitimate(કાયદેસર) industrial uses**. Cyanide compounds are used in controlled industrial processes such as metal processing(polishing the metal) and electroplating, and workers in those settings are subject to strict occupational exposure controls. OSHA and NIOSH publish exposure limits, monitoring methods, protective-equipment guidance, and emergency procedures specifically because these substances are hazardous.
+
+
+A useful “case study” framework is this: cyanide poisoning may arise from **industrial accidents, fires/smoke exposure, accidental ingestion, or deliberate poisoning**. Fire smoke is an especially important real-world source because combustion of certain nitrogen-containing materials can generate cyanide.Clinically, doctors treat suspected cyanide exposure as an emergency and do not wait for a person to “taste” or “smell” something unusual before acting.
+
+For forensic study, the important lesson is: **cyanide is not a magically undetectable “silent murder” poison.** Investigators can use scene evidence, symptoms, toxicology testing, and laboratory analysis. The popular “bitter almond smell” clue is especially unreliable.
