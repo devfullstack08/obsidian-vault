@@ -15,3 +15,8 @@
 |        |        |        |
 |        |        |        |
 |        |        |        |
+
+
+Adjective 
+Intelligent
+hardworking 

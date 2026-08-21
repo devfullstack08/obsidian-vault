@@ -9,11 +9,11 @@
 | He go to school.     | He goes to school.     |     |
 | She do not like tea. | She does not like tea. |     |
 
-| Correct                                    |
-| ------------------------------------------ |
-| I/You/We/They **play** every day.          |
-| He/She **plays** every day.                |
-| Riya **watches** television every evening. |
+| Correct                                    |     |
+| ------------------------------------------ | --- |
+| I/You/We/They **play** every day.          |     |
+| He/She **plays** every day.                |     |
+| Riya **watches** television every evening. |     |
 
 ### Rules 2.  am is used before: adjective / noun / -ing verb
 
@@ -51,35 +51,6 @@
 | She did not ate. | She did not eat. |
 | They did not played. | They did not play. |
 | Did you went? | Did you go? |
-
-### Rules 5. With words like senior, junior, superior, inferior, prior, we use to, not than.
-
-Because **senior** already has a comparative meaning: **higher in age, position, rank, or experience**.
-
-| Word | Correct Preposition |
-|---|---|
-| senior | to |
-| junior | to |
-| superior | to |
-| inferior | to |
-| prior | to |
-
-| Incorrect                               | Correct                               |
-| --------------------------------------- | ------------------------------------- |
-| He is senior than me.                   | He is senior to me.                   |
-| She is junior than me.                  | She is junior to me.                  |
-| This product is superior than that one. | This product is superior to that one. |
-| This quality is inferior than that one. | This quality is inferior to that one. |
-| This event happened prior than that.    | This event happened prior to that.    |
-
-But with normal comparative adjectives, use “than”
-
-| Word | Correct Sentence |
-|---|---|
-| older | He is older than me. |
-| taller | He is taller than me. |
-| smarter | She is smarter than me. |
-| better | This is better than that. |
 
 ### Rules 6. When used Many, Much and a lot of 
 
@@ -193,3 +164,27 @@ Effect = noun = result or consequence(End result)
 A conjunction is **not required** before either “become” or “became.” It depends on the sentence.
 
 Rules 13: After help most of time we use ing form verb can I right 
+
+
+### Rules 14.  Each/ Every / Everyone / Everybody - singular verb
+
+| Incorrect                                                 | Correct                                                                                                                      |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Each of the students **have** submitted their assignment. | - Each of the students **has** submitted their assignment.<br><br>- All of the students **have** submitted their assignments |
+| Everyone in the rooms **were** ready.                     | Everyone in the room **was** ready                                                                                           |
+
+### Rules 15. Adjective and Adverb
+
+Use an adverb to modify a verb
+
+Examples:
+
+- speak **clearly**
+- work **carefully**
+- perform **well**
+- sing **beautifully**
+
+| Incorrect                         | Correct                         |
+| --------------------------------- | ------------------------------- |
+| She sings very **beautiful**.     | She sings very **beautiful**ly. |
+| He performed **good** in th test. | He performed well in the test.  |

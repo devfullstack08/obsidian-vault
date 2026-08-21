@@ -4,3 +4,4 @@
 | be + V-ing     | Continuous tense    |
 | be + adjective | Description         |
 | be + noun      | Identity/profession |
+|                |                     |

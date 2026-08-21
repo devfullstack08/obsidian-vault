@@ -1,11 +1,11 @@
 
-### “A” before a consonant sound
+### “A” before a consonant sound(Choose by sound, not by spelling)
 
 > a university  
 > a European  
 > a one-eyed man
 
-### “An” before a vowel sound
+### “An” before a vowel(A, E, I, O, U) sound(Choose by sound, not by spelling)
 
 > an hour  
 > an honest person  

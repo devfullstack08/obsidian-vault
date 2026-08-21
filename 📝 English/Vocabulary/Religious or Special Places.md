@@ -17,3 +17,12 @@
 | Hermitage                                          | Noun | A place where a hermit(સંન્યાસી) lives.                                                                                                                                                               |     |
 | Sanctuary                                          | Noun | A holy or protected place.                                                                                                                                                                            |     |
 | Mausoleum(કબર)                                     | Noun | A large tomb, usually for an important person.                                                                                                                                                        |     |
+
+
+
+Critian 
+
+| Word                             | Type | Meaning                                                                                          |     |
+| -------------------------------- | ---- | ------------------------------------------------------------------------------------------------ | --- |
+| venerate(પૂજન કરવું)             | Noun | - Regard with great respect; revere.<br>- Mother Teresa is venerated as a saint<br>- hold sacred |     |
+| canonize(સંત તરીકે માન્યતા આપવી) | verb | (in the Roman Catholic Church) officially declare (a dead person) to be a saint.                 |     |
