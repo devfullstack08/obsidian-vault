@@ -16,3 +16,9 @@
 | vulva(women)(યોનિમુખ)                   | Noun | the female external genitals.                               |
 
 Or
+
+### Physical Strength
+
+| Word          | Type      | Meaning                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| feeble(નબળું) | Adjective | lacking physical strength, especially as a result of age or illness.<br><br>Synonyms:<br>- enfeebled<br>- weak, weakly, weakened, puny, wasted<br>- frail, infirm<br>- delicate<br>- sickly, ailing<br>- unwell, poorly, failing<br>- helpless, powerless<br>- impotent<br>- enervated, debilitated, incapacitated, effete<br>- decrepit, doddering, doddery<br>- tottering, tottery, shaky<br>- trembling, trembly, shilpit |

@@ -1,15 +1,15 @@
 
 ### “A” before a consonant sound(Choose by sound, not by spelling)
 
-> a university  
-> a European  
-> a one-eyed man
+> a university → starts with **/y/** sound  
+> a European → starts with **/y/** sound  
+> a one-eyed man  → starts with **/w/** sound
 
 ### “An” before a vowel(A, E, I, O, U) sound(Choose by sound, not by spelling)
 
-> an hour  
-> an honest person  
-> an MLA
+> an hour (**h is silent**) 
+> an honest(**h is silent**) person  
+> an MLA -> pronounced **em-el-ay**, so it starts with a vowel sound
 
 ### “The” for something specific or unique
 

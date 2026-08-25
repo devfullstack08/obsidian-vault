@@ -78,3 +78,8 @@ But with normal comparative adjectives, use “than”
 | taller  | He is taller than me.     |
 | smarter | She is smarter than me.   |
 | better  | This is better than that. |
+
+
+| Word    | When we use                                                             |
+| ------- | ----------------------------------------------------------------------- |
+| from    | (દૂર રાખવા માંગતા હોય ત્યારે) -> keep it away -> then there it must use |

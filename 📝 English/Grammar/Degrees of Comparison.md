@@ -65,6 +65,11 @@ Examples:
 - He is not so strong as his brother.
     
 
+### with **as well as**, we generally choose the verb according to **S1 (the first/main subject)**.
+Suraj(s1), as well as his friends(s2) **Was* arrested. 
+Suraj and his friends were arrested.
+
+
 ---
 
 ## 2. Comparative Degree

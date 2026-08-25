@@ -1,0 +1,12 @@
+| V1    | V2    | V3      |
+| ----- | ----- | ------- |
+| write | wrote | written |
+| eat   | ate   | eaten   |
+| take  | took  | taken   |
+| do    | did   | done    |
+| make  | made  | made    |
+| see   | saw   | seen    |
+| give  | gave  | given   |
+| build | built | built   |
+| speak | spoke | spoken  |
+| break | broke | broken  |

@@ -31,3 +31,23 @@
 - National and international organisations
 
 Budget 
+
+
+# Current Affairs
+
+Prepare major events related to:
+
+- National affairs
+- International affairs
+- Government schemes
+- Appointments
+- Awards
+- Sports
+- Books and authors
+- Defence
+- Science and technology
+- Important organizations
+- Summits
+- Reports and indexes
+- Economy
+- Important days
