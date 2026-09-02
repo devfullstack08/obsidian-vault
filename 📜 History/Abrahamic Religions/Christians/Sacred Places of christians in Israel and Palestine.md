@@ -48,8 +48,8 @@ According to Christian tradition, Jesus Christ was born in Bethlehem.
 
 ## Main Sacred Site
 
-| Site | Importance |
-|---|---|
+| Site                   | Importance                      |
+| ---------------------- | ------------------------------- |
 | Church of the Nativity | Traditional birthplace of Jesus |
 
 ## Exam Point

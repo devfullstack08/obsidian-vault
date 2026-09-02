@@ -298,4 +298,194 @@ concerning allegedly forged will
 Current:
 Trial/proceedings ongoing
 No final conviction in all six cases yet
-e
+
+### 4.  Indian Predator: Murder in a Courtroom — Akku Yadav Case
+
+#### Basic Information
+
+- **Case:** Akku Yadav Murder Case
+- **Location:** Kasturba Nagar, Nagpur, Maharashtra
+- **Year:** 2004
+- **Victim of the courtroom killing:** Bharat alias Akku Kalicharan Yadav
+- **Date of killing:** 13 August 2004
+- **Place of killing:** Nagpur court premises
+- **Netflix Documentary:** *Indian Predator: Murder in a Courtroom*
+- **Released:** 2022
+- **Episodes:** 3
+- **Director:** Umesh Vinayak Kulkarni
+
+The Netflix documentary tells the story of a community in Kasturba Nagar that said it had lived in fear of Akku Yadav and his gang for years.
+
+---
+
+#### Who Was Akku Yadav?
+
+His full name was:
+
+**Bharat alias Akku Kalicharan Yadav**
+
+He was a local gangster operating in Nagpur.
+
+According to reports cited by *The Indian Express*, he had been charged in **26 criminal cases** by the time of his death.
+
+The allegations against him included:
+
+- Murder
+- Gang rape
+- Sexual assault
+- Armed robbery
+- Extortion
+- Housebreaking
+- Criminal intimidation
+- Harassment of local residents
+
+Many of the people who accused him were residents of **Kasturba Nagar**, including women from the local Dalit community.
+
+---
+#### Why Was the Community Afraid of Him?
+
+Residents alleged that Akku Yadav and his associates terrorized the area for years.
+
+Women in particular accused him of:
+
+- Sexual violence
+- Threats
+- Physical attacks
+- Intimidation
+- Entering homes
+- Extortion
+
+The documentary focuses heavily on the experiences of women who said they had received little effective protection from the police.
+
+---
+#### Role of Usha Narayane
+
+One important person in the story was **Usha Narayane**.
+
+She publicly challenged Akku Yadav after he allegedly threatened her.
+
+According to reports, after resistance from Usha and other residents, the community became increasingly organized against him.
+
+A press conference was held on **4 August 2004** to bring attention to the allegations.
+
+A mass complaint signed by **96 residents** was later submitted to police.
+
+---
+#### Akku Yadav's Arrest
+
+By early August 2004, anger against him had increased sharply.
+
+He came into police custody on:
+
+**7 August 2004**
+
+Some accounts suggest that he may have surrendered because he feared retaliation from local residents. 
+
+---
+#### Courtroom Killing
+
+#### Date
+
+**13 August 2004**
+
+Akku Yadav was brought to court in Nagpur.
+
+A large crowd, including many women from Kasturba Nagar, entered the court premises.
+
+Reports give different estimates of the crowd size, ranging roughly from **200 to 500 people**.
+
+He was attacked inside the court complex and died there.
+
+The post-mortem reportedly recorded **74 injuries** on his body.
+
+---
+
+#### Why Is the Case Famous?
+
+The case attracted national attention because:
+
+- The killing happened **inside a court complex**.
+- Many of the participants were reportedly women.
+- The community claimed that the criminal justice system had repeatedly failed to protect them.
+- It created a major debate about **vigilante justice vs rule of law**.
+
+---
+
+#### What Happened After the Killing?
+
+Police initially detained several women from Kasturba Nagar.
+
+Later, a larger group of people were arrested on charges including:
+
+- Murder
+- Rioting
+- Unlawful assembly
+
+The investigation was later transferred to the **Crime Investigation Department (CID)**.
+
+A chargesheet was filed in December 2004.
+
+---
+
+#### Major Issues Raised by the Case
+
+##### 1. Failure of Police Protection
+
+Residents alleged that authorities had failed for years to stop Akku Yadav's criminal activities.
+
+This is one of the central themes of the Netflix documentary. :contentReference[oaicite:7]{index=7}
+
+---
+##### 2. Women's Collective Resistance
+
+The case became widely associated with women collectively confronting a person they said had terrorized them.
+
+Because of this, some people viewed the event as an act of resistance.
+
+However, legally, killing a person outside the judicial process is still **vigilante violence**.
+
+---
+
+#### 3. Vigilante Justice
+
+##### Vigilante Justice
+
+When ordinary people punish someone themselves instead of allowing the legal system to decide guilt and punishment.
+
+The Akku Yadav case raises an important question:
+
+> What happens when people lose faith in the police and courts?
+
+The case does **not** make mob killing legally acceptable, but it highlights the serious consequences that can arise when communities believe institutions have failed them.
+
+---
+
+#### 4. Dalit and Social Issues
+
+Many residents of Kasturba Nagar were from marginalized Dalit communities.
+
+The documentary and later commentary also discuss:
+
+- Poverty
+- Social inequality
+- Lack of police protection
+- Gender-based violence
+- Marginalization
+
+These social conditions are important for understanding why anger against Akku Yadav became so intense.
+
+---
+
+#### Important Dates
+
+| Date | Event |
+|---|---|
+| **4 August 2004** | Press conference highlighting allegations against Akku Yadav |
+| **6 August 2004** | Mass complaint by residents |
+| **7 August 2004** | Akku Yadav taken into police custody |
+| **10 August 2004** | Earlier attempt to attack him at court was reportedly prevented |
+| **13 August 2004** | Akku Yadav killed at Nagpur court |
+| **December 2004** | CID chargesheet filed |
+
+
+
