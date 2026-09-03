@@ -73,6 +73,57 @@ Incorrect: This book is **my**.
 Correct: That is **their** car. / That car is **theirs**.  
 Incorrect: That is **theirs** car.
 
+### Reflexive pronoun
+
+A **reflexive pronoun** is used when the **subject and the object are the same person or thing**. The action comes back to the doer.
+
+- myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
+
+Examples:
+
+- He blamed **himself**.
+- She taught **herself** English.
+- I hurt **myself**.
+- They enjoyed **themselves**.
+
+| Person | Subject / object pronoun | Reflexive pronoun |
+| ------ | ------------------------ | ----------------- |
+| I      | I / me                   | myself            |
+| You    | you                      | yourself          |
+| He     | he / him                 | himself           |
+| She    | she / her                | herself           |
+| It     | it                       | itself            |
+| We     | we / us                  | ourselves         |
+| You    | you (plural)             | yourselves        |
+| They   | they / them              | themselves        |
+
+Easy memory:
+
+**Same person does the action and receives the action → reflexive pronoun**
+
+Correct: He cut **himself**.  
+Incorrect: He cut **him**. _(this means he cut another person)_
+
+Correct: I am Vivek. / My name is Vivek.  
+Incorrect: **Myself** Vivek.
+
+Correct: Rahul and **I** went home.  
+Incorrect: Rahul and **myself** went home.
+
+**By + reflexive** means *alone / without help*:
+
+- He did the work **by himself**.
+- She lives **by herself**.
+
+The same words can also be **emphasizing pronouns**. Then they only add extra stress. You can remove them, and the sentence is still correct.
+
+- I **myself** cooked the food. → I cooked the food. ✅
+- The king **himself** came. → The king came. ✅
+
+| Type            | Job                               | Can you remove it? | Example                    |
+| --------------- | --------------------------------- | ------------------ | -------------------------- |
+| **Reflexive**   | Object is the same as the subject | No                 | He blamed **himself**.     |
+| **Emphasizing** | Extra stress / “personally”       | Yes                | He **himself** blamed her. |
 
 ### Rules to keep in mind
 
@@ -96,3 +147,7 @@ Incorrect: That is **theirs** car.
     **My** book = _my_ comes before a noun.  
     The book is **mine** = _mine_ stands alone.  
     Also remember: **its** = possession, **it’s** = it is / it has.
+7. Use a **reflexive pronoun** only when the subject and object are the same person.  
+    Correct: She taught **herself**.  
+    Incorrect: **Myself** went there.  
+    Incorrect: Please contact Rahul or **myself**. → Please contact Rahul or **me**.
