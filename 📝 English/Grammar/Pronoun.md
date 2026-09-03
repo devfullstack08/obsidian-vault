@@ -9,16 +9,69 @@ For example:
 
 **Pronoun case** means the form of the pronoun changes depending on its job in the sentence.
 
-| Pronoun case        | Used as                         | Common pronouns                                       | Example                                       |
-| ------------------- | ------------------------------- | ----------------------------------------------------- | --------------------------------------------- |
-| **Subjective case** | Subject of the sentence         | I, we, he, she, they, who                             | **She** is studying.                          |
-| **Objective case**  | Object of a verb or preposition | me, us, him, her, them, whom                          | He called **me**.                             |
-| **Possessive case** | Shows ownership                 | my/mine, our/ours, his, her/hers, their/theirs, whose | This is **my** book. / This book is **mine**. |
+| Pronoun case        | Used as                         | Common pronouns                                                                                                   | Example                                       |
+| ------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Subjective case** | Subject of the sentence         | I, we, he, she, they, who                                                                                         | **She** is studying.                          |
+| **Objective case**  | Object of a verb or preposition | me, us, him, her, them, whom                                                                                      | He called **me**.                             |
+| **Possessive case** | Shows ownership                 | Possessive adjective: my, our, his, her, their, whose<br>Possessive pronoun: mine, ours, his, hers, theirs, whose | This is **my** book. / This book is **mine**. |
 
 A very useful shortcut is:
 
 **I / he / she / we / they = subjects**  
 **me / him / her / us / them = objects**
+
+Possessive case has two forms: **possessive adjective** and **possessive pronoun**.
+
+### Possessive adjective
+
+A **possessive adjective** comes **before a noun**. It shows who owns that noun.
+
+- my, your, his, her, its, our, their, whose
+
+Examples:
+
+- This is **my** book.
+- That is **her** bag.
+- The dog wagged **its** tail.
+- **Whose** pen is this?
+
+### Possessive pronoun
+
+A **possessive pronoun** **stands alone**. It does **not** take a noun after it. It replaces the noun.
+
+- mine, yours, his, hers, its, ours, theirs, whose
+
+Examples:
+
+- This book is **mine**.
+- That bag is **hers**.
+- This house is **ours**.
+- **Whose** is this pen?
+
+| Person | Possessive adjective<br>(before a noun) | Possessive pronoun<br>(stands alone) |
+| ------ | --------------------------------------- | ------------------------------------ |
+| I      | my                                      | mine                                 |
+| You    | your                                    | yours                                |
+| He     | his                                     | his                                  |
+| She    | her                                     | hers                                 |
+| It     | its                                     | its                                  |
+| We     | our                                     | ours                                 |
+| They   | their                                   | theirs                               |
+| Who    | whose                                   | whose                                |
+
+Easy memory:
+
+**Possessive adjective + noun**  
+**Possessive pronoun = no noun after it**
+
+Correct: This is **my** book.  
+Incorrect: This is **mine** book.
+
+Correct: This book is **mine**.  
+Incorrect: This book is **my**.
+
+Correct: That is **their** car. / That car is **theirs**.  
+Incorrect: That is **theirs** car.
 
 
 ### Rules to keep in mind
@@ -41,4 +94,5 @@ A very useful shortcut is:
     **Whom** did you call? → _You called him._
 6. Do not confuse **possessive adjectives** and **possessive pronouns**.  
     **My** book = _my_ comes before a noun.  
-    The book is **mine** = _mine_ stands alone.
+    The book is **mine** = _mine_ stands alone.  
+    Also remember: **its** = possession, **it’s** = it is / it has.
