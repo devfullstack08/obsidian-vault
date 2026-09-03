@@ -542,27 +542,58 @@ She sings beautifully.
 
 # Common Exam Errors
 
-### `few` vs `a few`
+### `few` / `a few` / `the few`
 
-**few** = almost none, negative sense
+Used with **countable plural** nouns.
+
+**few** = almost none, **negative**
 
 > Few students passed.  
 > = Almost no students passed.
 
-**a few** = some, positive sense
+**a few** = some, **positive**
 
 > A few students passed.  
 > = Some students passed.
 
-### `little` vs `a little`
+**the few** = the **whole** of that small number
 
-**little** = almost no amount
+> The few students who came were sincere.  
+> = All of those few students were sincere.
 
-> There is little hope.
+### `little` / `a little` / `the little`
 
-**a little** = some amount
+Used with **uncountable** nouns.
 
-> There is a little hope.
+**little** = almost none, **negative**
+
+> There is little hope.  
+> = Almost no hope.
+
+**a little** = some, **positive**
+
+> There is a little hope.  
+> = Some hope is there.
+
+**the little** = the **whole** of that small amount
+
+> He spent the little money he had.  
+> = He spent all the money he had, even though it was little.
+
+| Word | Sense | Meaning |
+| ---- | ----- | ------- |
+| **few** | negative | almost none |
+| **a few** | positive | some |
+| **the few** | whole | all of that small number |
+| **little** | negative | almost none |
+| **a little** | positive | some |
+| **the little** | whole | all of that small amount |
+
+Easy memory:
+
+**no article = negative**  
+**a = positive / some**  
+**the = the whole remaining bit**
 
 ### `elder` vs `older`
 
@@ -814,5 +845,5 @@ Distributive  → each student
 Proper        → Indian culture
 ```
 
-The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, later/latter, farther/further, last/latest, next/nearest, good/well, -ed/-ing adjectives, V3/V4 before a noun, and adjective vs adverb**.
+The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few/the few, little/a little/the little, much/many, less/fewer, elder/older, later/latter, farther/further, last/latest, next/nearest, good/well, -ed/-ing adjectives, V3/V4 before a noun, and adjective vs adverb**.
 
