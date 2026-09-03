@@ -194,14 +194,14 @@ The clause it starts is an **adjective clause**. See [[Clause(વાક્યા
 
 - who, whom, whose, which, that, what
 
-| Relative pronoun | Used for         | Job in the clause | Example                                   |
-| ---------------- | ---------------- | ----------------- | ----------------------------------------- |
-| **who**          | people           | subject           | The boy **who** won is my friend.         |
-| **whom**         | people           | object            | The boy **whom** I met is my friend.      |
-| **whose**        | people or things | possession        | The girl **whose** bag is lost is crying. |
-| **which**        | things / animals | subject or object | The book **which** I bought is useful.    |
-| **that**         | people or things | subject or object | The book **that** I bought is useful.     |
-| **what**         | the thing that   | no noun before it | I know **what** you want.                 |
+| Relative pronoun                                                    | Used for         | Job in the clause | Example                                   |
+| ------------------------------------------------------------------- | ---------------- | ----------------- | ----------------------------------------- |
+| **who**                                                             | people           | subject           | The boy **who** won is my friend.         |
+| **whom**                                                            | people           | object            | The boy **whom** I met is my friend.      |
+| **whose**                                                           | people or things | possession        | The girl **whose** bag is lost is crying. |
+| **which**<br>(also we use it when it refer to the full noun/clause) | things / animals | subject or object | The book **which** I bought is useful.    |
+| **that**(ઈજ  તે / ઈ જ )                                             | people or things | subject or object | The book **that** I bought is useful.     |
+| **what**                                                            | the thing that   | no noun before it | I know **what** you want.                 |
 
 Easy check for **who / whom**:
 
@@ -249,6 +249,52 @@ Easy memory:
 **that → people or things**  
 **what = the thing that**
 
+### Relative pronoun and the verb
+
+The verb after a relative pronoun takes number and person from its **antecedent**.
+
+**Antecedent** = the noun that `who / which / that` stands for.
+
+Do not look only at the nearest word. Ask: **who/which/that = which noun?**
+
+- The boy who **is** late is my friend.  
+  `who` = boy → singular
+- The boys who **are** late are my friends.  
+  `who` = boys → plural
+- It is I who **am** responsible.  
+  `who` = I
+- It is they who **are** responsible.  
+  `who` = they
+
+#### `one of` + relative pronoun
+
+This is the common exam trap.
+
+**one of + plural noun + who / which / that + plural verb**
+
+Here `who / which / that` refers to the **plural noun**, not to *one*.
+
+Correct: He is one of the students who **have** passed.  
+Incorrect: He is one of the students who **has** passed.
+
+Correct: This is one of the books that **are** useful.
+
+**the only one of + plural noun + who / which / that + singular verb**
+
+Here `who / which / that` refers to **the only one**.
+
+Correct: He is the only one of the students who **has** passed.  
+Incorrect: He is the only one of the students who **have** passed.
+
+Easy memory:
+
+**Relative pronoun verb = verb of the antecedent**  
+**one of the boys who *are***  
+**the only one of the boys who *is***
+**This novel is one of the best novels that have been written in the last 10 years.**
+
+See also [[01. Subject–Verb Agreement]].
+
 ### Rules to keep in mind
 
 1. **Use subject pronouns as the subject.**  
@@ -281,4 +327,7 @@ Easy memory:
 9. A **relative pronoun** joins a clause to a noun.  
     **Who** = people as subject. **Whom** = people as object. **Which** = things. **That** = people or things.  
     Do not use **that** after a comma.  
-    Correct: The boy **who** won is my friend.
+    Correct: The boy **who** won is my friend.  
+    The verb after the relative pronoun follows the **antecedent**.  
+    Correct: He is one of the boys who **are** late.  
+    Correct: He is the only one of the boys who **is** late.
