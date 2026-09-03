@@ -4,11 +4,11 @@ Century numbering is different from normal year numbering.
 
 For example:
 
-| Century | Years |
-|---|---|
-| 1st century CE | 1 CE to 100 CE |
-| 2nd century CE | 101 CE to 200 CE |
-| 3rd century CE | 201 CE to 300 CE |
+| Century         | Years              |
+| --------------- | ------------------ |
+| 1st century CE  | 1 CE to 100 CE     |
+| 2nd century CE  | 101 CE to 200 CE   |
+| 3rd century CE  | 201 CE to 300 CE   |
 | 15th century CE | 1401 CE to 1500 CE |
 | 20th century CE | 1901 CE to 2000 CE |
 | 21st century CE | 2001 CE to 2100 CE |
