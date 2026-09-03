@@ -557,6 +557,148 @@ Use:
 
 > less water
 
+### `later` vs `latter`
+
+**later** = time (after some time)
+
+> I will come later.  
+> He came later than me.
+
+**latter** = the second of two (दो में से बाद वाला)
+
+> Of tea and coffee, I prefer the latter.
+
+**former** = the first of two
+
+> Of tea and coffee, I prefer the former.
+
+### `farther` vs `further`
+
+**farther** = real / physical distance
+
+> My house is farther from the station.
+
+**further** = extra / in addition / more
+
+> For further details, see the notice.  
+> We need further information.
+
+Easy memory:
+
+**farther → कितना दूर**  
+**further → और ज्यादा / इसके अलावा**
+
+### `good` vs `well`
+
+**good** = adjective → describes a **noun**
+
+> She is a good singer.  
+> This is a good idea.
+
+**well** = adverb → describes a **verb**
+
+> She sings well.  
+> He did the work well.
+
+**well** after *be* = healthy
+
+> She is well now.
+
+Incorrect: She sings **good**.  
+Correct: She sings **well**.
+
+### `bad` vs `badly` vs `ill`
+
+**bad** = adjective → describes a **noun**
+
+> This is a bad film.  
+> He is a bad player.
+
+**badly** = adverb → describes a **verb**
+
+> He played badly.  
+> The room was badly damaged.
+
+**ill** = adjective = sick
+
+> He is ill today.
+
+**ill** as adverb = *badly*, mainly with *speak / think*
+
+> Do not speak ill of others.
+
+Incorrect: He played **bad**.  
+Correct: He played **badly**.
+
+### `far` vs `a long way`
+
+**far** = mainly in **questions** and **negatives**
+
+> How far is the station?  
+> The station is not far.
+
+**a long way** = in **positive** sentences
+
+> The station is a long way from here.
+
+Incorrect: The station is far from here.  
+Correct: The station is a long way from here.  
+Correct: The station is not far from here.
+
+### `last` vs `latest`
+
+**last** = final / previous one in a series
+
+> This is the last chapter.  
+> I met him last week.
+
+**latest** = most recent / newest
+
+> Have you heard the latest news?  
+> This is the latest model.
+
+Easy memory:
+
+**last → आखिरी**  
+**latest → सबसे नया / ताजा**
+
+### `next` vs `nearest`
+
+**next** = next in **order / sequence / time**
+
+> The next station is Vadodara.  
+> See you next Sunday.
+
+**nearest** = shortest **distance**
+
+> Which is the nearest hospital?  
+> The nearest ATM is 200 metres away.
+
+Easy memory:
+
+**next → अगला**  
+**nearest → सबसे नजदीक**
+
+### `late` vs `lately`
+
+**late** = after the right time
+
+> He came late.
+
+**lately** = recently
+
+> I have not seen him lately.
+
+### `hard` vs `hardly`
+
+**hard** = with effort / difficult
+
+> He works hard.
+
+**hardly** = almost not
+
+> He hardly works.
+
 ---
 
 # Adjective Phrase
@@ -626,5 +768,5 @@ Distributive  → each student
 Proper        → Indian culture
 ```
 
-The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, -ed/-ing adjectives, and adjective vs adverb**.
+The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, later/latter, farther/further, last/latest, next/nearest, good/well, -ed/-ing adjectives, and adjective vs adverb**.
 

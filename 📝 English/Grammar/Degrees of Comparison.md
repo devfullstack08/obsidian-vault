@@ -284,6 +284,8 @@ Some adjectives do not follow normal rules.
 | far      | farther/further | farthest/furthest |
 | old      | older/elder     | oldest/eldest     |
 
+For **later/latter, farther/further, last/latest, next/nearest, good/well**, see [[Adjective]].
+
 Examples:
 
 - This book is better than that one.
