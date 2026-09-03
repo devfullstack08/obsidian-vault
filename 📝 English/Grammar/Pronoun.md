@@ -125,6 +125,67 @@ The same words can also be **emphasizing pronouns**. Then they only add extra st
 | **Reflexive**   | Object is the same as the subject | No                 | He blamed **himself**.     |
 | **Emphasizing** | Extra stress / “personally”       | Yes                | He **himself** blamed her. |
 
+### Demonstrative pronoun
+
+A **demonstrative pronoun** points to a person or thing.
+
+- this, that, these, those
+
+| Word      | Number   | Distance | Example                  |
+| --------- | -------- | -------- | ------------------------ |
+| **this**  | singular | near     | **This** is my book.     |
+| **that**  | singular | far      | **That** is your bag.    |
+| **these** | plural   | near     | **These** are my books.  |
+| **those** | plural   | far      | **Those** are your bags. |
+
+Like possessive words, these also have two uses:
+
+**Demonstrative adjective** = comes **before a noun**
+
+- **This** book is mine.
+- **Those** students are late.
+
+**Demonstrative pronoun** = **stands alone**. It replaces the noun.
+
+- **This** is mine.
+- **Those** are late.
+
+Easy memory:
+
+**Demonstrative adjective + noun**  
+**Demonstrative pronoun = no noun after it**
+
+Correct: **This** is a good idea.  
+Correct: **This** idea is good.  
+Incorrect: **This** are my books. → **These** are my books.
+
+### `that of` / `those of` in comparison
+
+In comparison, **that** and **those** are used so we compare the **same kind of thing**, not two unrelated things.
+
+- **that of** = for a **singular** noun already mentioned
+- **those of** = for a **plural** noun already mentioned
+
+Incorrect: The climate of India is better than England.  
+_(climate compared with a country)_
+
+Correct: The climate of India is better than **that of** England.  
+_(climate compared with climate)_
+
+Incorrect: The streets of Delhi are wider than Mumbai.  
+Correct: The streets of Delhi are wider than **those of** Mumbai.
+
+Incorrect: Amit’s salary is higher than Raj.  
+Correct: Amit’s salary is higher than **that of** Raj.
+
+Easy memory:
+
+**Do not compare a thing with a person or place. Compare thing with thing.**  
+**that of** = the same singular thing  
+**those of** = the same plural things
+
+This is also called **logical comparison**. See also [[Degrees of Comparison]].
+
 ### Rules to keep in mind
 
 1. **Use subject pronouns as the subject.**  
@@ -151,3 +212,6 @@ The same words can also be **emphasizing pronouns**. Then they only add extra st
     Correct: She taught **herself**.  
     Incorrect: **Myself** went there.  
     Incorrect: Please contact Rahul or **myself**. → Please contact Rahul or **me**.
+8. **This / that** = singular. **These / those** = plural.  
+    In comparison, use **that of** / **those of** so both sides are the same kind of thing.  
+    Correct: The climate of India is better than **that of** England.
