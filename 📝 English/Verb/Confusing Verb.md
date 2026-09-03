@@ -1,16 +1,17 @@
 These verbs look similar. The main check is: **does it take an object?** See [[Transitive and Intransitive Verb]].
 
 **I** = intransitive = no object  
-**T** = transitive = needs an object
+**T** = transitive = needs an object  
+**V4** = `V1 + ing`
 
 ---
 
 ## Fall / Fell
 
-| Verb | V1 | V2 | V3 | Type | Meaning |
-| ---- | -- | -- | -- | ---- | ------- |
-| **fall** | fall | fell | fallen | I | drop down |
-| **fell** | fell | felled | felled | T | cut down a tree |
+| Verb | V1 | V2 | V3 | V4 | Type | Meaning |
+| ---- | -- | -- | -- | -- | ---- | ------- |
+| **fall** | fall | fell | fallen | falling | I | drop down |
+| **fell** | fell | felled | felled | felling | T | cut down a tree |
 
 > He **fell** from the tree.  
 > The woodcutter **felled** the tree.
@@ -19,11 +20,11 @@ These verbs look similar. The main check is: **does it take an object?** See [[T
 
 ## Rise / Raise / Arise
 
-| Verb | V1 | V2 | V3 | Type | Meaning |
-| ---- | -- | -- | -- | ---- | ------- |
-| **rise** | rise | rose | risen | I | go up by itself |
-| **raise** | raise | raised | raised | T | lift something / increase |
-| **arise** | arise | arose | arisen | I | a problem / situation starts |
+| Verb | V1 | V2 | V3 | V4 | Type | Meaning |
+| ---- | -- | -- | -- | -- | ---- | ------- |
+| **rise** | rise | rose | risen | rising | I | go up by itself |
+| **raise** | raise | raised | raised | raising | T | lift something / increase |
+| **arise** | arise | arose | arisen | arising | I | a problem / situation starts |
 
 > The sun **rises** in the east.  
 > Please **raise** your hand.  
@@ -38,11 +39,11 @@ Easy memory:
 
 ## Lie / Lay
 
-| Verb | V1 | V2 | V3 | Type | Meaning |
-| ---- | -- | -- | -- | ---- | ------- |
-| **lie** | lie | lay | lain | I | rest / recline |
-| **lay** | lay | laid | laid | T | put something down |
-| **lie** | lie | lied | lied | I | not tell the truth |
+| Verb | V1 | V2 | V3 | V4 | Type | Meaning |
+| ---- | -- | -- | -- | -- | ---- | ------- |
+| **lie** | lie | lay | lain | lying | I | rest / recline |
+| **lay** | lay | laid | laid | laying | T | put something down |
+| **lie** | lie | lied | lied | lying | I | not tell the truth |
 
 > Lie on the bed. / He **lay** on the bed yesterday. / He has **lain** there.  
 > **Lay** the book on the table. / She **laid** the book there.  
@@ -59,10 +60,10 @@ The confusing point: **lay** is also the V2 of **lie**.
 
 ## Sit / Set
 
-| Verb | V1 | V2 | V3 | Type | Meaning |
-| ---- | -- | -- | -- | ---- | ------- |
-| **sit** | sit | sat | sat | I | take a seat |
-| **set** | set | set | set | T | put / place / arrange |
+| Verb | V1 | V2 | V3 | V4 | Type | Meaning |
+| ---- | -- | -- | -- | -- | ---- | ------- |
+| **sit** | sit | sat | sat | sitting | I | take a seat |
+| **set** | set | set | set | setting | T | put / place / arrange |
 
 > Please **sit** here.  
 > **Set** the plate on the table.
@@ -71,10 +72,10 @@ The confusing point: **lay** is also the V2 of **lie**.
 
 ## Hang
 
-| Use | V2 / V3 | Meaning |
-| --- | ------- | ------- |
-| **hung** | hung | hang a thing |
-| **hanged** | hanged | kill a person by hanging |
+| Verb | V1 | V2 | V3 | V4 | Meaning |
+| ---- | -- | -- | -- | -- | ------- |
+| **hang** | hang | hung | hung | hanging | hang a thing |
+| **hang** | hang | hanged | hanged | hanging | kill a person by hanging |
 
 > She **hung** the picture on the wall.  
 > The murderer was **hanged**.
@@ -83,11 +84,11 @@ The confusing point: **lay** is also the V2 of **lie**.
 
 ## Fly / Flow / Flee
 
-| Verb | V1 | V2 | V3 | Meaning |
-| ---- | -- | -- | -- | ------- |
-| **fly** | fly | flew | flown | move in the air |
-| **flow** | flow | flowed | flowed | liquid moves |
-| **flee** | flee | fled | fled | run away |
+| Verb | V1 | V2 | V3 | V4 | Meaning |
+| ---- | -- | -- | -- | -- | ------- |
+| **fly** | fly | flew | flown | flying | move in the air |
+| **flow** | flow | flowed | flowed | flowing | liquid moves |
+| **flee** | flee | fled | fled | fleeing | run away |
 
 > The bird **flew** away.  
 > The river **flows** to the sea.  
@@ -97,10 +98,10 @@ The confusing point: **lay** is also the V2 of **lie**.
 
 ## Find / Found
 
-| Verb | V1 | V2 | V3 | Meaning |
-| ---- | -- | -- | -- | ------- |
-| **find** | find | found | found | discover |
-| **found** | found | founded | founded | start / establish |
+| Verb | V1 | V2 | V3 | V4 | Meaning |
+| ---- | -- | -- | -- | -- | ------- |
+| **find** | find | found | found | finding | discover |
+| **found** | found | founded | founded | founding | start / establish |
 
 > I **found** my keys.  
 > He **founded** a school.
