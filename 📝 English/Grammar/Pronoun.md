@@ -186,6 +186,69 @@ Easy memory:
 
 This is also called **logical comparison**. See also [[Degrees of Comparison]].
 
+### Relative pronoun
+
+A **relative pronoun** joins a clause to a noun. It also stands for that noun.
+
+The clause it starts is an **adjective clause**. See [[Clause(વાક્યાંગ) or S+V]].
+
+- who, whom, whose, which, that, what
+
+| Relative pronoun | Used for         | Job in the clause | Example                                   |
+| ---------------- | ---------------- | ----------------- | ----------------------------------------- |
+| **who**          | people           | subject           | The boy **who** won is my friend.         |
+| **whom**         | people           | object            | The boy **whom** I met is my friend.      |
+| **whose**        | people or things | possession        | The girl **whose** bag is lost is crying. |
+| **which**        | things / animals | subject or object | The book **which** I bought is useful.    |
+| **that**         | people or things | subject or object | The book **that** I bought is useful.     |
+| **what**         | the thing that   | no noun before it | I know **what** you want.                 |
+
+Easy check for **who / whom**:
+
+Replace with **he** or **him**.
+
+- **He** won → **who** won  
+- I met **him** → **whom** I met
+
+**Who** = subject. **Whom** = object.
+
+Correct: The man **who** called me is a doctor.  
+Correct: The man **whom** I called is a doctor.  
+Correct: The man **to whom** I spoke is a doctor.
+
+**Which** = things. **Who** = people.
+
+Correct: The student **who** is late...  
+Incorrect: The student **which** is late...
+
+Correct: The house **which** is old...  
+Incorrect: The house **who** is old...
+
+**That** can be used for people or things in a **defining** clause (the clause is needed to say *which one*).
+
+- The boy **that** won is my friend.
+- This is the book **that** I bought.
+
+Do **not** use **that** after a comma, or after a preposition.
+
+Correct: Mumbai, **which** is in Maharashtra, is a big city.  
+Incorrect: Mumbai, **that** is in Maharashtra, is a big city.
+
+Correct: the man **to whom** I spoke  
+Incorrect: the man **to that** I spoke
+
+**What** already means *the thing that*. Do not put a noun before it.
+
+Correct: I know **what** you want.  
+Incorrect: I know the thing **what** you want. → I know the thing **that** you want.
+
+Easy memory:
+
+**who / whom / whose → people**  
+**which → things**  
+**that → people or things**  
+**what = the thing that**
+
 ### Rules to keep in mind
 
 1. **Use subject pronouns as the subject.**  
@@ -215,3 +278,7 @@ This is also called **logical comparison**. See also [[Degrees of Comparison]].
 8. **This / that** = singular. **These / those** = plural.  
     In comparison, use **that of** / **those of** so both sides are the same kind of thing.  
     Correct: The climate of India is better than **that of** England.
+9. A **relative pronoun** joins a clause to a noun.  
+    **Who** = people as subject. **Whom** = people as object. **Which** = things. **That** = people or things.  
+    Do not use **that** after a comma.  
+    Correct: The boy **who** won is my friend.

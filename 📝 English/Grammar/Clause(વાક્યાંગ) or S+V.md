@@ -320,6 +320,8 @@ Therefore:
 
 ## Common Relative Words
 
+These are **relative pronouns** (and a few relative adverbs). See [[Pronoun]].
+
 Adjective clauses commonly begin with:
 
 - who

@@ -491,23 +491,23 @@ Examples:
 
 # Difference Between `Any` and `Any Other`
 
-Use `any other` when the subject is part of the same group.
+This is the **same-class** vs **out-of-class** comparison.
+
+Use `any other` when the subject is part of the **same group** (same class).
 
 Example:
 
 - India is larger than any other country in South Asia.
     
+India is part of South Asia. So we say **any other**, otherwise India would also be compared with itself.
 
-India is part of South Asia.
-
-Use `any` when the subject is not part of the group.
+Use `any` when the subject is **not** part of the group (**out of class**).
 
 Example:
 
 - India is larger than any country in Europe.
     
-
-India is not part of Europe.
+India is not part of Europe. So **any other** is not needed.
 
 ---
 
@@ -637,20 +637,44 @@ Correct:
 
 ---
 
-## Error 6: Comparing Unrelated Things
+## Error 6: Comparing Unrelated Things (`that of` / `those of`)
+
+Do not compare a quality with a person or place. Compare the **same kind of thing**.
+
+Use:
+
+- **that of** after a **singular** noun
+- **those of** after a **plural** noun
 
 Incorrect:
 
 - Amit’s salary is higher than Raj.
     
-
 This compares Amit’s salary with Raj as a person.
 
 Correct:
 
+- Amit’s salary is higher than **that of** Raj.
 - Amit’s salary is higher than Raj’s salary.
-    
 - Amit’s salary is higher than Raj’s.
+
+Incorrect:
+
+- The climate of India is better than England.
+
+Correct:
+
+- The climate of India is better than **that of** England.
+
+Incorrect:
+
+- The streets of Delhi are wider than Mumbai.
+
+Correct:
+
+- The streets of Delhi are wider than **those of** Mumbai.
+
+`that` / `those` here are **demonstrative pronouns**. They stand in place of the noun already mentioned. See [[Pronoun]].
     
 
 ---
