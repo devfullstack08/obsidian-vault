@@ -295,6 +295,42 @@ Easy memory:
 
 See also [[01. Subject–Verb Agreement]].
 
+### When the subject is `one`
+
+If the subject is **one** (meaning a person in general), the later **pronoun, possessive adjective, and reflexive** must also follow **one**.
+
+Do **not** change to **he / his / him / himself**.
+
+| According to **one** | Do not use |
+| -------------------- | ---------- |
+| one                  | he / she   |
+| one's                | his / her  |
+| oneself              | himself / herself |
+
+Correct: One should do **one's** duty.  
+Incorrect: One should do **his** duty.
+
+Correct: One must take care of **oneself**.  
+Incorrect: One must take care of **himself**.
+
+Correct: If one wants to pass, **one** must work hard.  
+Incorrect: If one wants to pass, **he** must work hard.
+
+The verb is also singular, because **one** is singular:
+
+- One **has** to be careful.
+- One **is** responsible for **one's** work.
+
+This is different from **one of the boys**:
+
+- **One** should do **one's** duty. → generic *one*
+- One of the boys has lost **his** book. → *one* = one boy, so **his / her** is correct
+
+Easy memory:
+
+**Start with one → stay with one, one's, oneself.**  
+**Do not jump to he / his / himself.**
+
 ### Rules to keep in mind
 
 1. **Use subject pronouns as the subject.**  
@@ -331,3 +367,6 @@ See also [[01. Subject–Verb Agreement]].
     The verb after the relative pronoun follows the **antecedent**.  
     Correct: He is one of the boys who **are** late.  
     Correct: He is the only one of the boys who **is** late.
+10. If the subject is **one**, keep **one / one's / oneself**. Do not change to **he / his / himself**.  
+    Correct: One should do **one's** duty.  
+    Incorrect: One should do **his** duty.
