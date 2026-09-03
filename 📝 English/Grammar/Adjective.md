@@ -470,6 +470,52 @@ Unless you mean **you yourself are an interesting person**.
 
 ---
 
+# Present participle (V4) vs Past participle (V3)
+
+This is simple logic, not a long rule.
+
+When the participle comes **before a noun**:
+
+**V3 + noun** → that noun is the **receiver**. Something already happened to it.  
+**V4 + noun** → that noun is the **doer**. The action is going on, and the noun does it.
+
+| Form | Name | Before a noun | The noun is |
+| ---- | ---- | ------------- | ----------- |
+| **V3** | Past participle | a **broken** window | receiver |
+| **V4** (`V1 + ing`) | Present participle | a **crying** baby | doer |
+
+V3 tells a past action on that noun, so the noun **got** the action.
+
+> a **broken** window = the window **was broken**  
+> a **written** letter = the letter **was written**  
+> **boiled** water = the water **was boiled**  
+> **fallen** leaves = the leaves **have fallen**  
+> a **wounded** soldier = the soldier **was wounded**
+
+V4 tells the action is happening, so the noun **does** the action.
+
+> a **crying** baby = the baby **is crying**  
+> a **writing** student = the student **is writing**  
+> **boiling** water = the water **is boiling**  
+> **falling** leaves = the leaves **are falling**  
+> a **drowning** man = the man **is drowning**
+
+Same pair:
+
+- **falling** tree = the tree is falling → doer  
+- **fallen** tree = the tree has fallen → receiver
+
+Easy memory:
+
+**V3 + noun = receiver**  
+**V4 + noun = doer**
+
+The **boring / bored** pair is the same idea:  
+**-ing** = the thing that causes / does  
+**-ed / V3** = the person who receives the feeling
+
+---
+
 # Adjective vs Adverb
 
 An adjective usually modifies a **noun/pronoun**.
@@ -768,5 +814,5 @@ Distributive  → each student
 Proper        → Indian culture
 ```
 
-The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, later/latter, farther/further, last/latest, next/nearest, good/well, -ed/-ing adjectives, and adjective vs adverb**.
+The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, later/latter, farther/further, last/latest, next/nearest, good/well, -ed/-ing adjectives, V3/V4 before a noun, and adjective vs adverb**.
 
