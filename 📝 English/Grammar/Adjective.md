@@ -1,0 +1,630 @@
+An **adjective** is a word that describes or gives more information about a **noun or pronoun**(so it's alway come before noun).
+
+> **Adjective = describing word**
+
+Examples:
+
+- a **beautiful** girl
+- a **big** house
+- an **old** man
+- **three** books
+- **my** car
+
+Here, **beautiful, big, old, three, my** are adjectives because they describe or limit nouns.
+
+## What does an adjective tell us?
+
+An adjective can tell us about:
+
+- **Quality** → a beautiful flower
+- **Quantity** → some water
+- **Number** → five students
+- **Possession** → my book
+- **Demonstration** → this car
+- **Question** → which book?
+- **Distribution** → each student
+
+---
+
+# Types of Adjectives
+
+| Type                        | Meaning                      | Examples                     |
+| --------------------------- | ---------------------------- | ---------------------------- |
+| **Adjective of Quality**    | tells what kind              | good, beautiful, brave       |
+| **Adjective of Quantity**   | tells how much               | some, little, enough         |
+| **Adjective of Number**     | tells how many/order         | two, many, first             |
+| **Demonstrative Adjective** | points out a noun            | this, that, these, those     |
+| **Possessive Adjective**    | shows possession             | my, your, his, her           |
+| **Interrogative Adjective** | asks about a noun            | which, what, whose           |
+| **Distributive Adjective**  | refers to members separately | each, every, either, neither |
+| **Proper Adjective**        | formed from proper noun      | Indian, French, Victorian    |
+
+## 1. Adjective of Quality
+
+It tells us **what kind of person or thing**.
+Examples:
+- She is a **beautiful** girl.
+- He is an **honest** man.
+- This is a **difficult** question.
+- The lion is a **strong** animal.
+
+Question used:
+
+> **What kind?**
+
+Example:
+
+**What kind of man?**  
+→ an honest man
+
+---
+
+## 2. Adjective of Quantity
+
+It tells us **how much** of something.
+Mostly used with **uncountable nouns**.
+Examples:
+
+- I have **some** money.
+- There is **little** water.
+- We have **enough** food.
+- He has **much** patience.
+
+Common quantity adjectives:
+**some, much, little, enough, sufficient, whole**
+
+Question:
+
+> **How much?**
+
+---
+
+## 3. Adjective of Number
+
+It tells us **how many** or **in what order**.
+Examples:
+- I have **three** books.
+- **Many** students attended.
+- He came **first**.
+- She bought **several** dresses.
+
+There are three common subtypes:
+### Definite Numeral
+Exact number:
+- one
+- two
+- three
+- first
+- second
+- third
+### Indefinite Numeral
+Not exact:
+- many
+- few
+- several
+- some
+
+### Distributive Numeral
+Refers to persons/things separately:
+- each
+- every
+- either
+- neither
+
+---
+
+# Quantity vs Number
+
+This is important for exams.
+
+Use **quantity** with uncountable nouns:
+
+> much water  
+> little milk
+
+Use **number** with countable nouns:
+
+> many students  
+> few books
+
+Compare:
+
+- **little** water
+- **few** students
+
+---
+
+# 4. Demonstrative Adjective
+
+It points to a particular noun.
+Examples:
+
+- **This** book is mine.
+- **That** car is expensive.
+- **These** students are intelligent.
+- **Those** houses are old.
+
+Rule:
+
+> Demonstrative adjective + noun
+
+Example:
+
+**This book**
+
+But:
+
+> This is mine.
+
+Here **this** is functioning as a pronoun because no noun follows it
+
+---
+
+# 5. Possessive Adjective
+
+It shows possession or relationship.
+
+|Person|Possessive Adjective|
+|---|---|
+|I|my|
+|You|your|
+|He|his|
+|She|her|
+|It|its|
+|We|our|
+|They|their|
+
+Examples:
+- This is **my** phone.
+- Where is **your** bag?
+- She loves **her** family.
+- They sold **their** house.
+
+Rule:
+
+> Possessive adjective + noun
+
+Example:
+
+**my book**
+
+Not:
+
+❌ mine book
+
+Because **mine** is a possessive pronoun.
+
+---
+
+# 6. Interrogative Adjective
+
+Used before a noun to ask a question.
+Main words:
+
+- **which**
+- **what**
+- **whose**
+
+Examples:
+- **Which book** do you want?
+- **What subject** do you like?
+- **Whose car** is this?
+
+Because a noun follows the question word, it acts as an adjective.
+
+Compare:
+
+> **Which book** do you want?  
+> Adjective
+
+> **Which** do you want?  
+> Pronoun
+
+---
+
+# 7. Distributive Adjective
+
+It refers to members of a group **individually**.
+
+Common words:
+- each
+- every
+- either
+- neither
+
+Examples:
+
+- **Each student** received a prize.
+- **Every child** needs education.
+- You can take **either road**.
+- **Neither answer** is correct.
+
+Important:
+
+**Each** and **every** normally take a singular noun.
+
+✅ each student  
+✅ every student
+
+Not:
+
+❌ each students  
+❌ every students
+
+---
+
+# 8. Proper Adjective
+
+A proper adjective is formed from a **proper noun**.
+Examples:
+
+- India → **Indian**
+- France → **French**
+- China → **Chinese**
+- Shakespeare → **Shakespearean**
+- Victoria → **Victorian**
+
+Example:
+
+> I like **Indian food**.
+
+---
+# Position of Adjectives
+
+Adjectives usually appear in two main positions.
+
+## Before a noun — Attributive
+
+> She bought a **beautiful dress**.
+
+**beautiful** comes before the noun.
+
+## After a linking verb — Predicative
+
+> The dress is **beautiful**.
+
+Common linking verbs:
+
+- be
+- seem
+- look
+- appear
+- become
+- feel
+- smell
+- taste
+- sound
+
+Examples:
+
+- She looks **happy**.
+- The food tastes **delicious**.
+- He became **angry**.
+
+---
+
+# Degrees of Adjectives
+
+Adjectives have three degrees of comparison.
+
+|Degree|Example|
+|---|---|
+|Positive|tall|
+|Comparative|taller|
+|Superlative|tallest|
+
+Example:
+
+> Ram is **tall**.  
+> Mohan is **taller than** Ram.  
+> Aman is the **tallest** boy in the class.
+
+## Regular comparison
+
+```text
+tall → taller → tallest
+small → smaller → smallest
+fast → faster → fastest
+```
+
+## Adjectives ending in -y
+
+Change **y → i**
+
+```text
+happy → happier → happiest
+easy → easier → easiest
+heavy → heavier → heaviest
+```
+
+## Long adjectives
+
+Use:
+
+**more + adjective**
+
+and
+
+**most + adjective**
+
+```text
+beautiful → more beautiful → most beautiful
+intelligent → more intelligent → most intelligent
+difficult → more difficult → most difficult
+```
+
+---
+
+# Irregular Adjectives
+
+These are very important.
+
+| Positive  | Comparative     | Superlative       |
+| --------- | --------------- | ----------------- |
+| good      | better          | best              |
+| bad       | worse           | worst             |
+| little    | less            | least             |
+| much/many | more            | most              |
+| far       | farther/further | farthest/furthest |
+| old       | older/elder     | oldest/eldest     |
+
+Examples:
+
+> This book is **better** than that one.
+
+> He is the **best** player.
+
+---
+
+# Comparative Degree Rules
+
+Normally use **than** after a comparative adjective.
+
+✅ He is taller **than** me.  
+✅ Gold is more expensive **than** silver.
+
+Not:
+
+❌ more taller  
+❌ more better
+
+Because **taller** and **better** are already comparative.
+
+---
+
+# Superlative Degree Rules
+
+Normally use **the** before a superlative.
+
+✅ He is **the tallest** boy.
+
+✅ This is **the best** book.
+
+This connects with the structure you learned earlier:
+
+> **one of the + superlative + plural noun**
+
+Example:
+
+> This is **one of the best novels** I have read.
+
+After **one of the**, the noun must normally be plural:
+
+✅ one of the best **players**  
+❌ one of the best **player**
+
+---
+
+# Order of Adjectives
+
+When several adjectives come before one noun, English generally follows this order:
+
+> **Opinion → Size → Age → Shape → Colour → Origin → Material → Purpose → Noun**
+
+Example:
+
+> a **beautiful small old round brown Italian wooden table**
+
+You normally do not use so many at once, but the order is useful.
+
+Another example:
+
+> a beautiful red Indian dress
+
+Not usually:
+
+> a red Indian beautiful dress
+
+---
+
+# `-ed` vs `-ing` Adjectives
+
+Very important.
+
+**-ing adjective** describes the thing/person causing the feeling.
+
+**-ed adjective** describes the person experiencing the feeling.
+
+Example:
+
+> The movie is **boring**.  
+> I am **bored**.
+
+More:
+
+|Cause|Feeling|
+|---|---|
+|interesting|interested|
+|exciting|excited|
+|confusing|confused|
+|tiring|tired|
+|surprising|surprised|
+|frightening|frightened|
+
+Example:
+
+✅ I am interested in history.  
+❌ I am interesting in history.
+
+Unless you mean **you yourself are an interesting person**.
+
+---
+
+# Adjective vs Adverb
+
+An adjective usually modifies a **noun/pronoun**.
+
+> He is a **careful** driver.
+
+An adverb usually modifies a **verb/adjective/adverb**.
+
+> He drives **carefully**.
+
+Compare:
+
+```text
+She is a beautiful singer.
+                   ↑
+             adjective
+
+She sings beautifully.
+          ↑
+        adverb
+```
+
+---
+
+# Common Exam Errors
+
+### `few` vs `a few`
+
+**few** = almost none, negative sense
+
+> Few students passed.  
+> = Almost no students passed.
+
+**a few** = some, positive sense
+
+> A few students passed.  
+> = Some students passed.
+
+### `little` vs `a little`
+
+**little** = almost no amount
+
+> There is little hope.
+
+**a little** = some amount
+
+> There is a little hope.
+
+### `elder` vs `older`
+
+**elder** is mainly used for family relationships.
+
+> My elder brother.
+
+**older** is general.
+
+> My brother is older than me.
+
+Normally:
+
+✅ my elder brother  
+❌ my elder than me
+
+Use:
+
+✅ He is older than me.
+
+### `much` vs `many`
+
+**many** → countable plural nouns
+
+> many books
+
+**much** → uncountable nouns
+
+> much water
+
+### `fewer` vs `less`
+
+**fewer** → countable
+
+> fewer students
+
+**less** → uncountable
+
+> less water
+
+---
+
+# Adjective Phrase
+
+Sometimes a group of words works like an adjective.
+
+Example:
+
+> The man **in the black shirt** is my teacher.
+
+**in the black shirt** describes **the man**, so it works as an adjective phrase.
+
+---
+
+# Adjective Clause
+
+A clause can also describe a noun.
+
+Example:
+
+> The boy **who won the race** is my friend.
+
+**who won the race** describes **the boy**.
+
+Therefore it is an **adjective clause / relative clause**.
+
+Common relative words:
+
+**who, whom, whose, which, that**
+
+Example:
+
+> This is one of the best novels **that have been written in the last ten years**.
+
+Here:
+
+**that have been written in the last ten years**
+
+describes **novels**.
+
+---
+
+# Easy Formula
+
+```text
+Adjective
+   ↓
+Describes noun/pronoun
+   ↓
+What kind?
+How much?
+How many?
+Which one?
+Whose?
+```
+
+## Quick Revision
+
+```text
+Quality       → beautiful girl
+Quantity      → little water
+Number        → five books
+Demonstrative → this book
+Possessive    → my car
+Interrogative → which book?
+Distributive  → each student
+Proper        → Indian culture
+```
+
+The most important exam topics from the adjective chapter are **degrees of comparison, adjective order, few/a few, little/a little, much/many, less/fewer, elder/older, -ed/-ing adjectives, and adjective vs adverb**.
+

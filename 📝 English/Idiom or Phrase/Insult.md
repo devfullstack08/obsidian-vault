@@ -1,0 +1,10 @@
+## State Insulted or anger 
+| Idiom / Phrase                                                                                                                                                                                                                              | Meaning                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| In high dudgeon(રોષ)<br><br>very angry because you feel insulted or offended.                                                                                                                                                               | A state of strong anger, resentment, or offended pride<br><br>1. He left the meeting in high dudgeon.<br>2. She walked out in high dudgeon after being criticized.                                                    |
+| Cut someone dead<br><br>completely ignore someone on purpose<br><br>It does **not** mean physically cutting or killing someone.<br><br>It is an idiom about **socially ignoring someone**.<br><br>*अब से तुम्हारा और मेरा कोई रिश्ता नहीं।* | **Deliberately ignore someone completely**, especially by pretending not to see or know them.<br><br>1. **She cut me dead at the party.**  <br>2. **After their argument, he cut his old friend dead in the street.** |
+
+## Accept the Insult 
+| Idiom / Phrase   | Meaning                   |
+| ---------------- | ------------------------- |
+| Pocket an insult | Accept an insult silently |

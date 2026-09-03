@@ -695,6 +695,63 @@ Meaning changes with the case:
 
 ---
 
+## Error 8: `very` / `more` / `most` with Absolute Adjectives
+
+Some adjectives already show a complete or extreme meaning. Do **not** use **very, more, most** with them.
+
+They have no comparative or superlative in exam English.
+
+- impossible
+- universal
+- external
+- chief
+- ideal
+- supreme
+- perfect
+- unique
+- excellent
+- full
+- empty
+- entire
+- dead
+- free
+- circular
+- rectangular
+
+Incorrect:
+
+- very unique
+- more perfect
+- most excellent
+- very impossible
+- more unique
+- most ideal
+- very full
+- more circular
+
+Correct:
+
+- unique
+- perfect
+- excellent
+- impossible
+- ideal
+- full
+- circular
+
+You may use **almost / nearly / completely / absolutely** with some of them:
+
+- almost unique
+- nearly full
+- completely empty
+- absolutely perfect
+
+Easy memory:
+
+**If the adjective already means 100%, do not add very / more / most.**
+
+---
+
 # Special Comparative Structures
 
 ## The More..., the More...

@@ -188,3 +188,12 @@ Examples:
 | --------------------------------- | ------------------------------- |
 | She sings very **beautiful**.     | She sings very **beautiful**ly. |
 | He performed **good** in th test. | He performed well in the test.  |
+
+### Rules 16. Some vs any
+
+Some = positive sentences
+Any = negative and Interrogative 
+
+- She tole me that she needed **some** time to think about my proposal.
+- You all are invited to my birthday party this weekend but please don't bring **any** presents. 
+
