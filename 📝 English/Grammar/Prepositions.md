@@ -79,6 +79,62 @@ But with normal comparative adjectives, use “than”
 | smarter | She is smarter than me.   |
 | better  | This is better than that. |
 
+### Rules 2. These words and phrases are prepositions / prepositional phrases
+
+They are **not** like **and**. They do not join two subjects as equals.
+
+- between
+- with
+- beside / besides
+- including
+- excluding
+- but _(= except)_
+- like
+- unlike
+- together with
+- along with
+- as well as
+- and not
+- in addition to
+- rather than
+- accompanied by
+- no less than
+- nothing but
+
+Because they are prepositions or prepositional phrases:
+
+1. The pronoun after them is in the **objective case**: me, him, her, us, them.  
+   See [[Pronoun]].
+2. If they come after a subject, the **verb follows the first subject**, not the noun after the phrase.  
+   See [[01. Subject–Verb Agreement]].
+
+| Phrase | Correct |
+| ------ | ------- |
+| between | Between you and **me** |
+| with | She went with **him**. |
+| beside | She sat beside **me**. |
+| besides | Besides **him**, nobody came. |
+| including | Everyone including **her** was present. |
+| excluding | All excluding **him** passed. |
+| but | Nobody but **him** knew the answer. |
+| like | A student like **him** can do this. |
+| unlike | Unlike **her**, he is punctual. |
+| together with | Rahul together with **them** is coming. |
+| along with | The teacher along with the students **is** present. |
+| as well as | The captain as well as the players **is** ready. |
+| and not | The manager and not the workers **is** responsible. |
+| in addition to | The boy in addition to his friends **has** come. |
+| rather than | The teacher rather than the students **was** late. |
+| accompanied by | The minister accompanied by his staff **has** arrived. |
+| no less than | The principal no less than the teachers **is** to blame. |
+| nothing but | He is nothing but a fool. / Nothing but trees **was** seen. |
+
+Easy memory:
+
+**These phrases = preposition.**  
+**After a preposition → me / him / her / us / them.**  
+**Verb → first subject, not the extra phrase.**
+
 
 | Word    | When we use                                                             |
 | ------- | ----------------------------------------------------------------------- |

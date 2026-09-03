@@ -63,6 +63,26 @@ Easy memory:
 
 See also [[Degrees of Comparison]].
 
+### Pronoun after a preposition
+
+These words and phrases are **prepositions** or **prepositional phrases**. After them, use the **objective case**.
+
+- between, with, beside, besides, including, excluding, but _(except)_, like, unlike
+- together with, along with, as well as, and not, in addition to, rather than
+- accompanied by, no less than, nothing but
+
+Correct: Between you and **me**.  
+Incorrect: Between you and **I**.
+
+Correct: She sat beside **him**.  
+Correct: Nobody but **her** came.  
+Correct: A boy like **him** can do this.  
+Correct: The teacher along with **them** is present.
+
+Do not use **I / he / she / we / they** after these phrases.
+
+The full list and the verb rule are in [[Prepositions]].
+
 Possessive case has two forms: **possessive adjective** and **possessive pronoun**.
 
 ### Possessive adjective
@@ -382,10 +402,12 @@ Easy memory:
 2. **Use object pronouns after a verb.**  
     Correct: The teacher called **him and me**.  
     Incorrect: The teacher called **he and I**.
-3. **Use object pronouns after a preposition** such as _to, for, with, between, from_.  
+3. **Use object pronouns after a preposition** such as _between, with, beside, including, excluding, but, like, unlike, together with, along with, as well as, in addition to, rather than, accompanied by, no less than, nothing but_.  
     Correct: This gift is for **her**.  
     Correct: Between you and **me**, this is difficult.  
-    Incorrect: Between you and **I**.
+    Incorrect: Between you and **I**.  
+    Correct: Nobody but **him** knew.  
+    Correct: She went along with **them**.
 4. With **and**, remove the other person to check the correct pronoun.  
     “Rahul and **I** went home.” → “**I** went home.” ✅  
     “The teacher praised Rahul and **me**.” → “The teacher praised **me**.” ✅
