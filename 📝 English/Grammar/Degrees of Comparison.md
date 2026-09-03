@@ -679,6 +679,22 @@ Correct:
 
 ---
 
+## Error 7: Pronoun Case After `than` / `as`
+
+Compare **subject with subject** and **object with object**. See [[Pronoun]].
+
+Complete the sentence in your mind:
+
+- She is taller than **I** (am). → subject to subject
+- The teacher likes her more than **me**. → object to object
+
+Meaning changes with the case:
+
+- I like you more than **he**. = more than he likes you
+- I like you more than **him**. = more than I like him
+
+---
+
 # Special Comparative Structures
 
 ## The More..., the More...

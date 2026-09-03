@@ -20,6 +20,49 @@ A very useful shortcut is:
 **I / he / she / we / they = subjects**  
 **me / him / her / us / them = objects**
 
+### Comparison of pronouns
+
+After **than** or **as**, keep the **same case** on both sides.
+
+**Subject to subject** = subjective case compared with subjective case  
+**Object to object** = objective case compared with objective case
+
+Complete the sentence in your mind. Then choose **I/he/she** or **me/him/her**.
+
+#### Subject to subject
+
+The two sides are both **doers**.
+
+- She is taller than **I** (am).
+- He is as intelligent as **she** (is).
+- They work harder than **we** (do).
+
+Incorrect: She is taller than **me**. _(exam English: than **I**)_
+
+#### Object to object
+
+The two sides are both **receivers**.
+
+- The teacher likes her more than **me**.  
+  = The teacher likes her more than the teacher likes **me**.
+- I know you as well as **him**.  
+  = I know you as well as I know **him**.
+
+#### Same sentence, two meanings
+
+| Sentence | Hidden meaning | Case |
+| -------- | -------------- | ---- |
+| I like you more than **he**. | I like you more than **he likes you**. | subject to subject |
+| I like you more than **him**. | I like you more than **I like him**. | object to object |
+
+Easy memory:
+
+**Compare subject with subject.**  
+**Compare object with object.**  
+**Add the missing verb in your mind.**
+
+See also [[Degrees of Comparison]].
+
 Possessive case has two forms: **possessive adjective** and **possessive pronoun**.
 
 ### Possessive adjective
@@ -370,3 +413,8 @@ Easy memory:
 10. If the subject is **one**, keep **one / one's / oneself**. Do not change to **he / his / himself**.  
     Correct: One should do **one's** duty.  
     Incorrect: One should do **his** duty.
+11. In comparison, match **subject with subject** and **object with object**.  
+    Correct: She is taller than **I** (am).  
+    Correct: The teacher likes her more than **me**.  
+    I like you more than **he** = more than he likes you.  
+    I like you more than **him** = more than I like him.
