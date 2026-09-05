@@ -1,0 +1,5 @@
+| Word       | Type | Meaning                                                                                                                                                                                                    |
+| ---------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Spider<br> | Noun | an African and Asian mammal that has a body covered with horny overlapping scales, a small head with elongated snout, a long sticky tongue for catching ants and termites, and a thick, tapering tail.<br> |
+|            |      | Gossamer(કરોળિયાની લાળ) -> a fine, filmy substance consisting of cobwebs spun by small spiders, seen especially in autumn.                                                                                 |
+|            |      |                                                                                                                                                                                                            |

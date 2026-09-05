@@ -1,0 +1,9 @@
+
+| Idiom / Phrase                                                                                                          | Meaning                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Cut corners(IMP)                                                                                                        | To do something cheaply or carelessly                                                                           |
+| Cut to the chase                                                                                                        | Come to the main point                                                                                          |
+| To cut a sorry figure                                                                                                   | Make a poor impression                                                                                          |
+| Cut no ice                                                                                                              | Have no effect / Fall flat                                                                                      |
+| Cut from the same cloth<br><br>એક બાપ ના હોવું. <br>(સ્વભાવ કે ગુણોમાં ખૂબ સમાન હોવું / એક જ ઢાળમાં ઢાળેલા જેવા હોવું.) | to be very similar in character, behavior, or qualities.<br><br>Those two brothers are cut from the same cloth. |
+|                                                                                                                         |                                                                                                                 |

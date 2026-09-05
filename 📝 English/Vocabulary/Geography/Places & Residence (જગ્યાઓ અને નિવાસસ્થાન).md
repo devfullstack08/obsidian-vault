@@ -24,3 +24,6 @@
 | **Desert** (રણ)            | Noun | A dry area with very little rainfall.                                   |
 | **Oasis** (મરુદ્યાન)       | Noun | A fertile place in a desert where water is found.                       |
 | **Coast** (દરિયાકાંઠો)     | Noun | Land beside the sea.                                                    |
+
+
+Conurbation(collaboration) = A large urban area formed when two or more towns/cities grow and merge together

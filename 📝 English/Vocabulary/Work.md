@@ -1,0 +1,1 @@
+**Hiatus** = a **pause or break in an activity, series, work, or process**, usually temporary. -> gap, break, pause

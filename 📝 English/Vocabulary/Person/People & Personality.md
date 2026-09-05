@@ -18,19 +18,20 @@
 
 ## 2. Habit & Lifestyle
 
-| Word                                                              | Type | Meaning                                                                                            |
-| ----------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------- |
-| Epicure                                                           | Noun | A person who enjoys fine food and drink.                                                           |
-| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun | A person who eats excessively and greedily.                                                        |
-| Teetotaler                                                        | Noun | A person who never drinks alcohol.<br>- nondrinker, abstainer                                      |
-| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun | A person who walks while sleeping.                                                                 |
-| Vegetarian                                                        | Noun | A person who does not eat meat.                                                                    |
-| Vegan                                                             | Noun | A person who does not eat or use animal products.                                                  |
-| Nomad                                                             | Noun | A person or group that moves from place to place without a permanent home.                         |
-| Recluse                                                           | Noun | A person who avoids society and lives alone.                                                       |
-| Spendthrift                                                       | Noun | A person who spends money carelessly.                                                              |
-| Miser                                                             | Noun | A person who loves money and hates spending it.                                                    |
-| swallow(ગળી જવું)                                                 | verb | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe, |
+| Word                                                              | Type      | Meaning                                                                                            |
+| ----------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| Epicure                                                           | Noun      | A person who enjoys fine food and drink.                                                           |
+| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun      | A person who eats excessively and greedily.                                                        |
+| Teetotaler                                                        | Noun      | A person who never drinks alcohol.<br>- nondrinker, abstainer                                      |
+| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun      | A person who walks while sleeping.                                                                 |
+| Vegetarian                                                        | Noun      | A person who does not eat meat.                                                                    |
+| Vegan                                                             | Noun      | A person who does not eat or use animal products.                                                  |
+| Nomad                                                             | Noun      | A person or group that moves from place to place without a permanent home.                         |
+| Recluse                                                           | Noun      | A person who avoids society and lives alone.                                                       |
+| Spendthrift                                                       | Noun      | A person who spends money carelessly.                                                              |
+| Miser                                                             | Noun      | A person who loves money and hates spending it.                                                    |
+| swallow(ગળી જવું)                                                 | verb      | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe, |
+| queer                                                             | Adjective | strange; odd.                                                                                      |
 
 ## 4. Knowledge & Skill
 

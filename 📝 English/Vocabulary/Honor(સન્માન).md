@@ -1,0 +1,3 @@
+
+
+applauses = clap = તાળીઓ

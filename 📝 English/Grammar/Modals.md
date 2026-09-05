@@ -30,22 +30,22 @@ Incorrect:
 
 ## Main uses
 
-| Modal | Use | Example |
-| ----- | --- | ------- |
-| **can** | ability / informal permission | He can swim. / Can I come in? |
-| **could** | past ability / polite request / possibility | He could swim at 5. / Could you help me? |
-| **may** | formal permission / possibility | May I come in? / It may rain. |
-| **might** | weaker possibility | It might rain. |
-| **must** | strong necessity / logical certainty | You must work hard. / He must be tired. |
-| **have to** | outside necessity / rule | I have to attend the class. |
-| **should** | advice / duty | You should study. |
-| **ought to** | advice / moral duty | You ought to help him. |
-| **shall** | offer / suggestion with I/we | Shall we start? |
-| **will** | future / promise / determination | I will help you. |
-| **would** | polite request / imaginary | Would you like tea? / If I were rich, I would travel. |
-| **used to** | past habit | He used to play cricket. |
-| **need** | necessity | You need not worry. / Need I come? |
-| **dare** | courage | How dare you say that? |
+| Modal        | Use                                         | Example                                               |
+| ------------ | ------------------------------------------- | ----------------------------------------------------- |
+| **can**      | ability / informal permission               | He can swim. / Can I come in?                         |
+| **could**    | past ability / polite request / possibility | He could swim at 5. / Could you help me?              |
+| **may**      | formal permission / possibility             | May I come in? / It may rain.                         |
+| **might**    | weaker possibility                          | It might rain.                                        |
+| **must**     | strong necessity / logical certainty        | You must work hard. / He must be tired.               |
+| **have to**  | outside necessity / rule                    | I have to attend the class.                           |
+| **should**   | advice / duty                               | You should study.                                     |
+| **ought to** | advice / moral duty                         | You ought to help him.                                |
+| **shall**    | offer / suggestion with I/we                | Shall we start?                                       |
+| **will**     | future / promise / determination            | I will help you.                                      |
+| **would**    | polite request / imaginary                  | Would you like tea? / If I were rich, I would travel. |
+| **used to**  | past habit                                  | He used to play cricket.                              |
+| **need**     | necessity                                   | You need not worry. / Need I come?                    |
+| **dare**     | courage                                     | How dare you say that?                                |
 
 See also [[hypothetical or imaginary situations]] for **would / could / might** in if-clauses.
 
