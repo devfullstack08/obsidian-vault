@@ -36,3 +36,7 @@ Paper 1 is compulsory for everyone and has these parts:
 **Polity → Modern History → Ancient/Medieval History → Geography → Biology → Physics → Chemistry → Economy → Static GK → Current Affairs**
 
 "I completed Fundamental Rights. Take my SSC CGL AIR-1 test.
+
+
+
+Monday -> GS

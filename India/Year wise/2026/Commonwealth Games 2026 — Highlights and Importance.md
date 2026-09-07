@@ -113,14 +113,14 @@ Several omitted sports—especially shooting, wrestling, badminton, hockey and t
 
 ## 4. Final medal table—leading nations
 
-| Rank | Nation | Gold | Silver | Bronze | Total |
-|---:|---|---:|---:|---:|---:|
-| 1 | **Australia** | 70 | 45 | 56 | **171** |
-| 2 | **England** | 29 | 45 | 36 | **110** |
-| 3 | **Canada** | 19 | 20 | 23 | **62** |
-| 4 | **India** | 13 | 17 | 9 | **39** |
-| 5 | **Scotland** | 13 | 9 | 17 | **39** |
-| 6 | **New Zealand** | 10 | 14 | 12 | **36** |
+| Rank | Nation          | Gold | Silver | Bronze |   Total |
+| ---: | --------------- | ---: | -----: | -----: | ------: |
+|    1 | **Australia**   |   70 |     45 |     56 | **171** |
+|    2 | **England**     |   29 |     45 |     36 | **110** |
+|    3 | **Canada**      |   19 |     20 |     23 |  **62** |
+|    4 | **India**       |   13 |     17 |      9 |  **39** |
+|    5 | **Scotland**    |   13 |      9 |     17 |  **39** |
+|    6 | **New Zealand** |   10 |     14 |     12 |  **36** |
 
 India and Scotland both won 13 gold medals and 39 medals overall. India ranked above Scotland because it had more silver medals.
 

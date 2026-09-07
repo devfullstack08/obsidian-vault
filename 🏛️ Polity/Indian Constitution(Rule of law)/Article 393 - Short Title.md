@@ -26,7 +26,7 @@ Article 393 is the first article of **Part XXII** of the Constitution of India.
 * This article officially names the document. 
 * Any legal, official, or constitutional reference to this document must be made using the name **"Constitution of India"**.
 
-### 3. Part XXII Overview
+### 3. Part XXII(22) Overview
 Article 393 belongs to Part XXII, which consists of the following articles:
 * **Article 393:** Short Title.
 * **Article 394:** Commencement (defines when the Constitution came into force).
