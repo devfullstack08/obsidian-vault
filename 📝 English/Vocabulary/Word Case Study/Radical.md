@@ -1,0 +1,6 @@
+- . **Raja Ram Mohan Roy** — 19th-century India , he challenged practices such as sati and supported women’s rights, education, and religious reform.
+- **Ishwar Chandra Vidyasagar** — strongly supported widow remarriage and women’s education.
+- **Jyotirao Phule** — fought caste discrimination and promoted education for women and oppressed communities.
+- **Savitribai Phule** — pioneered girls’ education and challenged caste and gender inequality.
+- **Periyar E. V. Ramasamy** — advocated radical social reform against caste hierarchy and social inequality.
+- **B. R. Ambedkar** — pushed for major social and legal reforms against caste discrimination.

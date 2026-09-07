@@ -18,20 +18,24 @@
 
 ## 2. Habit & Lifestyle
 
-| Word                                                              | Type      | Meaning                                                                                            |
-| ----------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
-| Epicure                                                           | Noun      | A person who enjoys fine food and drink.                                                           |
-| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun      | A person who eats excessively and greedily.                                                        |
-| Teetotaler                                                        | Noun      | A person who never drinks alcohol.<br>- nondrinker, abstainer                                      |
-| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun      | A person who walks while sleeping.                                                                 |
-| Vegetarian                                                        | Noun      | A person who does not eat meat.                                                                    |
-| Vegan                                                             | Noun      | A person who does not eat or use animal products.                                                  |
-| Nomad                                                             | Noun      | A person or group that moves from place to place without a permanent home.                         |
-| Recluse                                                           | Noun      | A person who avoids society and lives alone.                                                       |
-| Spendthrift                                                       | Noun      | A person who spends money carelessly.                                                              |
-| Miser                                                             | Noun      | A person who loves money and hates spending it.                                                    |
-| swallow(ગળી જવું)                                                 | verb      | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe, |
-| queer                                                             | Adjective | strange; odd.                                                                                      |
+| Word                                                              | Type      | Meaning                                                                                                                                                                        |
+| ----------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Epicure                                                           | Noun      | A person who enjoys fine food and drink.                                                                                                                                       |
+| Glutton<br>Gourmand<br>Guzzle(eat or drink (something) greedily.) | Noun      | A person who eats excessively and greedily.                                                                                                                                    |
+| Teetotaler                                                        | Noun      | A person who never drinks alcohol.<br>- nondrinker, abstainer                                                                                                                  |
+| Somnambulist(નિદ્રામાં તરનાર)                                     | Noun      | A person who walks while sleeping.                                                                                                                                             |
+| Vegetarian                                                        | Noun      | A person who does not eat meat.                                                                                                                                                |
+| Vegan                                                             | Noun      | A person who does not eat or use animal products.                                                                                                                              |
+| Nomad                                                             | Noun      | A person or group that moves from place to place **without a permanent home**.                                                                                                 |
+| Recluse<br>(people → live alone)                                  | Noun      | A person who avoids society and lives alone.                                                                                                                                   |
+| Spendthrift                                                       | Noun      | A person who spends money carelessly.                                                                                                                                          |
+| Miser                                                             | Noun      | A person who loves money and hates spending it.                                                                                                                                |
+| swallow(ગળી જવું)                                                 | verb      | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe,                                                                             |
+| Queer                                                             | Adjective | strange; odd.                                                                                                                                                                  |
+| Dilatory (વિલંબિત)<br>(delay)                                     |           | - slow to act.<br>- Tardy, slow, unhurried, unpunctual, lax, slack, sluggish, sluggardly, snail-like, tortoise-like, lazy, idle, <br>- **indolent** (lazy person)<br>slothful. |
+| Tardy(મોડું આવતું)<br>(ટાઢો હાવ)                                  |           | Delaying or delayed beyond the right or expected time; late.                                                                                                                   |
+| procrastinator(વિલંબ કરનાર)                                       | Noun      | A person who habitually ** puts off doing things**.                                                                                                                            |
+|                                                                   |           |                                                                                                                                                                                |
 
 ## 4. Knowledge & Skill
 
