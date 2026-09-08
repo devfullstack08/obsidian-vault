@@ -64,3 +64,13 @@ From Latin _plagiarius_, originally meaning **kidnapper**; later it came to mean
 
 Delinquent - ગુનેગાર young 
 (delin + quent)
+
+
+
+
+
+
+| Word                                              | Type | Meaning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| perpetrator(ગુનેગાર)                              | Noun | - A person who carries out a harmful, illegal, or immoral act.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| in + car + ce + rate<br>(કેદ કરવું,જેલમાં પૂરવું) | Verb | imprison or confine.<br>- imprison<br>- put in prison<br>- send to prison<br>- jail<br>- lock up<br>- take into custody<br>- put under lock and key<br>- put away<br>- intern(નજરકેદમાં રાખેલી વ્યકિત)<br>- confine<br>- detain(રોકી રાખવું / hold)<br>- hold<br>- put into detention<br>- immure(કેદ કરવું)<br>- put in chains<br>- clap in irons<br>- hold prisoner<br>- hold captive<br>- detain at Her Majesty's pleasure<br>- confine(કેદમાં પૂરવું)<br>- shut away<br>- shut up<br>- coop up(સાંકડી જગ્યામાં રાખવું)<br>- cage(પાંજરું) |
