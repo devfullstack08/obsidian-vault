@@ -1,4 +1,3 @@
-
 ## Quantitative Aptitude
 * [[Common Rules|Common Rules & Divisibility Rules]]
 
@@ -298,50 +297,21 @@ This is an area where technology can genuinely save you time.
 
 
 
+### Main practice
+Chapter-wise SSC PYQ
 
-“Compress this into facts that have appeared or are highly relevant to SSC-style PYQs.”
-> “Turn those facts into active-recall questions.”
-> > “Test me.”
-> > 
-> > 
-> > 
-> > 
-> > 
-current events, everyday scientific awareness, History, Culture, Geography, Economy, general policy and scientific research.
+Gagan Pratap Sir
+Aditya Ranjan Sir
+Rakesh Yadav Sir
+Abhinay Sharma Sir
+SSC Wallah / Adda247 Maths
 
 
 
-Weak concept → watch selected lecture.
-Strong concept → solve questions.
-
-Maths weakness → Gagan Pratap
-GA → Parmar SSC
-English weakness → English With Rani Mam
-Reasoning weakness → Piyush Varshney
-
-Once you understand a topic, stop watching.
-
-| Subject         | Main learning                    | Main practice                |
-| --------------- | -------------------------------- | ---------------------------- |
-| Maths           | Gagan Pratap                     | Chapter-wise SSC PYQ         |
-| English         | Rani Mam / targeted explanations | SSC English PYQ              |
-| Reasoning       | Piyush Varshney                  | SSC Reasoning PYQ            |
-| GK/GS           | Parmar SSC                       | Parmar/PYQ + selected Lucent |
-| Current Affairs | One monthly SSC source           | MCQs                         |
-| Mock            | Oliveboard                       | Tier I + Tier II             |
-| Revision        | Obsidian/Anki + AI               | Error database               |
-|                 |                                  |                              |
-
-
-Data Entry Speed Test
+Reasoning
+Piyush Varshney
 
 
 
-- phone away,
-- no WhatsApp,
-- no Telegram browsing,
-- no random YouTube,
-- no strategy video,
-- no motivational video,
-- no searching for a better book,
-- no formatting notes.
+| GK/GS     | Parmar SSC         | Parmar/PYQ + selected Lucent |
+| --------- | ------------------ | ---------------------------- |

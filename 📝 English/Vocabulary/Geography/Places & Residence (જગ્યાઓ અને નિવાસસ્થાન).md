@@ -18,6 +18,7 @@
 | **District** (જિલ્લો)      | Noun | An administrative division of a state or country.                       |
 | **State** (રાજ્ય)          | Noun | A political unit within a country.                                      |
 | **Territory** (પ્રદેશ)     | Noun | An area of land under a government or ruler.                            |
+| **Creche**                 | Noun | A nursery where working parents leave young children.                   |
 | **Nation** (રાષ્ટ્ર)       | Noun | A large group of people with a common identity, culture, or government. |
 | **Country** (દેશ)          | Noun | A nation with its own government and territory.                         |
 | **Continent** (ખંડ)        | Noun | One of the large landmasses of the Earth.                               |

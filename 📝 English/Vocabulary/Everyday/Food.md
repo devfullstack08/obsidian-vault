@@ -28,6 +28,7 @@
 | **Full**     | adjective | having eaten enough                 | પેટ ભરેલું         |
 | **Satiated** | adjective | fully satisfied after eating        | સંપૂર્ણ તૃપ્ત      |
 | **Satiety**  | noun      | state of being full                 | તૃપ્તિ             |
+| swallow(ગળી જવું)                                                 | verb      | Cause or allow (something, especially food or drink) to pass down the throat.<br>- ingest, imbibe,                                                                             |
 
 ## Taste Vocabulary
 

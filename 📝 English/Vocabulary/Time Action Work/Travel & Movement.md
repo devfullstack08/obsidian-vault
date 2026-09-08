@@ -20,3 +20,4 @@
 | Explorer            | Noun      | A person who travels to discover new places.                                                                                                                                                                            |     |
 | Exile               | Noun      | A person forced to live away from their country.                                                                                                                                                                        |     |
 | Refugee             | Noun      | A person forced to leave their country because of danger, war, persecution, or violence.<br>- e.g During Hitler’s anti-Semitic rule, many Jews left Germany and became refugees in other countries to save their lives. |     |
+| Errand              | Noun      | **A short journey undertaken** in order to deliver or collect something, especially on someone else's behalf. |     |

@@ -24,8 +24,9 @@
 | Ephemeral                      | Adjective        | Lasting for a very short time.                      |     |
 | Momentary                      | Adjective        | Lasting for a very short moment.                    |     |
 | Punctual                       | Adjective        | Arriving or doing something on time.                |     |
-| Tardy                          | Adjective        | Late; delayed.                                      |     |
-| Dilatory                       | Adjective        | Slow to act; causing delay.                         |     |
+| Tardy(મોડું આવતું)<br>(ટાઢો હાવ)                                  |           | Delaying or delayed beyond the right or expected time; late.                                                                                                                   |
+| Relentless(અવિરત,સતત)                                                                                                 | Adjective   | - Adverb -continually <br>- constant, continuous, persistent, steady<br>- always,endlessly, <br>- incessant, pauseless, perennailally(નિરંતર), without a stop |     |
+| Dilatory (વિલંબિત)<br>(delay)                                     |           | - slow to act.<br>- Tardy, slow, unhurried, unpunctual, lax, slack, sluggish, sluggardly, snail-like, tortoise-like, lazy, idle, <br>- **indolent** (lazy person)<br>slothful. |
 | Imminent                       | Adjective        | About to happen very soon.                          |     |
 | Impending                      | Adjective        | About to happen, usually something serious.         |     |
 | Recent                         | Adjective        | Happened not long ago.                              |     |

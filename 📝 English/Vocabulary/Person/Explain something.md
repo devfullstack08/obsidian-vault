@@ -94,6 +94,7 @@
 | **State**     | clearly say a fact              |
 | **Brief**     | give only important information |
 | **Summarize** | give only main points           |
+| Condense(સંક્ષેપ કરવો)                                             | Verb      | Make (something) denser or more concentrated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Outline**   | give the basic structure        |
 | **Adumbrate** | give a rough/general outline    |
 

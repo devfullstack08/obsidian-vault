@@ -25,7 +25,7 @@ Sadness — noun
 | **Downcast** | Sad, shown on the face / lowered eyes |
 | **Miserable** | Very unhappy or suffering |
 | **Poignant** | Touching sadness; moves the heart |
-| **Tranquil** | Calm + peaceful + undisturbed. Noun: **tranquility**. Adverb: **tranquilly**. |
+| woe(દુ:ખ)                                                                      |                  | great sorrow or distress (often used hyperbolically).<br><br>Synonyms:<br>- misery, sorrow, distress<br>- wretchedness, sadness<br>- unhappiness<br>- heartache, heartbreak<br>- despondency<br>- desolation<br>- despair<br>- dejection<br>- depression<br>- gloom(અંધકાર, નિરાશ હાલત)<br>- melancholy(ઉદાસીનતા)<br>- adversity(પડતી દશા)<br>- misfortune(દુર્ભાગ્ય) , fortune(નસીબ)<br>- disaster<br>- affliction, suffering<br>- hardship, pain<br>- agony(વેદના, પીડા)<br>- grief<br>- anguish(વેદના)<br>- torment(ત્રાસ આપવો)<br>- dolor(પીડા)      |     |
 
 Easy scale:
 
@@ -41,3 +41,30 @@ Easy scale:
 - **Poignant** = touching sadness
 
 Do not mix **miserable** with **mesmerise** (મંત્રમુગ્ધ કરવું).
+
+---
+
+## Calm
+
+| Word | Meaning |
+| ---- | ------- |
+| **Tranquil** | Calm + peaceful + undisturbed. Noun: **tranquility**. Adverb: **tranquilly**. |
+| serene(શાંત,ગંભીર)<br>calm + peaceful + untroubled = serene(સરીન)                       | Adjective                                                                                       | calm, peaceful, and untroubled; tranquil.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| soothe - smooth(શાંત પાડવું)                                                            | verb                                                                                            | Gently calm (a person or their feelings).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+---
+
+## Anger
+
+| Word | Meaning |
+| ---- | ------- |
+| **Anger / ire** | Anger |
+| **Rage** | Very strong anger |
+| **Frenzy / rampage** | Wild uncontrolled anger or violence |
+| **Tantrum** | Sudden angry outburst, often of a child |
+| **Petulance** | Childish bad temper |
+| **Vexation / exasperation** | Annoyance |
+| **Pique** | Slight hurt pride / annoyance |
+| **Grudge** | Old anger kept in the mind |
+| **Displeasure** | Mild anger; not pleased |
+| **In high dudgeon** | Offended and angry |

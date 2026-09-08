@@ -1,3 +1,4 @@
 
-
 applauses = clap = તાળીઓ
+
+| Accolade(વખાણ)                                                     |           | An award or privilege granted as a special honor or as an acknowledgment of merit.<br><br>- e.g the ski resort achieved the ultimate accolade of playing host to the Winter Olympics<br><br>Synonyms:<br>- honor, recognition, privilege, award, gift, title, prize, <br>- laurels (ખ્યાતિ) / laurel (સાહિત્ય)<br>- bays (Bay of Bengal)<br>- palm(હથેળી) ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
