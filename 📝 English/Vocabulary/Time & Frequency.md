@@ -15,7 +15,9 @@
 | Era                            | Noun             | A long and important period of history.             |     |
 | Epoch                          | Noun             | A particular period of time in history or life.     |     |
 | Contemporary                   | Adjective        | Belonging to the same time period.                  |     |
-| Temporary<br>(tem + po + rary) | Adjective        | Lasting for a short time.                           |     |
+| Temporary<br>(tem + po + rary) | Adjective        | Lasting for a short time.                           |
+| Tentative(અનિશ્ચિત)            | Adjective        | Not certain / not final; done as a trial. Also: hesitant.<br>- A **tentative** date = the date may change.<br>- A **tentative** smile = shy / unsure.<br>- **Temporary** = for a short time. **Tentative** = not sure yet. |
+| Tentative(અનિશ્ચિત, ખચકાતું)   | Adjective        | Not certain / not final. Also: hesitant.<br>- A **tentative date** = the date may change.<br>- A **tentative smile** = a shy, unsure smile.<br>Easy trap: **temporary** = short time. **tentative** = not sure yet. |     |
 | Permanent                      | Adjective        | Lasting forever or for a very long time.            |     |
 | Perennial                      | Adjective        | Lasting for a long time; recurring again and again. |     |
 | Eternal                        | Adjective        | Lasting forever; without end.                       |     |
