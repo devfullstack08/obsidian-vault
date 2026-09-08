@@ -33,3 +33,5 @@
 | Medieval                       | Adjective        | Related to the Middle Ages.                         |     |
 | Modern                         | Adjective        | Related to the present or recent times.             |     |
 | Posthumous                     | Adjective        | Happening, published, or awarded after death.       |     |
+| Contemporary / contemporaries(સમકાલીન) | Adjective / noun | Belonging to the same time. Syn: peer, fellow. Do not mix with **contempt** (તિરસ્કાર) or **contemplate** (મનન કરવું). |
+| Prelude(પ્રસ્તાવના)            | Noun             | An action or event that is an introduction to something more important. Syn: preface, outset, inception, commencement. |

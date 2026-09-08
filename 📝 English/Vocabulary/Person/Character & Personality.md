@@ -39,3 +39,25 @@
 | cynic                                                                                   |                                                                                                 | A person who doubt the sincerity of goodness of others.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Reclusive(Solitary)                                                                     | - **Recluse** = noun, the person<br>- **Reclusive** = adjective, describes the person/lifestyle | Avoiding the company of other people and preferring to live alone<br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Intransigent<br>(હઠીલું)                                                                |                                                                                                 | Unwilling or refusing to change one's view or to agree about something<br>- uncompromising, inflexible, unbending, unyielding, stubborn, **pigheaded**, single minded, **rigid**, **determind**<br>- Informal: still-necked                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Zealotry | Noun | Fanatical, uncompromising pursuit of an idea. Person: **zealot**. |
+| Aberrant | Adjective | Deviating from what is normal or expected. |
+| Ingratiate | Verb | Try to win favour, often for a selfish reason. |
+| Pompous / pompously | Adjective / adverb | Self-important in speech or manner. |
+
+
+---
+
+## Anger (રોષ)
+
+| Word | Meaning |
+| ---- | ------- |
+| **Anger / ire** | Anger |
+| **Rage** | Very strong anger |
+| **Frenzy / rampage** | Wild uncontrolled anger or violence |
+| **Tantrum** | Sudden angry outburst, often of a child |
+| **Petulance** | Childish bad temper |
+| **Vexation / exasperation** | Annoyance |
+| **Pique** | Slight hurt pride / annoyance |
+| **Grudge** | Old anger kept in the mind |
+| **Displeasure** | Mild anger; not pleased |
+| **In high dudgeon** | Offended and angry |

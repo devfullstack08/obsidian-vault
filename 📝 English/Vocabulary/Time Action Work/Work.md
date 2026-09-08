@@ -1,4 +1,9 @@
-**Hiatus** = a **pause or break in an activity, series, work, or process**, usually temporary. → gap, break, pause
+**Hiatus** = a **pause or break in an activity, series, work, or process**, usually temporary. → gap, break, pause, interruption.
+
+Examples:
+
+- Covid produced a **hiatus** in many businesses.
+- An accident caused a **hiatus** in rush-hour traffic.
 
 | Word | Type | Meaning |
 | ---- | ---- | ------- |

@@ -8,3 +8,17 @@
 | withstand(ટકી રહેવું)                    | Verb      | - remain undamaged or unaffected by; resis<br>- resist(પ્રતિકાર કરવો), hold out against, stand firm against, stand/hold one's ground against, bear up against, hold the line against, persevere in the face of, stand up to<br>- fight, combat<br>- grapple with (ઝઘડો કરવો) : engage in a close fight or struggle without weapons; wrestle.<br>- oppose, face, confront(come + front / face to face) <br>- defy, brave<br>- survive, live through, ride out, endure, take<br>- cope with(સામનો કરવો): (of a person) deal effectively with something difficult.<br>- stand, tolerate, bear, put up with |
 | defy(અવગણવું)                            | Verb      | openly resist or refuse to obey.<br>- resist, brave, withstand<br>- withstand, take a stand against, hold out against, stand up to<br>- confront(come + front / face to face), face, meet head-on, take on, square up to<br><br>deafe(બહેરાશ)<br>dwife (પત્ની)                                                                                                                                                                                                                                                                                                                                          |
 | endure(સહન કરવું,વેઠવું)<br>(in + do͝or) | Verb      | suffer (something painful or difficult) patiently.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Elusive | Adjective | Difficult to find, catch, or achieve. Success became more **elusive**. |
+| Delude | Verb | Make someone believe something that is not true. Noun: **delusion**. Adj: **delusional**. |
+| Allude | Verb | Mention indirectly. Already in [[speech]]. Pair: **allude** = hint; **delude** = cheat. |
+
+---
+
+## Mystery
+
+| Word | Type | Meaning |
+| ---- | ---- | ------- |
+| **Mystery** | Noun | Something unexplained. Adj: **mysterious**. Verb: **mystify**. |
+| **Mystique** | Noun | Attractive aura created by mystery. |
+
+**Mystery** = unknown thing. **Mystique** = charm of mystery.

@@ -151,3 +151,7 @@
 | Cryptic (ગૂઢ / સમજાય નહીં એવું)                             | Adjective          | Mysterious and hard to understand; like a hidden message.                                                                    |
 | Vague (અસ્પષ્ટ / ઝાંખું)                                    | Adjective          | Not exact or clear.                                                                                                          |
 | Forthright (સીધો અને સ્પષ્ટ બોલનાર)                         | Adjective          | Direct and honest; opposite of oblique / equivocal.                                                                          |
+| Asperity | Noun | Harshness of tone or manner. The teacher replied with **asperity**. Ant: gentleness, politeness. |
+| Upbraid(ઠપકો આપવો) | Verb | Scold or blame strongly. Syn: reprimand, rebuke, chide, admonish. |
+| Denigrate(બદનામ કરવું) | Verb | Speak badly of someone; damage a reputation. Noun: **denigration**. |
+| Felicitous(બંધબેસતું) | Adjective | Well chosen; suited to the situation. |
