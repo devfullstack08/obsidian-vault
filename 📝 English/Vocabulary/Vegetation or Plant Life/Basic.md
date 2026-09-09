@@ -1,4 +1,14 @@
 
+| Plant(વનસ્પતિ)                                                                                  | Grass(ઘાસ,ખડ)                                                                                                            |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| A **plant** is the general category. Trees, flowers, bushes, herbs, and grasses are all plants. | **Grass** is a particular type of plant, usually with narrow leaves and jointed stems, often growing in lawns or fields. |
+| All Plants are not grass                                                                        | All grass is a plant                                                                                                     |
+| Leaves can be **wide, round, pointed, or many shapes**                                          | Usually has **long, thin leaves**                                                                                        |
+| Often grows as a **single plant, bush, flower, or tree**                                        | Often grows in **clumps or a carpet**                                                                                    |
+| Many plants have **branches or thick stems**                                                    | Usually has **no obvious branches**                                                                                      |
+| Examples: **rose, sunflower, tomato plant, mango tree**                                         | Examples: **lawn grass, wheat, rice, bamboo**                                                                            |
+
+
 | Gujarati          | English                         | Meaning                                 |
 | ----------------- | ------------------------------- | --------------------------------------- |
 | વૃક્ષ             | **Tree**                        | a tall woody plant                      |
@@ -42,6 +52,7 @@
 | Flora<br>(અમુક પ્રદેશની તળપદી વનસ્પતિ) | Noun | - All the plant life of a particular region.<br>- The **flora** of the Western Ghats is very diverse.            |
 | Vegetation                             |      | - Plants growing collectively in an area.<br>- Rajasthan has sparse **vegetation**.                              |
 | Foliage(પર્ણસમૂહ)                      |      | - The leaves of plants or trees.<br>- The forest has thick green **foliage**.                                    |
+| Foliate(પાંદડાંવાળું / પાંદડાં ઉગાડવું) | Verb / adjective | - Verb: to grow leaves.<br>- Adjective: having leaves; leaf-shaped.<br>- Related: **foliage** = the leaves. |
 | Undergrowth                            |      | - Small plants and bushes growing under trees.<br>- The jungle has dense **undergrowth**.                        |
 | Canopy(છત્ર)                           |      | - Upper layer formed by tree branches and leaves.<br>- Very little sunlight reaches below the forest **canopy**. |
 | Weed(નીંદણ)                            |      | an unwanted plant growing among crops or garden plants.                                                          |

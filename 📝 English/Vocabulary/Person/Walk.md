@@ -29,6 +29,7 @@
 | **Stalk**     | verb      | walk in a stiff, proud, or angry way                | અકડથી / ગુસ્સામાં ચાલવું           |
 | **Swagger**   | verb      | walk proudly as if very important                   | ઠાઠથી / અહંકારથી ચાલવું            |
 | **Strut**     | verb      | walk proudly with exaggerated confidence            | છાતી કાઢીને અહંકારથી ચાલવું        |
+| **Stomp**     | verb      | walk with heavy, noisy, often angry steps           | ભારે પગલે કૂદવું / પગ પછાડવા       |
 | **Sashay**    | verb      | walk in a confident, showy way                      | દેખાડાભર્યા અંદાજે ચાલવું          |
 | **Scurry**    | verb      | move quickly with short steps                       | નાના ઝડપી પગલાંથી દોડવું           |
 | **Scuttle**   | verb      | run or move quickly with short steps                | ગભરાઈને નાના પગલાંથી ભાગવું        |

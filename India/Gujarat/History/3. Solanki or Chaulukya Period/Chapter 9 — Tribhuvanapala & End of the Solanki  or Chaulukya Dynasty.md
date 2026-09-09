@@ -489,7 +489,7 @@ Ruler:
 
 > **Mularaja II**
 
-Regent:
+Regent(minor or incapacitated):
 
 > **Naikidevi**
 

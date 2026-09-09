@@ -1,7 +1,6 @@
 
 | Word                                    | Type      | Meaning                                                                                                                                                                 |
 | --------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-maturely<br>(અકાળે)                 | Adverb    | before the due time; ahead of time.                                                                                                                                     |
 | Per-petually<br>(નિરંતર)                | Adverb    | in a way that **never ends** or changes; constantly.                                                                                                                    |
-| Pre- carious<br>(અનિશ્ચિત)              | Adjective | not securely held or in position; dangerously likely to fall or collapse.                                                                                               |
 | Per-fidious<br>(વિશ્વાસઘાતી,<br>દગાખોર) | Adjective | Decetiful, untrustworthy, **treacherous**, duplicitous, disloyal, faithless, unfaithful, **traitorous**, treasons, false, untrue, double-dealing, two-faced, dishonest. |
+| Per- colate(ઝરવું)                      | verb      | (of a liquid or gas) filter gradually through a porous surface or substance.<br>- To pass throw layer                                                                   |
