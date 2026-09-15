@@ -68,3 +68,11 @@ Do not mix **miserable** with **mesmerise** (મંત્રમુગ્ધ ક�
 | **Grudge** | Old anger kept in the mind |
 | **Displeasure** | Mild anger; not pleased |
 | **In high dudgeon** | Offended and angry |
+
+---
+
+## Holding feelings down
+
+| Word                                                                   | Type | Meaning                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repression(દમન / ભાવનાઓને દબાવી રાખવી)<br><br>Expression + press(hold) | Noun | Pushing feelings down and keeping them inside; also cruel control of people by a government.<br>- Verb: **repress**. Adj: **repressive**.<br>- He **repressed** his anger.<br>- Political **repression** of protests.<br>- Syn: suppression, restraint, oppression.<br>Easy: **repress** = hold down. **express** = let out. |

@@ -1,4 +1,5 @@
 understable - understandable
+knowlegible - can
 
 pretend - ઢોંગ કરવો
 

@@ -9,6 +9,8 @@
 | Elusive | Adjective | Difficult to find, catch, or achieve. Success became more **elusive**. |
 | Delude | Verb | Make someone believe something that is not true. Noun: **delusion**. Adj: **delusional**. |
 | Allude | Verb | Mention indirectly. Already in [[speech]]. Pair: **allude** = hint; **delude** = cheat. |
+| Tangible(સ્પર્શી શકાય તેવું / મૂર્ત) | Adjective | Real; can be touched or clearly seen.<br>- **Tangible** proof / a **tangible** benefit. |
+| Intangible(અસ્પર્શ્ય / અમૂર્ત) | Adjective | Cannot be touched; not physical. Feelings, ideas, reputation.<br>- Love is **intangible**.<br>- **Intangible** assets = goodwill, brand (not a building).<br>Easy pair: **tangible** = can touch. **intangible** = cannot. |
 
 ---
 

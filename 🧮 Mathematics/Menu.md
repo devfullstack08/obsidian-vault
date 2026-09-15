@@ -1,3 +1,5 @@
+
+
 ## Quantitative Aptitude
 * [[Common Rules|Common Rules & Divisibility Rules]]
 
@@ -313,5 +315,50 @@ Piyush Varshney
 
 
 
-| GK/GS     | Parmar SSC         | Parmar/PYQ + selected Lucent |
-| --------- | ------------------ | ---------------------------- |
+| GK/GS | Parmar SSC | Parmar/PYQ + selected Lucent |
+| ----- | ---------- | ---------------------------- |
+|       |            |                              |
+
+
+1. Question Pattern Library / Pattern Recognition Drill
+2. Eventually you aren't reading the complete English sentence.
+
+substitute the options.
+units digit
+divisibility
+approximation
+ratio between options
+eliminate impossible values
+boundary/range checking
+reverse calculation
+
+
+Mental solved
+Partial mental
+Paper required
+
+
+Mental mode
+
+MODE 1 — Direct Recognition
+
+
+Concept
+↓
+PYQ
+↓
+Pattern ID
+↓
+Direct recognition
+↓
+Option elimination
+↓
+Back-solving
+↓
+Approximation
+↓
+Mental solution
+↓
+Target <30 sec
+↓
+Repeat until automatic
