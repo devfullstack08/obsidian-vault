@@ -1,6 +1,5 @@
 
-bitter 
-
+bitter
 
 - **Glass half full** → **positive / optimistic** thinking. You focus on what you have.
 - **Glass half empty** → **negative / pessimistic** thinking. You focus on what is missing.

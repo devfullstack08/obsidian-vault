@@ -50,7 +50,7 @@
 > He is senior **to** me.
 > She is married **to** a doctor.
 
-### Rules 1. With words like senior, junior, superior, inferior, prior, we use to, not than.
+### Rules 1. With words like senior, junior, superior, inferior, prior, we use to, not than(IMP).
 
 Because **senior** already has a comparative meaning: **higher in age, position, rank, or experience**.
 
@@ -136,6 +136,17 @@ Easy memory:
 **Verb → first subject, not the extra phrase.**
 
 
-| Word    | When we use                                                             |
-| ------- | ----------------------------------------------------------------------- |
-| from    | (દૂર રાખવા માંગતા હોય ત્યારે) -> keep it away -> then there it must use |
+| Word | When we use                                                             |
+| ---- | ----------------------------------------------------------------------- |
+| from | (દૂર રાખવા માંગતા હોય ત્યારે) -> keep it away -> then there it must use |
+|      |                                                                         |
+
+Use **since** with a **starting point in time**.
+(since = from when)
+- since 2019
+- since Monday
+- since morning
+I have lived here **since I got this job**. → **since = conjunction** because it introduces a clause: _I got this job_.
+
+Use **for** with a **duration**: for 5 years, for 2 hours, for a week.
+(for = how long)

@@ -197,3 +197,13 @@ Any = negative and Interrogative
 - She tole me that she needed **some** time to think about my proposal.
 - You all are invited to my birthday party this weekend but please don't bring **any** presents. 
 
+### Rules 17. Rarely, barely, hardly, scarcely, seldom, never have a negative or almost-negative meaning.
+
+Rarely, barely, hardly, scarcely, seldom, never have a negative meaning, so they take a positive question tag.
+
+Example.
+1. He rarely visits, his hometown during the festival season, **doesn't** - does he?
+2. > He has never been to Delhi, **has he?**
+3. She hardly understands English, **does she?**
+4. They seldom make mistakes, **do they?**
+5. He barely passed the examination, **did he?**

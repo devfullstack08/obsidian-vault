@@ -1,21 +1,19 @@
 understable - understandable
 knowlegible - can
+Calender - Calendar 
 
-pretend - ઢોંગ કરવો
 
 
 blasphemous(અપવિત્ર)
 ungodly(અધર્મી, પાપી)
 
 
-videlicet
-
-
+example, videlicet
 
 cannon - તોપ
 canal, channel - નહેર
 
-Extr**i**mist -> Extr**e**mist 
+Extr**i**mist -> Extr**e**mist (કટ્ટરપંથી)
 
 inte**rr**ogate 
 irrogate

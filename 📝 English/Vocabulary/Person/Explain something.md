@@ -123,9 +123,9 @@
 
 These are very useful vocabulary words.
 
-| Word                                    | Type      | Meaning                       |
-| --------------------------------------- | --------- | ----------------------------- |
-| **Lucid (સ્પષ્ટ / સરળતાથી સમજાય એવું)** | Adjective | Clear and easy to understand. |
+| Word                                                          | Type      | Meaning                                                                   |
+| ------------------------------------------------------------- | --------- | ------------------------------------------------------------------------- |
+| **Lucid (સ્પષ્ટ / સરળતાથી સમજાય એવું)**<br>Lucid Movie - 2025 | Adjective | **Clear** and easy to understand.<br><br>Per-spi(SPY)-ca-ouse<br>Pellucid |
 
 ### Clarify
 
