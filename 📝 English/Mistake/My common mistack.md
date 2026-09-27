@@ -25,3 +25,7 @@ Indelible -> endure -> Ineradicable(અવિનાશી) -> Innate(In born) ->
 full of enthusiastic
 fervent -> zealot
 extremist -> radical
+
+
+
+petty

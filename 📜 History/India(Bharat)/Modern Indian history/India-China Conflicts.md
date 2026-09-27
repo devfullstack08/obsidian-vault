@@ -11,14 +11,15 @@ Since India’s independence in 1947 and the establishment of the People's Repub
 
 ## 1. Chronology of Major Conflicts
 
-| Year | Conflict / Event | Location | Outcome / Status |
-| :--- | :--- | :--- | :--- |
-| **1962** | **Sino-Indian War** | Ladakh & NEFA (Arunachal Pradesh) | Chinese victory; Aksai Chin occupied by China; unilateral ceasefire. |
-| **1967** | **Nathu La & Cho La Clashes** | Sikkim Border | **Indian tactical victory**; Chinese forces repulsed with heavy casualties. |
-| **1987** | **Sumdorong Chu Standoff** | Tawang District, Arunachal | Peaceful resolution after Indian troop buildup (**Operation Falcon**). |
-| **2013** | **Depsang Standoff** | Aksai Chin / Ladakh border | 3-week standoff resolved through diplomatic talks; status quo restored. |
-| **2017** | **Doklam Standoff** | Tri-junction (Bhutan, Tibet, Sikkim) | 73-day standoff; resolved after both sides agreed to pull back troops. |
-| **2020** | **Galwan Valley & Ladakh Clash** | Eastern Ladakh | First fatal clash since 1975; disengagement talks still ongoing. |
+| Year     | Conflict / Event                 | Location                             | Outcome / Status                                                            |
+| :------- | :------------------------------- | :----------------------------------- | :-------------------------------------------------------------------------- |
+| **1962** | **Sino-Indian War**              | Ladakh & NEFA (Arunachal Pradesh)    | Chinese victory; Aksai Chin occupied by China; unilateral ceasefire.        |
+| **1967** | **Nathu La & Cho La Clashes**    | Sikkim Border                        | **Indian tactical victory**; Chinese forces repulsed with heavy casualties. |
+| **1987** | **Sumdorong Chu Standoff**       | Tawang District, Arunachal           | Peaceful resolution after Indian troop buildup (**Operation Falcon**).      |
+| **2013** | **Depsang Standoff**             | Aksai Chin / Ladakh border           | 3-week standoff resolved through diplomatic talks; status quo restored.     |
+| **2017** | **Doklam Standoff**              | Tri-junction (Bhutan, Tibet, Sikkim) | 73-day standoff; resolved after both sides agreed to pull back troops.      |
+| **2020** | **Galwan Valley & Ladakh Clash** | Eastern Ladakh                       | First fatal clash since 1975; disengagement talks still ongoing.            |
+|          |                                  |                                      |                                                                             |
 
 ---
 

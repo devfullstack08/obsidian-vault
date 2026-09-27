@@ -1,6 +1,6 @@
 ## Basic Introduction
 
-The **Day of Qiyamah** means the **Day of Resurrection** or **Day of Judgment**.
+The **Day of Qiyamah** means the **Day of Resurrection** or **Day of Judgment(A day of reckoning)**.
 
 In Islam, Muslims believe that this world is temporary and one day it will end.
 
