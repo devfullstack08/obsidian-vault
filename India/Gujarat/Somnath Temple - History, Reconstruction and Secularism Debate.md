@@ -1,3 +1,30 @@
+
+### Chronological Timeline(17 times attacks)
+
+| Period/Year                   | Event                                                                                             |
+| ----------------------------- | ------------------------------------------------------------------------------------------------- |
+| Puranic tradition             | Chandra worships Shiva at Prabhas and Shiva becomes known as Somnath                              |
+| Ancient–early medieval period | Prabhas develops as an important pilgrimage centre                                                |
+| Before the 11th century       | A wealthy and prominent temple exists at Somnath                                                  |
+| 1025–26                       | Mahmud of Ghazni raids and plunders Somnath                                                       |
+| 11th century                  | Restoration associated with Bhima I and Bhoja                                                     |
+| 12th century                  | Major restoration associated with Kumarapala                                                      |
+| 1299                          | Gujarat invaded by **Almas Beg/Ulugh** khan(commander) Alauddin Khalji’s forces; Somnath attacked |
+| c. 1308                       | Restoration associated with Chudasama ruler Mahipala I                                            |
+| 1331–1351                     | Linga reportedly reinstalled under Khengara(son)                                                  |
+| 1395                          | Attack associated with Zafar Khan                                                                 |
+| Later medieval period         | Further phases of destruction, alteration and revival                                             |
+| 1782–83                       | Ahilyabai Holkar builds a new shrine near the older temple                                        |
+| 1842                          | British “Gates of Somnath” episode                                                                |
+| 1947                          | Junagadh crisis and accession to India                                                            |
+| 12–13 November 1947           | Sardar Patel visits Somnath and announces reconstruction                                          |
+| 1950                          | Ground-breaking and foundation-laying ceremonies                                                  |
+| 15 December 1950              | Sardar Patel dies                                                                                 |
+| 11 May 1951                   | Rajendra Prasad performs _Pran Pratishtha_                                                        |
+| 7 May 1965                    | Important later temple ceremonies and flag installation                                           |
+| 1 December 1995               | Completed reconstructed temple dedicated to the nation                                            |
+| 2026                          | Seventy-five years commemorated since the 1951 consecration                                       |
+
 ## 1. Introduction
 
 GOD - The **Somnath Temple** is an important Hindu temple dedicated to **Lord Shiva**. 
@@ -181,28 +208,6 @@ The Chaulukya ruler **Kumarapala** is associated with a major restoration of Som
 ---
 
 # 7. Mahmud of Ghazni
-
-## 7.1 Background
-
-Mahmud of Ghazni ruled the Ghaznavid Empire from 998 to 1030 CE.
-
-His capital was at Ghazni in present-day Afghanistan.
-
-He conducted repeated military expeditions into the Indian subcontinent. His objectives included:
-
-- obtaining wealth;
-- expanding political influence;
-- controlling strategic territories;
-- strengthening his prestige;
-- presenting himself as a champion of Islam;
-- financing his court, army and empire.
-
-Therefore, his campaigns had interconnected:
-
-- political;
-- economic;
-- military;
-- religious dimensions.
 
 ## 7.2 Raid on Somnath
 
@@ -890,34 +895,6 @@ The temple complex and surrounding area include:
 - sound-and-light presentations.
 
 The fully reconstructed temple was dedicated to the nation in 1995. In 2026, official commemorations marked **75 years since the 1951 consecration**.
-
----
-
-# 22. Chronological Timeline
-
-|Period/Year|Event|
-|---|---|
-|Puranic tradition|Chandra worships Shiva at Prabhas and Shiva becomes known as Somnath|
-|Ancient–early medieval period|Prabhas develops as an important pilgrimage centre|
-|Before the 11th century|A wealthy and prominent temple exists at Somnath|
-|1025–26|Mahmud of Ghazni raids and plunders Somnath|
-|11th century|Restoration associated with Bhima I and Bhoja|
-|12th century|Major restoration associated with Kumarapala|
-|1299|Gujarat invaded by Alauddin Khalji’s forces; Somnath attacked|
-|c. 1308|Restoration associated with Chudasama ruler Mahipala I|
-|1331–1351|Linga reportedly reinstalled under Khengara|
-|1395|Attack associated with Zafar Khan|
-|Later medieval period|Further phases of destruction, alteration and revival|
-|1782–83|Ahilyabai Holkar builds a new shrine near the older temple|
-|1842|British “Gates of Somnath” episode|
-|1947|Junagadh crisis and accession to India|
-|12–13 November 1947|Sardar Patel visits Somnath and announces reconstruction|
-|1950|Ground-breaking and foundation-laying ceremonies|
-|15 December 1950|Sardar Patel dies|
-|11 May 1951|Rajendra Prasad performs _Pran Pratishtha_|
-|7 May 1965|Important later temple ceremonies and flag installation|
-|1 December 1995|Completed reconstructed temple dedicated to the nation|
-|2026|Seventy-five years commemorated since the 1951 consecration|
 
 ---
 

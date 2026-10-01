@@ -1,4 +1,6 @@
 
+- People (background, so the event and the person stay together):
+  - [[People/00. Index|People]]
 - Indian Constitution:
   - [[Article 392 - Power of President to Remove Difficulties|Article 392 (Power to Remove Difficulties)]]
   - [[Article 393 - Short Title|Article 393 (Short Title)]]

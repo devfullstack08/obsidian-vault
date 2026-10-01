@@ -17,7 +17,7 @@ tags:
   - sports
   - current-affairs-2026
   - Ahmedabad-2030
-  - 
+
 ---
 
 # Commonwealth Games 2026 — Highlights and Importance
@@ -503,16 +503,16 @@ The Games have a colonial historical origin, but their contemporary value should
 
 ## 15. Birmingham 2022 versus Glasgow 2026—India
 
-| Item | Birmingham 2022 | Glasgow 2026 |
-|---|---:|---:|
-| India’s rank | Fourth | Fourth |
-| Gold | 22 | 13 |
-| Silver | 16 | 17 |
-| Bronze | 23 | 9 |
-| Total | 61 | 39 |
-| Programme | Larger programme | Compact ten-sport programme |
-| Indian strongholds | Wrestling, badminton, hockey and table tennis included | These sports excluded |
-| Main Indian story | Broad multi-sport success | Boxing and athletics adaptation |
+| Item               |                                        Birmingham 2022 |                    Glasgow 2026 |
+| ------------------ | -----------------------------------------------------: | ------------------------------: |
+| India’s rank       |                                                 Fourth |                          Fourth |
+| Gold               |                                                     22 |                              13 |
+| Silver             |                                                     16 |                              17 |
+| Bronze             |                                                     23 |                               9 |
+| Total              |                                                     61 |                              39 |
+| Programme          |                                       Larger programme |     Compact ten-sport programme |
+| Indian strongholds | Wrestling, badminton, hockey and table tennis included |           These sports excluded |
+| Main Indian story  |                              Broad multi-sport success | Boxing and athletics adaptation |
 
 > A lower medal total does not automatically mean India performed worse. The event programme changed radically.
 
