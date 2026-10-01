@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜 History/India(Bharat)/Modern Indian history/1600.md",
+                "file": "📜 History/Abrahamic Religions/Islam/After Muhammad/01. Origins of the Schism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1600"
-            }
-          },
-          {
-            "id": "4b3071f58b1f912a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜 History/India(Bharat)/Modern Indian history/Phase 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phase 1"
-            }
-          },
-          {
-            "id": "ed138178d4515a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/01. Muhammad bin Qasim(712CE).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. Muhammad bin Qasim(712CE)"
+              "title": "01. Origins of the Schism"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/01. Muhammad bin Qasim(712CE).md",
+                "file": "📜 History/Abrahamic Religions/Islam/After Muhammad/01. Origins of the Schism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,12 +216,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed138178d4515a34",
+  "active": "5731a096dba7aa19",
   "lastOpenFiles": [
+    "📜 History/India(Bharat)/Modern Indian history/1600.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/02. From Muhammad to Medieval India.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/04. Umayyads and the Road to Sindh.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/05. Abbasids and the Rise of Regional Powers.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/06. Ghazni to Ghor to Delhi.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/07. Geography and Visual Revision.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/08. Recall Questions and Exam Traps.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/01. Origins of the Schism.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/03. Succession and the Rashidun Caliphs.md",
+    "📜 History/Abrahamic Religions/Islam/Month of Ramdan(Islamic holy month).md",
+    "📜 History/Abrahamic Religions/Islam/Day of Qiyamah or  Day of Judgment in Islam.md",
+    "📜 History/Abrahamic Religions/Islam/C3. Prophet Muhammad’s Relationship with Jerusalem.md",
+    "📜 History/Abrahamic Religions/Islam/C2. Foundation of Islam.md",
+    "📜 History/Abrahamic Religions/Islam/C1. Initial Life of Prophet Muhammad.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/Assets/arabia-to-medieval-india-poster.png",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/Assets/arabia-india-geography.svg",
+    "📜 History/Abrahamic Religions/Ancient Religions and Civilizations.md",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/Assets/build-geography-map.mjs",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad/Assets",
+    "📜 History/Abrahamic Religions/Islam/After Muhammad",
+    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/01. Muhammad bin Qasim(712CE).md",
     "📜 History/India(Bharat)/Modern Indian history/Portuguese/Key Event.md",
     "📜 History/India(Bharat)/Modern Indian history/India-Pakistan Wars.md",
     "📜 History/India(Bharat)/Modern Indian history/Phase 1.md",
-    "📜 History/India(Bharat)/Modern Indian history/1600.md",
     "📜 History/India(Bharat)/Modern Indian history/Portuguese",
     "🔬 Science & Technology/Human body/Basic or Topic.md",
     "Untitled 2.md",
@@ -259,22 +250,8 @@
     "📜 History/India(Bharat)/Modern Indian history/India-China Conflicts.md",
     "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/Dynasties/Overview.md",
     "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/02. Muhammad of Ghazni.md",
-    "Vardhana dynasty.md",
     "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/Dynasties",
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/Sindh.md",
     "Screenshot 2026-09-28 at 11.32.40 PM.png",
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/Overview.md",
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/01. Muhammad bin Qasim(712CE).md",
-    "India/Year wise/16th century(1501-1600)/1600.md",
-    "India/Year wise/16th century(1501-1600)/1608.md",
-    "India/Year wise/1946.md",
-    "India/Year wise/1947.md",
-    "India/Year wise/2026/Commonwealth Games 2026 — Highlights and Importance.md",
-    "India/Year wise/2020.md",
-    "India/Year wise/1966.md",
-    "India/Year wise/1950.md",
-    "India/Year wise/1954.md",
-    "📜 History/India(Bharat)/Ancient Indian History/Overview.md",
     "CarnaticRegion (1).jpg",
     "CarnaticRegion.jpg",
     "📜 History/India(Bharat)/Medieval Indian history/Later Medieval India",
@@ -282,9 +259,6 @@
     "📜 History/India(Bharat)/Modern Indian history/Important person",
     "India/Year wise/16th century(1501-1600)",
     "India/Year wise/17th century(1601-1700)",
-    "India/Year wise/18th century(1701–1800)",
-    "India/Year wise/21st century(2001 to 2100)",
-    "India/Year wise/20th century(1901 to 2000)",
     "Untitled.canvas"
   ]
 }
