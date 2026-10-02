@@ -1,6 +1,6 @@
-1. Muhammad bin Qasim(Khalifa) 
-2. Muhammad of Ghazni
-3. Muhammad of Ghroi
+1. Muhammad bin Qasim (commander, Sindh, 712)
+2. Mahmud of Ghazni
+3. Muhammad Ghori
 
 
 After **Harsha died in 647 CE**, he left **no strong successor**, so his empire broke apart. India again became divided among several regional kingdoms.
