@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+  <rect width="1400" height="860" fill="#faf7ef"/>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #243036; }
+    .h { font-size: 28px; font-weight: bold; }
+    .sub { font-size: 16px; fill: #5c564c; }
+    .box { font-size: 16px; font-weight: bold; }
+    .small { font-size: 14px; fill: #3d474b; }
+    text.on-dark { fill: #ffffff; }
+  </style>
+  <text x="40" y="46" class="h">The schism in one picture: who should lead after Muhammad?</text>
+  <text x="40" y="76" class="sub">Teach this left to right. The split is about succession. It is not a split over whether there is one God.</text>
+
+  <rect x="430" y="98" width="540" height="104" rx="8" fill="#1e3a4c"/>
+  <text x="700" y="138" text-anchor="middle" class="on-dark" font-size="20" font-weight="bold">632: Muhammad dies in Medina</text>
+  <text x="700" y="172" text-anchor="middle" class="on-dark" font-size="16">Arabia is united. No successor both sides accept.</text>
+
+  <path d="M560,202 V210" stroke="#8a8172" stroke-width="2"/>
+  <path d="M840,202 V210" stroke="#8a8172" stroke-width="2"/>
+
+  <rect x="80" y="210" width="560" height="150" rx="8" fill="#e7f0ea" stroke="#2f6f4e" stroke-width="2"/>
+  <text x="360" y="242" text-anchor="middle" class="box">Sunni path: the community chooses</text>
+  <text x="110" y="272" class="small">632: companions at Saqifa elect Abu Bakr, the first caliph.</text>
+  <text x="110" y="296" class="small">Sunna = the way of Muhammad. Leader should be a qualified Muslim.</text>
+  <text x="110" y="320" class="small">The first four caliphs are later called the Rashidun, rightly guided.</text>
+  <text x="110" y="344" class="small">Abu Bakr, then Umar, then Uthman, then Ali.</text>
+
+  <rect x="760" y="210" width="560" height="150" rx="8" fill="#f8efe6" stroke="#a85b1a" stroke-width="2"/>
+  <text x="1040" y="242" text-anchor="middle" class="box">Shia path: leadership stays in the family</text>
+  <text x="790" y="272" class="small">Shia from shiatu Ali, partisans of Ali.</text>
+  <text x="790" y="296" class="small">Ali: cousin and son-in-law of Muhammad. Married to Fatima.</text>
+  <text x="790" y="320" class="small">Claim: the rightful leader must come through Muhammad's bloodline.</text>
+  <text x="790" y="344" class="small">Ali is the first Imam. His descendants are the Imams.</text>
+
+  <rect x="80" y="400" width="1240" height="130" rx="8" fill="#fff" stroke="#c4bba8"/>
+  <text x="110" y="432" class="box">What happened next: say these three dates</text>
+  <text x="110" y="464" class="small">656: Ali becomes the fourth caliph. He rules from Kufa. He is killed in 661.</text>
+  <text x="110" y="488" class="small">661: Muawiya begins the Umayyad caliphate at Damascus. Shias do not accept this dynasty.</text>
+  <text x="110" y="512" class="small">680: Karbala, in Iraq. Soldiers of Yazid, the second Umayyad caliph, kill Ali's son Husayn.</text>
+
+  <text x="40" y="575" class="box">Later, Shias themselves split over which descendant was the next Imam</text>
+
+  <rect x="80" y="596" width="380" height="150" rx="8" fill="#f8efe6" stroke="#a85b1a"/>
+  <text x="270" y="628" text-anchor="middle" class="box">Zaydi: split at the 5th Imam</text>
+  <text x="100" y="658" class="small">Mostly in Yemen.</text>
+  <text x="100" y="682" class="small">Imam rule there lasted into the 1960s.</text>
+  <text x="100" y="716" class="small">Smallest of the three branches.</text>
+
+  <rect x="500" y="596" width="400" height="150" rx="8" fill="#f8efe6" stroke="#a85b1a"/>
+  <text x="700" y="628" text-anchor="middle" class="box">Ismaili: split at the 7th Imam</text>
+  <text x="520" y="658" class="small">Important in South Asia, and in a diaspora.</text>
+  <text x="520" y="682" class="small">Nizari Ismailis revere the Aga Khan as the</text>
+  <text x="520" y="706" class="small">living representative of their Imam.</text>
+  <text x="520" y="730" class="small">The Fatimids of Egypt were Ismaili.</text>
+
+  <rect x="940" y="596" width="380" height="150" rx="8" fill="#f3e4d4" stroke="#8a3d12" stroke-width="2"/>
+  <text x="1130" y="628" text-anchor="middle" class="box">Twelver: twelve Imams</text>
+  <text x="960" y="658" class="small">Majority of Shias. Iran, Iraq, and others.</text>
+  <text x="960" y="682" class="small">12th Imam entered occultation, hiddenness,</text>
+  <text x="960" y="706" class="small">around 941. He will return at the end of time.</text>
+  <text x="960" y="730" class="small">Senior scholars are called ayatollahs.</text>
+
+  <text x="40" y="790" class="small">Sunni imam usually means the person who leads prayer. Shia Imam means the rightful leader from Ali's line. Do not mix the two.</text>
+  <text x="40" y="822" class="small">Classroom guide, not a full family tree. Dates follow the standard exam account. Source: CFR, The Sunni-Shia Divide.</text>
+</svg>
