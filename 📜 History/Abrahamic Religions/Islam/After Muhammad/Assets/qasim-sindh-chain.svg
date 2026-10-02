@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="320" viewBox="0 0 1500 320">
+  <rect width="1500" height="320" fill="#faf7ef"/>
+  <style>text{font-family:Arial,sans-serif;fill:#243036}.h{font-size:22px;font-weight:bold}.n{font-size:16px;font-weight:bold}.s{font-size:13px;fill:#3d474b}.w{fill:#fff}</style>
+  <text x="36" y="40" class="h">Who reached Sindh? A commander, not a caliph. 711-712.</text>
+  <rect x="36" y="70" width="250" height="100" rx="8" fill="#1e3a4c"/>
+  <text x="161" y="108" text-anchor="middle" class="w n">al-Walid I</text>
+  <text x="161" y="134" text-anchor="middle" class="w s">Umayyad caliph</text>
+  <text x="161" y="154" text-anchor="middle" class="w s">Damascus</text>
+  <text x="300" y="126" font-size="28">></text>
+  <rect x="340" y="70" width="280" height="100" rx="8" fill="#245c6e"/>
+  <text x="480" y="108" text-anchor="middle" class="w n">al-Hajjaj</text>
+  <text x="480" y="134" text-anchor="middle" class="w s">governor in Iraq</text>
+  <text x="480" y="154" text-anchor="middle" class="w s">sends the army</text>
+  <text x="634" y="126" font-size="28">></text>
+  <rect x="670" y="70" width="300" height="100" rx="8" fill="#a85b1a"/>
+  <text x="820" y="108" text-anchor="middle" class="w n">Muhammad bin Qasim</text>
+  <text x="820" y="134" text-anchor="middle" class="w s">commander</text>
+  <text x="820" y="154" text-anchor="middle" class="w s">not khalifa, not sultan</text>
+  <text x="984" y="126" font-size="28">></text>
+  <rect x="1020" y="70" width="440" height="100" rx="8" fill="#2f6f4e"/>
+  <text x="1240" y="108" text-anchor="middle" class="w n">Sindh, 711-712</text>
+  <text x="1240" y="134" text-anchor="middle" class="w s">Debal, then interior</text>
+  <text x="1240" y="154" text-anchor="middle" class="w s">Raja Dahir defeated, 712</text>
+  <text x="36" y="210" class="n">Route to remember</text>
+  <text x="36" y="240" class="s">Iran, then the Makran coast, then Debal on the lower Indus, then inland Sindh, then Multan.</text>
+  <text x="36" y="268" class="s">This is Arab rule in Sindh and the lower Indus, not the conquest of all India. Trade with India was already older than 712.</text>
+  <text x="36" y="296" class="s">Qasim is recalled after 715. Almost 300 years pass before Mahmud of Ghazni, 998.</text>
+</svg>

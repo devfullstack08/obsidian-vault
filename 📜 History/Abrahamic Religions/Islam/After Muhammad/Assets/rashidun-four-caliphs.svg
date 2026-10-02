@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="280" viewBox="0 0 1500 280">
+  <rect width="1500" height="280" fill="#faf7ef"/>
+  <style>text{font-family:Arial,sans-serif;fill:#243036}.h{font-size:22px;font-weight:bold}.n{font-size:16px;font-weight:bold}.s{font-size:13px;fill:#3d474b}.w{fill:#fff}</style>
+  <text x="36" y="40" class="h">Rashidun, 632-661. Four caliphs, then a dynasty.</text>
+  <rect x="36" y="70" width="280" height="120" rx="8" fill="#1e3a4c"/>
+  <text x="176" y="110" text-anchor="middle" class="w n">1. Abu Bakr</text>
+  <text x="176" y="136" text-anchor="middle" class="w s">632-634</text>
+  <text x="176" y="160" text-anchor="middle" class="w s">Ridda wars</text>
+  <rect x="336" y="70" width="280" height="120" rx="8" fill="#245c6e"/>
+  <text x="476" y="110" text-anchor="middle" class="w n">2. Umar</text>
+  <text x="476" y="136" text-anchor="middle" class="w s">634-644</text>
+  <text x="476" y="160" text-anchor="middle" class="w s">Syria, Egypt, Iraq, Iran</text>
+  <rect x="636" y="70" width="280" height="120" rx="8" fill="#2f6f4e"/>
+  <text x="776" y="110" text-anchor="middle" class="w n">3. Uthman</text>
+  <text x="776" y="136" text-anchor="middle" class="w s">644-656</text>
+  <text x="776" y="160" text-anchor="middle" class="w s">Written Qur'an; killed 656</text>
+  <rect x="936" y="70" width="280" height="120" rx="8" fill="#a85b1a"/>
+  <text x="1076" y="110" text-anchor="middle" class="w n">4. Ali</text>
+  <text x="1076" y="136" text-anchor="middle" class="w s">656-661, at Kufa</text>
+  <text x="1076" y="160" text-anchor="middle" class="w s">First Fitna; killed 661</text>
+  <rect x="1236" y="70" width="230" height="120" rx="8" fill="#fff" stroke="#1e3a4c" stroke-width="2"/>
+  <text x="1351" y="110" text-anchor="middle" class="n">661</text>
+  <text x="1351" y="136" text-anchor="middle" class="s">Muawiya</text>
+  <text x="1351" y="160" text-anchor="middle" class="s">Umayyads, Damascus</text>
+  <text x="36" y="230" class="s">Memory: Abu Bakr, Umar, Uthman, Ali. Caliph means leader of the community, not a new prophet.</text>
+  <text x="36" y="256" class="s">Why they split is in the schism chapter. This strip is only the order of rule.</text>
+</svg>
