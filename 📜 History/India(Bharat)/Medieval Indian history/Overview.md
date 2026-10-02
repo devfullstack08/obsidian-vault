@@ -1,4 +1,6 @@
-**Medieval History(700 CE to 1750 CE)** 
+**Medieval History(700 CE to 1750 CE)**
+
+Revision maps: [[Bharat]] for about 850, 1000 and 1206. [[Bharat from the later medieval age to 1947]] for 1350, 1605, 1765 and 1947. 
 
 You can divide **Indian Medieval History** into two major parts:
 

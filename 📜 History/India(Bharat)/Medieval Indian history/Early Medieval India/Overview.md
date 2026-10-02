@@ -1,3 +1,5 @@
+Revision maps, same coastline, who holds the ground and who loses it: [[Bharat]].
+
 1. Muhammad bin Qasim (commander, Sindh, 712)
 2. Mahmud of Ghazni
 3. Muhammad Ghori

@@ -7,13 +7,13 @@ import {fileURLToPath} from 'node:url';
 
 const dir = path.dirname(fileURLToPath(import.meta.url));
 const land = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
-const W = 1500;
-const H = 980;
-const box = {x: 36, y: 118, w: 1428, h: 700};
-const LON0 = 66;
-const LON1 = 82.2;
-const LAT0 = 19.2;
-const LAT1 = 36.2;
+const W = 1680;
+const H = 1240;
+const box = {x: 28, y: 108, w: 1624, h: 880};
+const LON0 = 65.5;
+const LON1 = 83.2;
+const LAT0 = 18.8;
+const LAT1 = 37.0;
 
 const xy = ([lon, lat]) => [
   box.x + ((lon - LON0) / (LON1 - LON0)) * box.w,
@@ -37,14 +37,18 @@ svg += `</defs>`;
 svg += `<rect width="${W}" height="${H}" fill="#faf7ef"/>`;
 svg += `<style>
 text{font-family:Arial,sans-serif;fill:#243036}
-.place{font-size:16px;font-weight:bold;paint-order:stroke;stroke:#faf7ef;stroke-width:4px}
-.year{font-size:13px;fill:#3d474b;paint-order:stroke;stroke:#faf7ef;stroke-width:3px}
-.region{font-size:15px;fill:#6e685c;letter-spacing:1px}
+.place{font-size:14px;font-weight:bold;fill:#1e2a2e}
+.king{font-size:12px;fill:#3d474b}
+.result{font-size:12px;font-weight:bold;fill:#8a3b12}
+.held{font-size:12px;font-weight:bold;fill:#8a2e2e}
+.home{font-size:12px;font-weight:bold;fill:#1e3a4c}
+.region{font-size:14px;fill:#6e685c;letter-spacing:1px}
 .small{font-size:15px;fill:#3d474b}
+.foot{font-size:14px;fill:#3d474b}
 </style>`;
-svg += `<text x="36" y="42" font-size="28" font-weight="bold">Mahmud's roads from Ghazni, 998-1030</text>`;
-svg += `<text x="36" y="74" font-size="17">Blue: into the northwest and the Ganga plain. Orange: Multan, then the desert, to Somnath in Gujarat. Both lines start at Ghazni and come back.</text>`;
-svg += `<text x="36" y="100" font-size="15" fill="#5c564c">Dashed lines are classroom guides, not the exact path of each army. He did not make Delhi his capital.</text>`;
+svg += `<text x="28" y="36" font-size="28" font-weight="bold">Mahmud's roads from Ghazni, 998-1030</text>`;
+svg += `<text x="28" y="66" font-size="16">Numbers are the order of these campaigns. 7 is one campaign. 8 is one campaign. Old lists of "17 raids" do not agree, so learn this order.</text>`;
+svg += `<text x="28" y="90" font-size="15" fill="#5c564c">Dashed lines are classroom guides, not the exact path of each army. A defeat is one campaign. It does not always end the dynasty.</text>`;
 svg += `<g clip-path="url(#map)"><rect x="${box.x}" y="${box.y}" width="${box.w}" height="${box.h}" fill="#d7e6ec"/>`;
 
 for (const f of land.features) {
@@ -65,41 +69,129 @@ const region = (s, p) => {
   const [x, y] = xy(p);
   svg += `<text x="${x.toFixed(1)}" y="${y.toFixed(1)}" class="region">${esc(s)}</text>`;
 };
-region('AFGHANISTAN', [66.4, 35.2]);
-region('PUNJAB', [73.2, 31.0]);
-region('THAR DESERT', [71.6, 26.2]);
-region('GUJARAT', [72.6, 22.4]);
-region('GANGA PLAIN', [79.2, 28.3]);
+region('AFGHANISTAN', [66.0, 36.35]);
+region('PUNJAB', [74.3, 30.55]);
+region('THAR DESERT', [72.9, 26.5]);
+region('GUJARAT', [74.4, 22.15]);
+region('GANGA PLAIN', [81.0, 29.2]);
 
-const places = [
-  ['Ghazni', [68.42, 33.55], 12, -12, true],
-  ['Peshawar, 1001', [71.58, 34.02], 10, -14, false],
-  ['Waihind, 1008', [72.35, 33.85], -8, 22, false],
-  ['Multan, 1006', [71.47, 30.2], -118, 6, false],
-  ['Nagarkot, 1009', [76.27, 32.1], 8, -12, false],
-  ['Thanesar, 1014', [76.82, 29.97], 10, -12, false],
-  ['Mathura', [77.67, 27.49], -78, 20, false],
-  ['Kannauj, 1018', [79.92, 27.05], 8, -10, false],
-  ['Gwalior', [78.18, 26.22], -70, 18, false],
-  ['Kalinjar, 1022', [80.48, 24.98], 8, 16, false],
-  ['Somnath, 1025', [70.4, 20.88], 12, 4, false],
-  ['Delhi — not his capital', [77.21, 28.61], 10, -8, false],
-  ['Lohkot, 1015, failed', [73.5, 34.7], 8, -8, false],
+// lines: [text, class]. dx>=0 grows right from the anchor; dx<0 grows left.
+const card = (at, dx, dy, lines) => {
+  const [ax, ay] = xy(at);
+  const width = Math.ceil(Math.max(...lines.map(([t]) => t.length)) * 8.05 + 20);
+  const height = lines.length * 16 + 10;
+  const left = dx >= 0 ? ax + dx : ax + dx - width;
+  const top = ay + dy;
+  const joinX = dx >= 0 ? left : left + width;
+  svg += `<line x1="${ax.toFixed(1)}" y1="${ay.toFixed(1)}" x2="${joinX.toFixed(1)}" y2="${(top + height / 2).toFixed(1)}" stroke="#8a8172" stroke-width="1"/>`;
+  svg += `<rect x="${left.toFixed(1)}" y="${top.toFixed(1)}" width="${width}" height="${height}" rx="3" fill="#faf7ef" stroke="#c4bba8"/>`;
+  lines.forEach(([t, cls], i) => {
+    svg += `<text x="${(left + 8).toFixed(1)}" y="${(top + 16 + i * 16).toFixed(1)}" class="${cls}">${esc(t)}</text>`;
+  });
+};
+
+card([68.42, 33.55], -8, -58, [
+  ['Ghazni', 'place'],
+  ['Mahmud, Ghaznavid, 977-1186', 'king'],
+  ['His reign, 998-1030', 'home'],
+]);
+card([71.58, 34.02], 14, -64, [
+  ['1. Peshawar, 1001', 'place'],
+  ['Jayapala, Hindu Shahi', 'king'],
+  ['to 1026. Defeated.', 'result'],
+]);
+card([72.35, 33.85], -10, 30, [
+  ['3. Waihind, 1008', 'place'],
+  ['Anandapala, same dynasty', 'king'],
+  ['Defeated. Power broken.', 'result'],
+]);
+card([73.4, 34.55], 78, -22, [
+  ['6. Lohkot, 1015', 'place'],
+  ['Sangramaraja, Lohara', 'king'],
+  ['1003-1028. He held.', 'held'],
+]);
+card([71.47, 30.2], -12, -62, [
+  ['2. Multan, 1006', 'place'],
+  ['Abul Fath Daud, Ismaili, c. 959-1010', 'king'],
+  ['Removed', 'result'],
+]);
+card([76.27, 32.1], 12, -58, [
+  ['4. Nagarkot, 1009', 'place'],
+  ['Katoch fort of Kangra', 'king'],
+  ['Treasury taken. Line not ended.', 'result'],
+]);
+card([76.82, 29.97], -188, 6, [
+  ['5. Thanesar, 1014', 'place'],
+  ['Temple town, not a dynasty capital', 'king'],
+  ['Raided', 'result'],
+]);
+card([77.21, 28.61], 14, -36, [
+  ['Delhi, not a numbered raid', 'place'],
+  ['Tomara Rajputs, until the 12th c.', 'king'],
+  ['Not taken. Not his capital.', 'held'],
+]);
+card([77.67, 27.49], -16, 14, [
+  ['7. Mathura, 1018', 'place'],
+  ['Temple city, on the Kannauj road', 'king'],
+  ['Raided', 'result'],
+]);
+card([79.92, 27.05], 12, -58, [
+  ['7. Kannauj, 1018', 'place'],
+  ['Rajyapala, Pratihara, c. 730-1036', 'king'],
+  ['Fled', 'result'],
+]);
+card([78.18, 26.22], -16, 16, [
+  ['8. Gwalior, 1022', 'place'],
+  ['Kirtiraja, Kachchhapaghata', 'king'],
+  ['10th-12th c. Submitted.', 'held'],
+]);
+card([80.48, 24.98], 12, 10, [
+  ['8. Kalinjar, 1022', 'place'],
+  ['Vidyadhara, Chandela, 9th-13th c.', 'king'],
+  ['Not occupied', 'held'],
+]);
+card([70.4, 20.88], -14, -18, [
+  ['9. Somnath, 1025', 'place'],
+  ['Bhima I, Solanki, 1022-1064', 'king'],
+  ['Temple sacked. King stayed.', 'result'],
+]);
+card([71.5, 23.6], 16, -8, [
+  ['10. Sindh, 1027', 'place'],
+  ['Jats, not a royal house', 'king'],
+  ['Attacked his return', 'result'],
+]);
+
+const dots = [
+  [[68.42, 33.55], true],
+  [[71.58, 34.02], false],
+  [[72.35, 33.85], false],
+  [[73.4, 34.55], 'stop'],
+  [[71.47, 30.2], false],
+  [[76.27, 32.1], false],
+  [[76.82, 29.97], false],
+  [[77.21, 28.61], 'stop'],
+  [[77.67, 27.49], false],
+  [[79.92, 27.05], false],
+  [[78.18, 26.22], false],
+  [[80.48, 24.98], false],
+  [[70.4, 20.88], false],
 ];
-
-for (const [name, p, dx, dy, home] of places) {
+for (const [p, kind] of dots) {
   const [x, y] = xy(p);
-  const failedPlace = name.includes('failed') || name.includes('not his');
-  svg += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${home ? 7 : 4.5}" fill="${home ? '#1e3a4c' : failedPlace ? '#8a2e2e' : '#1e2a2e'}"/>`;
-  svg += `<text x="${(x + dx).toFixed(1)}" y="${(y + dy).toFixed(1)}" class="place">${esc(name)}</text>`;
+  const fill = kind === true ? '#1e3a4c' : kind === 'stop' ? '#8a2e2e' : '#1e2a2e';
+  svg += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${kind === true ? 6.5 : 4.5}" fill="${fill}" stroke="#faf7ef" stroke-width="1.5"/>`;
 }
 
 svg += '</g>';
 svg += `<rect x="${box.x}" y="${box.y}" width="${box.w}" height="${box.h}" fill="none" stroke="#c4bba8"/>`;
-svg += `<path d="M36,848 h46" stroke="#1e5f8a" stroke-width="4" stroke-dasharray="10 6"/><text x="92" y="854" class="small">North India, 1001-1022: Peshawar, Kangra, Thanesar, Mathura, Kannauj, Gwalior, Kalinjar</text>`;
-svg += `<path d="M36,882 h46" stroke="#b85a1a" stroke-width="4" stroke-dasharray="2 7"/><text x="92" y="888" class="small">Gujarat, 1025-26: Ghazni to Multan, across the desert, to Somnath. Return attacked in Sindh, 1027.</text>`;
-svg += `<path d="M36,916 h46" stroke="#8a2e2e" stroke-width="4" stroke-dasharray="4 5"/><text x="92" y="922" class="small">Failed push toward Kashmir, 1015. Red is a stop, not a conquest.</text>`;
-svg += `<text x="36" y="958" class="small">He annexed the Punjab frontier and raided beyond it. The deep raids ended back at Ghazni. Coastline: Natural Earth, public domain.</text>`;
+
+const foot = box.y + box.h + 28;
+svg += `<path d="M28,${foot} h46" stroke="#1e5f8a" stroke-width="4" stroke-dasharray="10 6"/><text x="86" y="${foot + 5}" class="small">Blue: north India. Brown word = Mahmud won that fight or took the spoil. The dynasty often went on.</text>`;
+svg += `<path d="M28,${foot + 32} h46" stroke="#b85a1a" stroke-width="4" stroke-dasharray="2 7"/><text x="86" y="${foot + 37}" class="small">Orange: Multan, the Thar, Somnath. Red word = he was stopped, or he did not keep the place.</text>`;
+svg += `<path d="M28,${foot + 64} h46" stroke="#8a2e2e" stroke-width="4" stroke-dasharray="4 5"/><text x="86" y="${foot + 69}" class="small">Red road: Lohkot. Sangramaraja of Kashmir held it.</text>`;
+svg += `<text x="28" y="${foot + 102}" class="foot">Dynasties: Ghaznavid 977-1186. Hindu Shahi, 9th century-1026. Ismaili Multan, about 959-1010. Gurjara-Pratihara, about 730-1036.</text>`;
+svg += `<text x="28" y="${foot + 124}" class="foot">Chandela, 9th-13th century. Kachchhapaghata of Gwalior, 10th-12th century. Solanki (Chaulukya) of Gujarat, about 940-1244. Lohara of Kashmir from 1003. Tomaras at Delhi until the Chauhans in the 12th century.</text>`;
+svg += `<text x="28" y="${foot + 150}" class="foot">He annexed the Punjab frontier and raided beyond it. Coastline: Natural Earth, public domain.</text>`;
 svg += '</svg>';
 
 fs.writeFileSync(path.join(dir, 'ghazni-to-india-routes.svg'), svg);

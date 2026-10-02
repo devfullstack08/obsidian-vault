@@ -18,7 +18,7 @@
   
 - **Chola Empire**, a South Indian empire which ruled from **Tamil Nadu** and extending to neighbouring states. Also conducted raids on Southeast Asian kingdoms at its height. Ruled from the 9th century to 13th century.
 
-- **Western Chalukya Empire**, ruled most of the western Deccan and some of South India, between the 10th and 12th centuries. Kannada-speaking, with capital at **Badami**.
+- **Western Chalukya Empire**, ruled most of the western Deccan and some of South India, between the 10th and 12th centuries. Kannada-speaking, with capital at **Kalyani**. The older Chalukyas of **Badami** are the earlier house, above.
 
 - **Kalachuri dynasty,** ruled areas in Central India during 10th-12th centuries.
 
