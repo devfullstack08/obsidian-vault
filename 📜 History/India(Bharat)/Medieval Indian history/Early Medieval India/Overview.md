@@ -7,6 +7,8 @@ Revision maps, same coastline, who holds the ground and who loses it: [[Bharat i
 5. [[05. Iltutmish (1211–1236)]] — he consolidates it. Delhi becomes the capital.
 6. [[06. Razia Sultan (1236–1240)]] — his daughter. The Turkish nobles remove her in 1240.
 7. [[07. Ghiyas ud-Din Balban (1266–1287)]] — he breaks those nobles, holds the Indus, and dies in 1287. The Slave line ends in 1290.
+8. [[08. Jalaluddin Firuz Khalji (1290–1296)]] — the first Khalji. Killed at Kara in 1296 by his nephew and son-in-law.
+9. [[09. Alauddin Khalji (1296–1316)]] — the Khalji reign questions describe. The south pays tribute. Delhi keeps the government.
 
 
 After **Harsha died in 647 CE**, he left **no strong successor**, so his empire broke apart. India again became divided among several regional kingdoms.
