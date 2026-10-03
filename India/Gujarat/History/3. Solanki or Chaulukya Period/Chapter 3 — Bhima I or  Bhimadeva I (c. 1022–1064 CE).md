@@ -11,6 +11,10 @@ He was Durlabharaja’s nephew and the son of **Nagaraja**.
 
 He ruled from **Anahilapataka (Patan)**.
 
+No portrait of Bhima I survives. This picture is a fictional illustration of a Solanki king at Patan, made so the reign has a face to remember. It is not a likeness.
+
+![[bhima-i-fictional.jpg]]
+
 ---
 
 ## 2. Mahmud of Ghazni and Somnath — 1025–26 CE
@@ -21,6 +25,10 @@ Mahmud entered Gujarat and attacked the **Somnath temple** in Saurashtra around 
 
 
 > **Mahmud of Ghazni → Somnath → Bhima I**
+
+![[bhima-withdraws-to-kanthkot.jpg]]
+
+Fictional illustration. It puts two distant movements in one frame so the story is easy to see. On the left, Bhima’s party withdraws toward the hill fort of **Kanthkot in Kutch**. On the right, a separate column rides toward the coast and the temple. Kutch and Somnath are not next to each other. The two sides do not meet, and no face here is Mahmud or Bhima.
 
 ### What did Bhima do?
 
@@ -47,6 +55,10 @@ For exam purposes, the safest point is:
 > **Somnath was restored after Mahmud’s raid during the wider political recovery under Bhima I.**
 
 Avoid overly precise claims about a single person rebuilding the entire temple unless the source/question specifically gives that tradition.
+
+![[somnath-ruins-1869.jpg]]
+
+This is a real photograph of the ruined Somnath shrine in **1869**, public domain, Wikimedia Commons, *File:Somnath temple ruins (1869).jpg*. It is not the temple Bhima knew in 1025, and it is not the temple that stands at Somnath today. That present building is a twentieth-century reconstruction. The photograph shows an older stone temple, already broken, still standing on the same site centuries after the raid.
 
 ---
 
@@ -92,6 +104,10 @@ It is dedicated to:
 
 > **Surya — the Sun God**
 
+![[modhera-sun-temple.jpg]]
+
+A real photograph of the Sun Temple at Modhera, the sabha mandapa. Wikimedia Commons, *File:Sun Temple, Modhera 08.jpg*, CC BY-SA. This is the monument to connect with Bhima’s reign, not a portrait of the king.
+
 ### Important parts
 
 The temple complex includes:
@@ -135,6 +151,14 @@ So remember:
 
 > **Bhima I → Minister Vimal Shah → Vimal Vasahi → Mount Abu**
 
+![[vimal-shah-mount-abu.jpg]]
+
+Fictional illustration of a minister watching marble carvers at Mount Abu. No portrait of Vimal Shah survives. He is not the king. Bhima did not carve this temple himself.
+
+![[dilwara-ceiling.jpg]]
+
+A real photograph of a marble ceiling at the Dilwara temples, Mount Abu. Wikimedia Commons, *File:Ceiling of Dilwara Jain Temple Abu Rajasthan India.jpg*. Vimal Vasahi is the Dilwara temple of Bhima’s reign. The later Luna Vasahi, built in the thirteenth century, is a different temple on the same hill. Do not mix the two.
+
 ---
 
 # 8. Rani ki Vav
@@ -152,6 +176,20 @@ in memory of Bhima I.
 Therefore:
 
 > **Bhima I → Queen Udayamati → Rani ki Vav**
+
+No portrait of Queen Udayamati survives. This picture is a fictional illustration of her commissioning the stepwell in Bhima’s memory. The face is invented.
+
+![[udayamati-fictional.jpg]]
+
+The stepwell itself is real, at Patan.
+
+![[rani-ki-vav-view.jpg]]
+
+Wikimedia Commons, *File:A view of Rani Ki Vav.jpg*, CC BY 2.0. The well descends in storeys. The queen is not in the photograph. The monument is the memorial associated with her.
+
+![[rani-ki-vav.jpg]]
+
+Carved figures on the walls of the same stepwell. Wikimedia Commons, *File:Rani ki vav - Patan - Gujarat - DSC001.jpg*, CC BY-SA 4.0.
 
 Do not confuse this with Modhera:
 
