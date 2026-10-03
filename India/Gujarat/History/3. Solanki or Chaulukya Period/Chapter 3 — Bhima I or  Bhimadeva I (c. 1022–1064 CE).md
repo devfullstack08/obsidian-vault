@@ -44,6 +44,20 @@ Better:
 
 > **During Bhima I’s reign, Mahmud of Ghazni raided Somnath; after Mahmud withdrew, Bhima restored Chaulukya authority in Gujarat.**
 
+### The way back, and why Mahmud returned
+
+Mahmud did not stay in Gujarat. He loaded the spoil and turned toward Ghazni through Sindh.
+
+On that return, the **Jats of Sindh** attacked the column and carried off part of the gold and baggage. They were not Bhima’s army, and this was not a Solanki victory.
+
+That attack is why there is one more expedition. In **1027** Mahmud came back to India for the last time, and the target was those Jats, not Bhima and not Somnath again. The usual account says he fought them with boats on the Indus. This is normally counted as his last Indian campaign.
+
+So the chain is:
+
+> **Somnath sacked → column returns through Sindh → Jats take part of the spoil → 1027, Mahmud punishes the Jats**
+
+Bhima’s part ends when Mahmud leaves Gujarat. The 1027 raid is a Sindh story. The full campaign note is [[02. Muhammad of Ghazni( 998–1030AD)]].
+
 ---
 
 # 3. Was Somnath rebuilt?
