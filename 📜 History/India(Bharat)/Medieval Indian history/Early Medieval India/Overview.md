@@ -5,6 +5,7 @@ Revision maps, same coastline, who holds the ground and who loses it: [[Bharat i
 3. [[03. Muhammad of Ghori]]
 4. [[04. Qutb ud-Din Aibak (1206–1210)]] — the Delhi Sultanate begins. Ghori laid the base. Aibak is the first ruler.
 5. [[05. Iltutmish (1211–1236)]] — he consolidates it. Delhi becomes the capital.
+6. [[06. Razia Sultan (1236–1240)]] — his daughter. The Turkish nobles remove her in 1240.
 
 
 After **Harsha died in 647 CE**, he left **no strong successor**, so his empire broke apart. India again became divided among several regional kingdoms.
