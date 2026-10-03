@@ -2,7 +2,7 @@ Revision maps, same coastline, who holds the ground and who loses it: [[Bharat i
 
 1. Muhammad bin Qasim (commander, Sindh, 712)
 2. Mahmud of Ghazni
-3. Muhammad Ghori
+3. [[03. Muhammad of Ghori]]
 
 
 After **Harsha died in 647 CE**, he left **no strong successor**, so his empire broke apart. India again became divided among several regional kingdoms.
