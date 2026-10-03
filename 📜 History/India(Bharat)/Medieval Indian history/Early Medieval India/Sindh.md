@@ -1,11 +1,39 @@
-## Rai dynasty 
+## Sindh before the Arab conquest
 
-The Rais reigned in the **Sindh region** for a period of 144 years from c. 489 to 632 A.D.
+### Rai Dynasty — c. 489–632 CE
 
-The Rai dynasty (c. 489–632 CE) was a dynasty that ruled Sindh. All that is known about the dynasty comes from the **Chachnama**, a 13th-century **Persian work(al-kufi)** about Sindhi history whose accuracy has been questioned. Nothing particular is known about the first three kings
-1. Rai Diwaji, 
-2. Rai Sahiras I, 
-3. Rai Sahasi I. 
-4. Rai Sahiras II, is said to have ruled over a vast prosperous area, including the seaport of **Debal**.
+The Rai dynasty ruled Sindh for roughly **144 years**. Most information about it comes from the **Chachnama**, a 13th-century Persian text traditionally associated with **Ali Kufi**. Modern historians debate how reliably it preserves the history of the earlier period. [Wikipedia](https://en.wikipedia.org/wiki/Rai_dynasty?utm_source=chatgpt.com)
 
-Hinduism and Buddhism co-existed in the realm(ક્ષેત્ર) with the Rai's recorded as building a temple dedicated to **Shiva** in **Alor**
+Important Rai rulers:
+
+1. **Rai Diwaji**
+2. **Rai Sahiras I**
+3. **Rai Sahasi I**
+4. **Rai Sahiras II**
+5. **Rai Sahasi II**
+
+So you were missing **Rai Sahasi II**, who is very important because **Chach eventually succeeded him**. [Wikipedia](https://en.wikipedia.org/wiki/Rai_dynasty?utm_source=chatgpt.com)
+
+Under the Rais, **Hinduism and Buddhism co-existed** in Sindh. Important places included **Alor/Aror**, **Brahmanabad**, **Multan**, and the port of **Debal**. [Wikipedia](https://en.wikipedia.org/wiki/Rai_dynasty?utm_source=chatgpt.com)
+
+### Chach Dynasty — c. 632–712 CE
+
+This was a **Brahmin/Hindu dynasty** that followed the Rai dynasty.
+
+Important rulers:
+
+1. **Chach of Aror**
+2. **Chandar/Chandra**
+3. **Raja Dahir**
+
+**Raja Dahir was the son of Chach.**
+
+This is the key relationship to remember:
+
+**Rai Sahasi II → Chach → Raja Dahir**
+
+Then comes the Arab conquest:
+
+**Raja Dahir vs Muhammad bin Qasim**
+
+In **712 CE**, the Umayyad commander **Muhammad bin Qasim** invaded Sindh and defeated and killed **Raja Dahir**. This ended the Chach dynasty's rule over Sindh and brought much of Sindh under Umayyad control. [Wikipedia](https://en.wikipedia.org/wiki/Chach_dynasty?utm_source=chatgpt.com)

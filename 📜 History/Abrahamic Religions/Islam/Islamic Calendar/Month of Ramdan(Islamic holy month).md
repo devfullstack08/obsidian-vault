@@ -57,6 +57,8 @@ Because of this, Ramadan comes around **10 to 11 days earlier each year** in the
 | 11  | Dhul Qa’dah     |
 | 12  | Dhul Hijjah     |
 
+The full Hijri calendar — its name, its first day, every month, and the festivals — is in [[Islamic Calendar]].
+
 ---
 
 ## Why Ramadan Is Important in Islam
@@ -404,15 +406,15 @@ The purpose is spiritual preparation, repentance, and remembering the suffering 
 
 ## Ramadan and Lent Comparison
 
-| Point | Ramadan in Islam | Lent in Christianity |
-|---|---|---|
-| Religion | Islam | Christianity |
-| Duration | One lunar month | About 40 days |
-| Main Practice | Dawn-to-sunset fasting | Fasting, abstinence, prayer |
-| Connected With | Qur’an revelation | Preparation for Easter |
-| Purpose | Taqwa, self-control, repentance | Repentance, discipline, spiritual preparation |
-| Ending Festival | Eid al-Fitr | Easter |
-| Obligation | One of Five Pillars for eligible Muslims | Practice varies by denomination |
+| Point           | Ramadan in Islam                         | Lent in Christianity                          |
+| --------------- | ---------------------------------------- | --------------------------------------------- |
+| Religion        | Islam                                    | Christianity                                  |
+| Duration        | One lunar month                          | About 40 days                                 |
+| Main Practice   | Dawn-to-sunset fasting                   | Fasting, abstinence, prayer                   |
+| Connected With  | Qur’an revelation                        | Preparation for Easter                        |
+| Purpose         | Taqwa, self-control, repentance          | Repentance, discipline, spiritual preparation |
+| Ending Festival | Eid al-Fitr                              | Easter                                        |
+| Obligation      | One of Five Pillars for eligible Muslims | Practice varies by denomination               |
 
 ---
 

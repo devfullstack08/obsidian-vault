@@ -77,7 +77,9 @@ Eid = Festival or celebration
 | ------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Eid-ul-Fitr         | Festival celebrated after the month of  Ramadan fasting<br>It marks the completion of fasting. | 1st Shawwal                           |
 | Eid-ul-Adha         | Festival of Sacrifice                                                                          | 10th Dhul Hijjah                      |
-| Eid-e-Milad-un-Nabi | Birth anniversary of Prophet Muhammad                                                          | 12th Rabi-ul-Awwal (month of Ramadan) |
+| Eid-e-Milad-un-Nabi | Birth anniversary of Prophet Muhammad                                                          | 12th Rabi' al-Awwal                   |
+
+The month order, the sacred months, and the other holy days are in [[Islamic Calendar]] and [[Festivals and Holy Days]].
 
 
 
