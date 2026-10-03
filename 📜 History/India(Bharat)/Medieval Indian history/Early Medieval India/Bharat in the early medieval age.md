@@ -1,4 +1,3 @@
-# Bharat in the early medieval age
 
 Three maps. Same coastline. Read them in order. The colors are who holds the ground. Cream land is smaller rulers, and they are real. The shades are classroom guides, not surveyed borders.
 

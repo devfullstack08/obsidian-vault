@@ -1,4 +1,4 @@
-Revision maps, same coastline, who holds the ground and who loses it: [[Bharat]].
+Revision maps, same coastline, who holds the ground and who loses it: [[Bharat in the early medieval age]].
 
 1. Muhammad bin Qasim (commander, Sindh, 712)
 2. Mahmud of Ghazni

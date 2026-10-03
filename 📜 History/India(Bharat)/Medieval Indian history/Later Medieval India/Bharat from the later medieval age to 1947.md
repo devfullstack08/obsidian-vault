@@ -1,6 +1,4 @@
-# Bharat from the later medieval age to 1947
-
-Four maps. Same coastline as [[Bharat]]. Read them in order. Each one answers three questions: who came, who went, and what the previous map no longer shows.
+Four maps. Same coastline as [[Bharat in the early medieval age]]. Read them in order. Each one answers three questions: who came, who went, and what the previous map no longer shows.
 
 Shades are classroom guides, not surveyed borders. Cream land is a power the shade does not cover.
 
