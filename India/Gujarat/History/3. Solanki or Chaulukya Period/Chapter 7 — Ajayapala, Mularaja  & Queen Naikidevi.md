@@ -10,17 +10,14 @@ He is generally remembered as a ruler who continued Chaulukya authority, but the
 
 ### Quick facts
 
-|Point|Detail|
-|---|---|
-|**Ruler**|Ajayapala|
-|**Reign**|c. 1171/72–1175 CE|
-|**Predecessor**|Kumarapala|
-|**Successor**|Mularaja II|
-|**Capital**|Anahilapataka / Patan|
+| Point           | Detail                |
+| --------------- | --------------------- |
+| **Ruler**       | Ajayapala             |
+| **Reign**       | c. 1171/72–1175 CE    |
+| **Predecessor** | Kumarapala            |
+| **Successor**   | Mularaja II           |
+| **Capital**     | Anahilapataka / Patan |
 
-### Memory line
-
-> **Kumarapala → Ajayapala → Mularaja II**
 
 ---
 
@@ -39,23 +36,7 @@ played an important role as regent.
 This is the most important point of the chapter.
 
 > **Mularaja II = child ruler**  
-> **Naikidevi = regent**
-
----
-
-# 3. Who was Queen Naikidevi?
-
-Naikidevi was the mother of Mularaja II.
-
-She is remembered because Gujarat faced a major invasion during her son's minority.
-
-Her name is especially associated with the defeat of:
-
-> **Muhammad of Ghor / Muhammad Ghori**
-
-in **1178 CE**.
-
-This is one of the most famous episodes in medieval Gujarat history.
+> **Naikidevi = regent(અક્ષમતા દરમ્યાન રાજ્યનો વહીવટ કરવા નીમેલો કારભારી)**
 
 ---
 
@@ -73,32 +54,9 @@ The Chaulukya forces confronted the invading army in the region near **Mount Abu
 
 The battle is generally associated with:
 
-> **Kasahrada / Kayadara**
+> [[ The Battle of Kayadara (1178) Ghori Vs Rani Naiki Devi | The Battle of Kayadara (1178) ]]
 
 The invading Ghurid army was defeated and forced to retreat.
-
-### Core exam line
-
-> **1178 CE → Muhammad Ghori invaded Gujarat → defeated by Chaulukya forces during the reign of Mularaja II, under the regency of Queen Naikidevi.**
-
----
-
-# 5. Battle of Kasahrada / Kayadara
-
-The battlefield is referred to in sources by names such as:
-
-- **Kasahrada**
-    
-- **Kayadara**
-    
-- sometimes associated with the Mount Abu region
-    
-
-Different sources vary in the exact place-name.
-
-For exam purposes, remember:
-
-> **Battle of Kasahrada/Kayadara — 1178 CE**
 
 ---
 
@@ -287,9 +245,5 @@ Mularaja II dies
 ↓
 BHIMA II
 ```
-
-### Best memory formula
-
-> **Naikidevi = Mularaja II + 1178 + Muhammad Ghori + Gujarat victory**
 
 The next chapter is **Bhima II (c. 1178–1240 CE)** — a very long reign, invasions by the Ghurids and Delhi forces, rise of powerful ministers, and the beginning of the **Vaghela takeover**.

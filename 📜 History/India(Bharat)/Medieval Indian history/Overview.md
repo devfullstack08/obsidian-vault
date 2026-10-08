@@ -31,7 +31,7 @@ Remember the five dynasties:
 | Sayyid       | 1414–1451 |
 | Lodi         | 1451–1526 |
 
-Important rulers include **[[04. Qutb ud-Din Aibak (1206–1210)|Qutb ud-Din Aibak]]**, **[[05. Iltutmish (1211–1236)|Iltutmish]]**, **[[06. Razia Sultan (1236–1240)|Razia]]**, **[[07. Ghiyas ud-Din Balban (1266–1287)|Balban]]**, **[[08. Jalaluddin Firuz Khalji (1290–1296)|Jalaluddin Khalji]]**, **[[09. Alauddin Khalji (1296–1316)|Alauddin Khalji]]**, Muhammad bin Tughlaq, Firoz Shah Tughlaq, Sikandar Lodi, and Ibrahim Lodi.
+Important rulers include **[[04. Qutb ud-Din Aibak (1206–1210)|Qutb ud-Din Aibak]]**, **[[05. Iltutmish (1211–1236)|Iltutmish]]**, **[[06. Razia Sultan (1236–1240)|Razia]]**, **[[07. Ghiyas ud-Din Balban (1266–1287)|Balban]]**, **[[08. Jalaluddin Firuz Khalji (1290–1296)|Jalaluddin Khalji]]**, **[[09. Alauddin Khalji (1296–1316)|Alauddin Khalji]]**, **[[10. Ghiyas ud-Din Tughlaq (1320–1325)|Ghiyas ud-Din Tughlaq]]**, **[[11. Muhammad bin Tughlaq (1325–1351)|Muhammad bin Tughlaq]]**, Firoz Shah Tughlaq, Sikandar Lodi, and Ibrahim Lodi.
 
 **4. South Indian Kingdoms**  
 Especially important are the **Vijayanagara Empire** and **Bahmani Sultanate**. **Krishnadevaraya** of Vijayanagara is particularly important for competitive exams.
