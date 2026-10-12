@@ -10,14 +10,14 @@ This contributed to:
 --- 
 ### Political Changes
 
-The political system gradually changed from smaller tribal chiefdoms to larger kingdoms.
+The political system gradually changed from smaller tribal chiefdoms to larger kingdoms such as the **Kurus** and **Panchalas**.
 The power of the **Rajan** increased.
-Kingship became more hereditary and powerful.
+Kingship became more **hereditary** and powerful.
 Large royal rituals also developed, such as:
 
-Rajasuya - A royal consecration ceremony.
-Ashvamedha - Horse sacrifice associated with royal power and sovereignty.
-Vajapeya - Another important royal ritual connected with prestige and authority.
+**Rajasuya** - A royal consecration ceremony.
+**Ashvamedha** - Horse sacrifice associated with royal power and sovereignty.
+**Vajapeya** - Another important royal ritual connected with prestige and authority.
 
 ---
 ### Social Changes
@@ -76,6 +76,17 @@ More emphasis on:
 - permanent settlements
 
 Barley was important early on, while rice became increasingly significant in the eastern regions.
+
+---
+### Religious changes
+
+Elaborate sacrifices such as the **Ashvamedha** and **Rajasuya** acquired greater political significance. **Prajapati**, **Vishnu** and **Rudra** became increasingly prominent in Vedic literature.
+
+----
+
+### Philosophical development:
+
+The early Upanishads began exploring questions about existence, ultimate reality, the self, karma and liberation. These developments helped shape later Indian philosophical traditions.
 
 ---
 ### Literature of the Vedic Period
@@ -153,7 +164,6 @@ The common list of **18 Upa Puranas** is:
 16. Devi Bhagavata Purana
 17. Ganesha Purana
 18. Hamsa Purana
-
 
 Later Vedic thought increasingly focused on ideas such as:
 

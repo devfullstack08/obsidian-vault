@@ -11,6 +11,8 @@ Revision maps, same coastline, who holds the ground and who loses it: [[Bharat i
 9. [[09. Alauddin Khalji (1296–1316)]] — the Khalji reign questions describe. The south pays tribute. Delhi keeps the government.
 10. [[10. Ghiyas ud-Din Tughlaq (1320–1325)]] — Ghazi Malik takes Delhi in 1320. Dies at Afghanpur in 1325.
 11. [[11. Muhammad bin Tughlaq (1325–1351)]] — Daulatabad, the token currency, the Doab, and the break-up of the south. Dies at Thatta in 1351.
+12. [[12. Firoz Shah Tughlaq (1351–1388)]] — hereditary iqta, four taxes, jizya on Brahmins, canals. Dies in 1388.
+13. [[13. Timur and the end of the Tughlaqs (1398)]] — Delhi is sacked in 1398. Khizr Khan begins the Sayyids in 1414.
 
 
 After **Harsha died in 647 CE**, he left **no strong successor**, so his empire broke apart. India again became divided among several regional kingdoms.
