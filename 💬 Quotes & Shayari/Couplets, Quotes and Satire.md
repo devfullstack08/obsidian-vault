@@ -97,3 +97,23 @@ This note compiles all kinds of interesting couplets, poetry, political/social s
 * **Meaning & Context:**
   This is a famous patriotic poem celebrating courage, strength, and national pride. The first part inspires the reader to summon inner strength, referencing the legendary warrior king of Mewar, Maharana Pratap (Rana). It went viral globally when Indian athlete Neeraj Chopra won the Olympic Gold in Javelin Throw. The second part expresses absolute conviction in India's victory (with "Bharat" written on both sides of the coin) and advocates for taking a firm stance against hostile neighbors.
 
+---
+
+## 5. On a Servant's Life
+
+### Original & Transliteration:
+* **Hindi:**
+  दास तू शर्मा,
+  दास का जीवन कहाँ अपना।
+  यदि वो चाहे तो जीना,
+  अन्यथा मरण।
+* **Transliterated:**
+  *"Das tu sharma, das ka jivan kahan apna. Yadi vo chahe to jeena, anyatha maran."*
+  *(As heard: "Das tu sharma das ka jivan kaha apna udi vo chahe to jina unytha maran")*
+
+* **Author:** Not recorded.
+* **English Translation:**
+  *"Servant, feel the shame of it: a servant's life is not his own. If the master wishes, he lives; otherwise, it is death."*
+* **Meaning:**
+  A **das** does not own his life. Living and dying sit with the one he serves. The first line cuts the pretence that a dependent life is still his to direct. Read one way, the master is a king. Read the other way, the master is God, and the servant is the soul.
+

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5af34553daae82cb",
+        "id": "1b22540446c44c71",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3261b39208ab3e",
+            "id": "da1bf2fe24c6be4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/1. Slave Dynasty(1206)/06. Razia Sultan (1236–1240).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06. Razia Sultan (1236–1240)"
             }
           }
         ]
@@ -212,14 +216,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc3261b39208ab3e",
+  "active": "da1bf2fe24c6be4a",
   "lastOpenFiles": [
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/1. Slave Dynasty(1206)/06. Razia Sultan (1236–1240).md",
     "🔬 Science & Technology/Bright vs Luminous.md",
+    "📜 History/India(Bharat)/Ancient Indian History/Vedic Period or Age/2. Why - Vedic Age.md",
+    "My Self/What next.md",
     "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/3. Tughlaq Dynasty(1320-1414)/11. Muhammad bin Tughlaq (1325–1351).md",
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/3. Tughlaq Dynasty(1320-1414)/12. Firoz Shah Tughlaq (1351–1388).md",
-    "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/3. Tughlaq Dynasty(1320-1414)/13. Timur and the end of the Tughlaqs (1398).md",
     "📜 History/India(Bharat)/Medieval Indian history/Early Medieval India/2. Delhi Sultan Period(1206-1526AD)/3. Tughlaq Dynasty(1320-1414)/10. Ghiyas ud-Din Tughlaq (1320–1325).md",
+    "📜 History/India(Bharat)/Ancient Indian History/Vedic Period or Age/2. Why is it called “Vedic”?.md",
     "📜 History/India(Bharat)/Ancient Indian History/Vedic Period or Age/3. Early Vedic Period/Early Vedic Period(1500–1000 BCE).md",
     "💬 Quotes & Shayari/Couplets, Quotes and Satire.md",
     "📜 History/Syallbus.md",
