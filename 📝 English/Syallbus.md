@@ -80,3 +80,8 @@ word exactly =  the answer becomes almost instant:
 10. 
 
 Build a very precise vocabulary, not just a very large vocabulary.
+
+
+	
+Bestie (American Informal)
+Fleer (Your not able to do that)

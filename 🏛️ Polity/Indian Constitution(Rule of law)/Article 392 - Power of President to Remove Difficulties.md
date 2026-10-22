@@ -1,11 +1,3 @@
----
-subject: Polity
-part: Part XXI (Temporary, Transitional and Special Provisions)
-article: Article 392
-status: draft
----
-# Article 392: Power of the President to Remove Difficulties
-
 Article 392 is the final article of **Part XXI** of the Constitution of India, which deals with "Temporary, Transitional and Special Provisions."
 
 ---

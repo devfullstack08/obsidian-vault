@@ -1,11 +1,3 @@
----
-subject: Philosophy
-paper: Paper 1 - Indian Philosophy
-topic: Charvaka / Lokayata
-status: draft
----
-# Charvaka Philosophy
-
 Charvaka, also called Lokayata, is the materialist and heterodox school of Indian philosophy. It rejects the authority of the Vedas, God, soul, karma, rebirth, heaven, hell, and moksha. It accepts the **material world** as the only reality and sense perception as the main valid source of knowledge.
 
 ## Time Period and Historical Origin
@@ -86,7 +78,7 @@ Common example:
 
 Just as intoxication(નશો) arises from the combination of ingredients in wine, consciousness arises from the combination of material elements in the body.
 
-This view is called dehatmavada: the body itself is the self.
+This view is called **dehatmavada**: the body itself is the self.
 
 ## Soul
 
@@ -122,16 +114,14 @@ According to Charvaka:
 
 ## Ethics
 
-Charvaka ethics is usually described as hedonism.
+Charvaka ethics is usually described as **hedonism**.
 
 Its basic idea:
-
 Pleasure is the natural aim of life, and pain should be avoided.
 
 However, it should not be understood only as blind enjoyment. A careful reading suggests practical hedonism: one should enjoy life, but also consider visible consequences.
 
 Famous line often associated with Charvaka:
-
 "As long as you live, live happily."
 
 Exam point: This line is quoted by opponents of Charvaka, so use it carefully.
@@ -151,17 +141,14 @@ This criticism made Charvaka important as a rational(તર્કસંગત) a
 
 ## Charvaka as a Heterodox(ખાસ કરીને ધર્મસંબંધી-માન્યતાથી વિપરીત માન્યતા કે મંતવ્ય ધરાવનાર) School
 
-Charvaka is called nastika because it rejects the authority of the Vedas.
+Charvaka is called **nastika** because it rejects the authority of the Vedas.
 
 Other nastika schools:
-
 - Buddhism
 - Jainism
 
 Difference:
-
 Buddhism and Jainism reject Vedic authority but accept karma, rebirth, and liberation. Charvaka rejects all these ideas.
-
 ## Importance of Charvaka
 
 Charvaka is important because:

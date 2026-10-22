@@ -34,13 +34,14 @@ Rulers / warriors
 
 Vaishya
 ↓
-Farmers / traders / producers
+Farmers / **traders** / producers
 
 Shudra
 ↓
-Service and labour groups
+**Service** and labour groups
 
 However, later caste or **jati** society developed over a much longer period, so it is not correct to assume that the later complex caste system already existed fully in the early Vedic age.
+
 
 ----
 ### Position of Women
