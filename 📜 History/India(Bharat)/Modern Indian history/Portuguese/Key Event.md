@@ -6,7 +6,7 @@
 - 1505 - **Francisco de Almeida** become the first Portuguese viceroy/governor in India.
 - 1510 - **Alfonso de Albuquerque** captured Goa, which become the main Portuguese base in India.
 
-
+![[vasco-da-gama’s-route-to-india.png]]
 ### Purpose 
 
 | Period              | Main Purpose                         | What happened                                                                                                                                           |

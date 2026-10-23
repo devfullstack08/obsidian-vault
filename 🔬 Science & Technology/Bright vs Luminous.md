@@ -1,5 +1,5 @@
 
-| Feature    | Bright                                  | Luminous                             |
+| Feature    | Bright                                  | Luminous(illuminated)                |
 | ---------- | --------------------------------------- | ------------------------------------ |
 | Meaning    | Giving off or reflecting a lot of light | Producing or emitting light; glowing |
 | Main focus | Intensity of light                      | Emission of light                    |
