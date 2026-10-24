@@ -55,7 +55,7 @@ Babur defeated **Ibrahim Lodi in the First Battle of Panipat in 1526**, beginnin
 Between Humayun's two periods of rule, **Sher Shah Suri** ruled much of northern India. He is important for administration, roads and currency reforms.
 
 **8. Maratha rise**  
-**Chhatrapati Shivaji Maharaj** established a powerful Maratha state in the 17th century. After him, the Marathas and later the **Peshwas** became major political powers.
+**Chhatrapati Shivaji Maharaj** established a powerful Maratha state in the 17th century. After him, the Marathas and later the **Peshwas** became major political powers. The chapter notes are in [[00. Maratha Index]].
 
 Then comes the transition to **Modern Indian History**, where European trading companies—Portuguese, Dutch, English and French—became increasingly important.
 
