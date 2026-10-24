@@ -6,3 +6,5 @@ When you're ready, delete this note and make the vault your own.
 
 
 2019
+
+Indian map = https://www.youtube.com/watch?v=472CKRjHcBI
