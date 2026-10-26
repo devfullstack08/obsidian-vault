@@ -54,13 +54,13 @@
 
 Because **senior** already has a comparative meaning: **higher in age, position, rank, or experience**.
 
-| Word | Correct Preposition |
-|---|---|
-| senior | to |
-| junior | to |
-| superior | to |
-| inferior | to |
-| prior | to |
+| Word     | Correct Preposition |
+| -------- | ------------------- |
+| senior   | to                  |
+| junior   | to                  |
+| superior | to                  |
+| inferior | to                  |
+| prior    | to                  |
 
 | Incorrect                               | Correct                               |
 | --------------------------------------- | ------------------------------------- |
@@ -141,6 +141,7 @@ Easy memory:
 | from | (દૂર રાખવા માંગતા હોય ત્યારે) -> keep it away -> then there it must use |
 |      |                                                                         |
 
+----
 Use **since** with a **starting point in time**.
 (since = from when)
 - since 2019
@@ -150,3 +151,7 @@ I have lived here **since I got this job**. → **since = conjunction** because 
 
 Use **for** with a **duration**: for 5 years, for 2 hours, for a week.
 (for = how long)
+
+----
+Preposition + action = V-ing. But infinitive to + action = V1.
+preposition like in, at, of, for, without, after, before, to
