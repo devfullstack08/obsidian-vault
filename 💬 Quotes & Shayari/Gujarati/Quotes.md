@@ -9,3 +9,9 @@
 - કાયદો માણસને ગુનાનો દંડ આપી શકે છે, પરંતુ માણસાઈ જ તેને પોતાના કર્મની નૈતિક જવાબદારી સમજાવવાનો માર્ગ બતાવી શકે છે.**
 (માણસાઈના દીવા(1945), ઝવેરચંદ મેઘાણી)
 
+
+“પર્વતોને ખસેડી શકે એવી જો કોઈ શક્તિ હોય, તો તે મનુષ્યની પોતાની શક્તિમાં રહેલી શ્રદ્ધા છે.”
+— મેરી વોન એબ્નર-એશેનબાખ (Marie von Ebner-Eschenbach)
+> “If there is a faith which can move mountains, then it is a faith in one's own strength.”
+
+— Marie von Ebner-Eschenbach, Austrian writer (1830–1916).
