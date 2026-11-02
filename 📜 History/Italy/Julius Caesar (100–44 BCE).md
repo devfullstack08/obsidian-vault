@@ -2,7 +2,6 @@
 Rome is the capital of Italy.
 Rome = City, Italy = Country, Europe = Continent.
 
-
 **Full Name**: Gaius Julius Caesar
 **Born:** 12/13 July 100 BCE, Rome
 **Died:** 15 March 44 BCE
