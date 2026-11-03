@@ -1000,3 +1000,18 @@ Better:
 #### One-Line Case Summary
 
 > **Suzanne Marie Sevakis was abducted as a child by Franklin Delano Floyd, raised under false identities, subjected to years of abuse and exploitation, later married by her abductor, and died under suspicious circumstances in Oklahoma in 1990. Her true identity remained unknown until 2014.**
+
+### 6. Epstein file (Conspiracy theorie)
+
+**Jeffery Epstein**, Ghislaine Maxwell is the ultimate story of the abuse of power and money.
+
+Zorro ranch, Stanley, New Mexico
+
+West Palm Beach ,  Florida (bought that mansion in 1990) -> he had tons of money -> give the massage -> intercourse -> created a sexual pyramid scheme  
+
+U.S Virgin Islandes
+557 millian dollar networth
+
+victim: He is very small piece in a huge network.
+victim: He escapted justice.
+
