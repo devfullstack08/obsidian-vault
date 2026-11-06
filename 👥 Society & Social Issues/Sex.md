@@ -16,8 +16,6 @@ A form of sexual behavior in which gratification is strongly linked to a particu
 2. Belly fetish
 3. breast fetishism(form of partialism.)
 
-
-
 ## W2W
 
 1. oral sex

@@ -1,14 +1,16 @@
 
 | Word                                | Type | Meaning                                                                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Laud                                |      | To praise highly                                                                                                                                                                                                                                                                                                                                                        |
-| Extol                               |      | To praise enthusiastically                                                                                                                                                                                                                                                                                                                                              |
 | Eulogize<br>gize                    |      | To praise highly, especially in a formal speech                                                                                                                                                                                                                                                                                                                         |
 | commend                             |      | To praise formally, or to recommend                                                                                                                                                                                                                                                                                                                                     |
 | Accolade(વખાણ)                      |      | An award or privilege granted as a special honor or as an acknowledgment of merit.<br>- e.g the ski resort achieved the ultimate accolade of playing host to the Winter Olympics.<br>- honor, recognition, privilege, award, gift, title, prize, <br>- laurel**s** (ખ્યાતિ) / laurel (સાહિત્ય)<br>- bays (Bay of Bengal)<br>- palm(હથેળી) ?<br>applauses = clap = તાળીઓ |
 | Exalt(ઉન્નત કરવું / વખાણ કરવું) alt | Verb | Raise someone high in rank, power, or praise.<br>- They **exalted** him as a hero.<br>- Noun: **exaltation**. Adj: **exalted** = high in rank or feeling.<br>- Syn: praise, glorify, elevate, honour.<br>- Exam trap: **exalt** = praise / raise. **exult** = rejoice, feel great joy.                                                                                  |
-|                                     |      |                                                                                                                                                                                                                                                                                                                                                                         |
-|                                     |      |                                                                                                                                                                                                                                                                                                                                                                         |
+
+
+----
+1.Extol (ex = out. tol = tall) - ફુલાવવો (To inflate) -To praise enthusiastically
+1.Laud = public context, praise
+
 
 ----
 1.humiliation (અપમાન , માનહાનિ)
@@ -26,3 +28,11 @@
 - awkwardness, 
 - ludicrous(ludicrousness),risibility -  હાસ્યજનક
 - ridiculousness, preposterousness, absurdness, farcicality(હાસ્ય), mock
+
+---
+
+ઉપહાસ
+
+**Derision**, mockery, **ridicule**, jeer
+Sneers, scoffing
+Jibing, taunts

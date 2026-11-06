@@ -1,0 +1,1 @@
+Rabbi = A religious leader in Judaism.

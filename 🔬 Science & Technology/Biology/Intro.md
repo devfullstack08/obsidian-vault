@@ -1,0 +1,1 @@
+Biology(જીવવિજ્ઞાન) = The study of living organisms 
