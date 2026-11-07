@@ -19,3 +19,14 @@
 - 1943 — Japan announced transfer of Andaman and Nicobar Islands to Azad Hnd
 - 1962 — UN General Assembly adopted resolution against apartheid 
 - International Day for Preventing the Exploitation of the Environment in War and Armed Conflict.
+
+7 November:
+- 1858 —Birth of Bipin Chandra Pal
+- 1862 — Death of Bahadur Shah Zafar
+- 1867 —Birth of Marie Curie
+- 1875 — Traditional composition date of Vande Mataram
+- Birth of [[C. V. Raman]]
+- Russian October Revolution
+- National Cancer Awareness Day — India
+- International Day of Medical Physics
+- Scheduled conclusion of the 150-year Vande Mataram commemoration
