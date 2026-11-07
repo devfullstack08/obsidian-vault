@@ -11,3 +11,11 @@
 - 2013 — Launch of Mangalyaan
 - 1988 — Birth of Virat Kohli
 - World Tsunami Awareness Day
+
+6 November:
+- 1763 — British captured Patna from Mir Qasim's forces 
+- 1860 — Abraham Lincoln elected US President
+- 1913 — Gandhi's Great March in South Africa
+- 1943 — Japan announced transfer of Andaman and Nicobar Islands to Azad Hnd
+- 1962 — UN General Assembly adopted resolution against apartheid 
+- International Day for Preventing the Exploitation of the Environment in War and Armed Conflict.
