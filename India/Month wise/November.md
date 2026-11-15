@@ -30,3 +30,67 @@
 - National Cancer Awareness Day — India
 - International Day of Medical Physics
 - Scheduled conclusion of the 150-year Vande Mataram commemoration
+
+8 November:
+- 1895 — Discovery of X-rays
+- 1927 —- Birth of L. K. Advani
+- 2016 — Demonetisation (નોટબંધી)
+- International Day of Radiology
+
+9 November: (Day of Fate or Day of Destiny)
+- 1947 — India takes over Junagadh administration
+- 2000 — Formation of Uttarakhand(27th state), It was renamed Uttarakhand on 1 January 2007.
+- 2019 — Ayodhya Supreme Court judgment
+- National Legal Services Day (રાષ્ટ્રીય કાનૂની સેવા દિવસ)
+	- Indian Polity:
+	- Article 39A — Equal justice and free legal aid
+	- NALSA — National Legal Services Authority
+	- Lok Adalats — Amicable settlement of disputes
+
+10 November:
+- **1659:** Battle of Pratapgad — Shivaji Maharaj and Afzal Khan.
+- **1848:** Birth of Surendranath Banerjee.
+- **1908:** Execution of revolutionary Kanailal Dutta(Alipore Bomb Case).
+- World Science Day for Peace and Development.
+
+11 November:
+- 1888 — Birth of [[Maulana Abul Kalam Azad]] (India's first Education Minister from 1947 to 1958) -> National Education Day (Declared: 2008, by the Government of India)
+
+12 November:
+- 1896 — Birth of Dr. Salim Ali (Birdman of India - The Book of Indian Birds)
+- 1930 — First Round Table Conference begins
+- 1947 — Mahatma Gandhi's historic radio address (Public Service Broadcasting Day — India)
+- 1969 — Historic split in the Indian National Congress (Congress: O,R)
+- World Pneumonia Day — International
+
+13 November:
+- 1780 — Birth of Maharaja Ranjit Singh
+- 1909 — Gandhi begins writing  **Hind Swaraj**
+- 1971 — NASA's Mariner 9 enters Mars orbit (first spacecraft to orbit another planet, reaches - 14 November)
+- 2014 — Indian cricketer Rohit Sharma scored 264 runs from 173 balls against Sri Lanka at Eden Gardens, Kolkata.
+	- It became the highest individual score in men's One Day International cricket and remains a landmark achievement.
+	- He also became the first batsman to score two ODI double-centuries.
+- World Kindness Day (વિશ્વ દયા દિવસ)
+
+14 November:
+- 1889 — Birth of [[Jawaharlal Nehru]] (Children's Day)
+	- The observance emphasises children's rights, education, health, protection and overall welfare.
+	- Nehru's association with children's education and development is the principal reason his birthday is commemorated as Children's Day.
+ - World Children's Day = 20 November
+ - World Diabetes Day
+ - 1922 — BBC begins daily radio broadcasting
+
+15 November: 
+- 1875 — Birth of Birsa Munda, the great tribal freedom fighter.
+	- Birsa Munda's Ulgulan Movement (1899–1900)
+	- Died in Ranchi jail on 9 June 1900, aged 24.
+	- Janjatiya Gaurav Divas (જનજાતીય ગૌરવ દિવસ), Declared: 2021, Official notification: 12 November, Annual observance: 15 November.
+- 1920 — First Assembly of the League of Nations (After world war I, Geneva, Switzerland, with representatives from 41 states)
+- 1949 — Execution of Gandhi's assassins(Nathuram Godse)
+	- Nathuram Godse and Narayan Apte were executed at **Ambala Central Jail** following their convictions in the conspiracy to assassinate Mahatma Gandhi.
+	- **Gandhi assassinated:** 30 January 1948
+	- **Death sentences pronounced:** 10 February 1949
+	- **Executions:** 15 November 1949
+- 1971 —Intel introduces the 4004 microprocessor.
+- 2000 — Formation of Jharkhand, India's 28th state(Bihar Reorganisation Act, 2000) 
+- 2026 — World Prematurity Day (The 2026 slogan is Small babies, big potential. Invest in follow-up care to protect their future).

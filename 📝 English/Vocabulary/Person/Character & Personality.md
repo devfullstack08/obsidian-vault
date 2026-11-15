@@ -98,6 +98,7 @@ double-dealer, double-crosser
 confidence
 Impostor
 
+Cozen = છેતરવું, ઠગવું, ફસાવવા માટે ખુશામત કરવી (trick somebody)
 Deceiver =  ઠગ, ધુતારો છેતરનાર
 Dissembler = ઢોંગી, કપટી, ધૂર્ત વ્યક્તિ, દંભી વ્યક્તિ 
 Humbug = ઢોંગ, પાખંડ, બનાવવું કે છેતરવું, બનાવટ કે છેતરપિંડી

@@ -26,8 +26,6 @@
 | On / Upon            | On = Common uses<br>Upon = More formal or literrary                                         | The book is on the table.<br>Upon arrival, he was greeted.                 |
 |                      |                                                                                             |                                                                            |
 
-
-
 | Incorrect expression | Correct expression |
 | -------------------- | ------------------ |
 | good in              | good at            |
@@ -43,7 +41,7 @@
 | comply to            | comply with        |
 | capable to           | capable of         |
 | responsible of       | responsible for    |
-|                      |                    |
+
 #### Example
 
 > She is good **at** English.
@@ -155,3 +153,13 @@ Use **for** with a **duration**: for 5 years, for 2 hours, for a week.
 ----
 Preposition + action = V-ing. But infinitive to + action = V1.
 preposition like in, at, of, for, without, after, before, to
+
+Able to + V1
+
+noun / gerund (-ing form)
+capable to -> capable/Incapable of
+succeed in
+object to
+be used to
+
+prevent + object + from + gerund (-ing)
