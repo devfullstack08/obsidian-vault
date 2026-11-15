@@ -6,3 +6,4 @@ Per – spi – ca – cious(સમજદાર, તીવ્ર દ્રષ્
 magna-ni-mous (ઉદાર)
 
 peculiar - (વિચિત્ર, વિશિષ્ટ)
+w
