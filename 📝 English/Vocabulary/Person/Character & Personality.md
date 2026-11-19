@@ -103,6 +103,7 @@ Rogue = ઠગ, લુચ્ચો, બદમાશ
 swindler = ઠગ
 trickster = ઠગ
 crook = ઠગ, ગુનેગાર
+facade = false outer appearance  
 
 ---
 sycophant = ચાપલૂસ

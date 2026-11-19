@@ -22,3 +22,8 @@ A form of sexual behavior in which gratification is strongly linked to a particu
 2. manual sex (fingering)
 3. tribadism
 4. Sex toys
+
+
+
+Dalliance (પ્રણયનાં નખરાં) : a casual romantic or sexual relationship.
+Arouse(ઉત્તેજિત)
