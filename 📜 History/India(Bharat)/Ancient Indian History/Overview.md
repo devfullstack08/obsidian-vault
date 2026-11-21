@@ -5,3 +5,5 @@
 - **Post-Mauryan period** → c. **200 BCE–300 CE**
 - **Gupta Empire** → c. **320–550 CE**
 - **Post-Gupta / Harsha period** → c. **550–700 CE**
+
+[[3. Ancient and Medieval Indian Texts]]

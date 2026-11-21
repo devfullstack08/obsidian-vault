@@ -125,3 +125,22 @@ The southwest monsoon supplies most of India's annual rainfall, but that rain ca
 **Common process:** air rises, cools and forms clouds; sufficiently large drops fall as rain.
 
 **Common mistakes:** Mountains do not create water; leeward areas are not always rainless; not every cloud produces rain; not every cyclone has a front; and monsoon rain is not exclusively orographic.
+
+------------
+
+**Convectional Rainfall**
+
+West Bengal → Kalbaisakhi  
+Kerala → Mango Showers
+
+**Orographic Rainfall**
+
+Western Ghats → Heavy windward rainfall  
+Meghalaya → Khasi Hills, Mawsynram and Sohra  
+Deccan interior → Rain-shadow influence
+
+**Cyclonic / Frontal Rainfall**
+
+Bay of Bengal → Tropical cyclones and depressions  
+Northwest India → Western Disturbances  
+Tamil Nadu → Post-monsoon cyclonic rainfall

@@ -1,3 +1,10 @@
+Full name: Chandrasekhara Venkata Raman    
+Born: 7 November 1888
+Died: 21 November 1970    
+Nobel Prize in Physics: **1930**
+Discovery: Raman Effect    
+National Science Day: **28 February**, marking the announcement of the Raman Effect in 1928.
+
 Achievements:
 - 1928: Discovered the Raman Effect.
 - 1930: First Asian to win the Nobel Prize in a scientific field.
@@ -81,6 +88,5 @@ His importance goes beyond his Nobel Prize.
 **Second, he strengthened India's scientific institutions**. He helped establish the Indian Academy of Sciences in 1934 and founded the Raman Research Institute in Bengaluru in 1948.
 
 **Third, he inspired generations of Indian scientists**. His work became a symbol of scientific curiosity, independent research and India's growing scientific identity.
-
 
 can c.v roman is National professor award is an Indian award given to scholars who have made exceptional contribution in their fields .
