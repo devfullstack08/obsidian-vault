@@ -2,18 +2,18 @@ Hills are elevated landforms that generally have lower elevations and gentler sl
 
 ### **A. Northern and Northeastern India**
 
-|Hill / Range|State or region|Important fact|
-|---|---|---|
-|Shiwalik Hills|Himalayan foothills|Outer Himalayan range|
-|Pir Panjal|Jammu & Kashmir, Himachal Pradesh|Part of the Lesser Himalayas|
-|Dhauladhar|Himachal Pradesh|Important Lesser Himalayan range|
-|Garo Hills|Meghalaya|Western Meghalaya Plateau|
-|Khasi Hills|Meghalaya|Sohra and Mawsynram rainfall region|
-|Jaintia Hills|Meghalaya|Eastern Meghalaya Plateau|
-|Naga Hills|Nagaland–Myanmar region|Part of the eastern hill system|
-|Mizo / Lushai Hills|Mizoram|North–south trending hills|
-|Patkai Hills|Arunachal Pradesh, Nagaland–Myanmar region|Part of Purvachal|
-|Karbi Anglong Hills|Assam|Extension of northeastern plateau|
+| Hill / Range        | State or region                            | Important fact                      |
+| ------------------- | ------------------------------------------ | ----------------------------------- |
+| Shiwalik Hills      | Himalayan foothills                        | Outer Himalayan range               |
+| Pir Panjal          | Jammu & Kashmir, Himachal Pradesh          | Part of the Lesser Himalayas        |
+| Dhauladhar          | Himachal Pradesh                           | Important Lesser Himalayan range    |
+| Garo Hills          | Meghalaya                                  | Western Meghalaya Plateau           |
+| Khasi Hills         | Meghalaya                                  | Sohra and Mawsynram rainfall region |
+| Jaintia Hills       | Meghalaya                                  | Eastern Meghalaya Plateau           |
+| Naga Hills          | Nagaland–Myanmar region                    | Part of the eastern hill system     |
+| Mizo / Lushai Hills | Mizoram                                    | North–south trending hills          |
+| Patkai Hills        | Arunachal Pradesh, Nagaland–Myanmar region | Part of Purvachal                   |
+| Karbi Anglong Hills | Assam                                      | Extension of northeastern plateau   |
 
 ### **Western and Central India**
 
